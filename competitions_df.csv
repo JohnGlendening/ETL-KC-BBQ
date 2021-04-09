@@ -1,0 +1,4633 @@
+id,kcbs_competition_id,location,start_date
+1,614,"Felda, FL",2007-01-01
+2,621,"North Kansas City, MO",2007-03-09
+3,624,"Enid, OK",2007-04-13
+4,625,"Osage City, KS",2007-04-13
+5,626,"Los Angeles, CA",2007-04-13
+6,627,"Bentonville, AR",2007-04-20
+7,628,"Springfield, MO",2007-04-20
+8,629,"Marshall, MO",2007-04-20
+9,630,"Manhattan, KS",2007-04-20
+10,631,"Kings Mountain, NC",2007-04-20
+11,632,"Sugar Creek, MO",2007-04-27
+12,633,"Warsaw, MO",2007-04-27
+13,634,"Lansing, KS",2007-05-04
+14,635,"Bixby, OK",2007-05-11
+15,636,"Pulaski, TN",2007-05-11
+16,637,"Lumberton, NC",2007-11-09
+17,638,"Claremore, OK",2007-05-18
+18,639,"Chesapeake, VA",2007-05-18
+19,640,"Sevierville, TN",2007-05-18
+20,641,"Kansas City, KS",2007-05-25
+21,642,"Lincolnton, NC",2007-06-01
+22,643,"Raytown, MO",2007-06-08
+23,644,"Mt. Vernon, IL",2007-06-08
+24,645,"State Center, IA",2007-06-15
+25,647,"Elk Grove, IL",2007-06-15
+26,648,"Frisco, CO",2007-06-15
+27,649,"Smyrna, TN",2007-06-16
+28,651,"Lawrenceburg, TN",2007-06-22
+29,652,"Mountain Grove, MO",2007-06-22
+30,653,"Lenexa, KS",2007-06-22
+31,654,"Murray, KY",2007-06-29
+32,655,"Lake Placid, NY",2007-06-29
+33,656,"Durango, CO",2007-07-03
+34,658,"Shannon, IL",2007-07-13
+35,659,"Bellevue, NE",2007-07-20
+36,660,"Burlington, KS",2007-07-20
+37,661,"Laurie, MO",2007-08-03
+38,662,"Axtell, KS",2007-08-10
+39,663,"Highland, NY",2007-08-18
+40,664,"Florence, KS",2007-09-02
+41,666,"Pine Bluff, AR",2007-09-14
+42,667,"Fayetteville, AR",2007-10-05
+43,668,"Lenoir, TN",2007-10-12
+44,669,"Nelsonville, OH",2007-10-19
+45,678,"Platte City, MO",2007-05-11
+46,680,"Ashland, MS",2007-05-04
+47,681,"Warrensburg, MO",2007-07-13
+48,682,"Greenwood, SC",2007-07-13
+49,683,"Cameron, MO",2007-06-29
+50,684,"Excelsior Springs, MO",2007-08-17
+51,686,"Emporia, KS",2007-08-17
+52,688,"Mason City, IA",2007-07-27
+53,696,"Des Moines, IA",2007-06-07
+54,697,"Kansas City, KS",2007-05-18
+55,702,"Salisbury, MD",2007-04-20
+56,703,"Tryon, NC",2007-06-08
+57,704,"Princeton, WI",2007-08-24
+58,705,"Winfield, KS",2007-08-31
+59,713,"Winchester, TN",2007-04-20
+60,714,"Rio Rancho, NM",2007-03-30
+61,715,"Lakeland, FL",2007-01-25
+62,717,"Mobile, AL",2007-03-08
+63,718,"Emporia, KS",2007-08-10
+64,719,"McLouth, KS",2007-06-01
+65,720,"Lyons, KS",2007-05-04
+66,721,"Waterloo, IA",2007-07-20
+67,722,"Mears, MI",2007-09-14
+68,724,"Columbus, MS",2007-04-13
+69,725,"Norfolk, VA",2007-04-27
+70,726,"Columbia, MO",2007-07-27
+71,727,"Atchison, KS",2007-09-14
+72,728,"Danville, VA",2007-05-18
+73,729,"Modesto, CA",2007-05-04
+74,730,"Park City, KS",2007-09-14
+75,748,"Landover, MD",2007-05-18
+76,749,"Hammond, LA",2007-03-30
+77,750,"Boulder City, NV",2007-05-25
+78,751,"Marysville, KS",2007-06-01
+79,752,"Cartersville, GA",2007-06-01
+80,753,"Haleyville, AL",2007-06-08
+81,754,"Nashua, NH",2007-06-22
+82,755,"Albertville, AL",2007-06-29
+83,756,"Anthony, KS",2007-07-20
+84,757,"Lamar, CO",2007-08-03
+85,758,"Pacific, MO",2007-08-17
+86,760,"Madison, IN",2007-08-17
+87,763,"Menomonee Falls, WI",2007-09-28
+88,764,"Texarkana, AR",2007-10-12
+89,767,"Sikeston, MO",2007-04-13
+90,768,"Columbia, MO",2007-05-11
+91,772,"Watertown, MN",2007-07-20
+92,773,"Huntsville, AL",2007-05-03
+93,774,"Sallisaw, OK",2007-05-04
+94,775,"Malden, MO",2007-05-11
+95,776,"Sylvan Grove, KS",2007-06-15
+96,777,"Marshalltown, IA",2007-06-22
+97,778,"Great Bend, KS",2007-07-12
+98,779,"Grand Rapids, MI",2007-07-13
+99,780,"Glasgow, MO",2007-07-20
+100,781,"Windsor, VT",2007-07-28
+101,782,"Waucoma, IA",2007-08-03
+102,783,"Dillon, CO",2007-08-10
+103,784,"Birmingham, AL",2007-08-24
+104,785,"Sparta, WI",2007-09-07
+105,786,"Racine, WI",2007-09-21
+106,787,"Covington, GA",2007-10-12
+107,788,"Columbia, MO",2007-10-12
+108,789,"Iron Mountain, MI",2007-07-20
+109,790,"Canton, GA",2007-10-19
+110,796,"Fairbanks, IN",2007-06-01
+111,797,"Kansas City, MO",2007-04-20
+112,798,"Stillwater, OK",2007-03-30
+113,799,"Augusta, KS",2007-06-01
+114,800,"North Wildwood, NJ",2007-07-13
+115,801,"Harvard, MA",2007-09-15
+116,802,"Jefferson City, MO",2007-04-13
+117,803,"Lebanon, TN",2007-08-17
+118,804,"Stevensville, MD",2007-07-27
+119,805,"Memphis, TN",2007-06-08
+120,806,"Gastonia, NC",2007-09-07
+121,807,"Clarence, NY",2007-09-28
+122,808,"New Holland, PA",2007-08-24
+123,809,"Nashville, TN",2007-09-28
+124,810,"Benton, KY",2007-03-30
+125,814,"Lawrence, KS",2007-05-11
+126,815,"Sedalia, MO",2007-06-15
+127,816,"Tulsa, OK",2007-07-13
+128,817,"Leavenworth, KS",2007-09-07
+129,818,"Independence, IA",2007-09-21
+130,819,"Hermann, MO",2007-09-28
+131,820,"Kansas City, MO",2007-10-05
+132,821,"Demopolis, AL",2007-11-30
+133,823,"La Platte, NE",2007-08-24
+134,825,"Salem, IL",2007-09-07
+135,826,"Cookeville, TN",2007-09-07
+136,828,"St. Joseph, MO",2007-05-04
+137,829,"Pueblo, CO",2007-06-08
+138,830,"Peculiar, MO",2007-07-20
+139,831,"Dodge City, KS",2007-07-27
+140,832,"Bel Air, MD",2007-08-10
+141,833,"Cape Girardeau, MO",2007-08-24
+142,834,"Ashland, MS",2007-09-07
+143,835,"Blue Springs, MO",2007-09-07
+144,836,"Carbondale, IL",2007-09-14
+145,838,"Owensboro, KY",2007-09-28
+146,843,"Yardley, PA",2007-05-18
+147,844,"Tonganoxie, KS",2007-06-08
+148,845,"Dillard, GA",2007-08-03
+149,846,"Union, SC",2007-09-14
+150,850,"DeSoto, KS",2007-10-12
+151,859,"Aloha, OR",2007-06-09
+152,861,"Lincoln City, OR",2007-07-13
+153,862,"Albany, OR",2007-08-17
+154,863,"Ponca City, OK",2007-09-21
+155,868,"Fort Smith, AR",2007-05-11
+156,869,"Cocoa, FL",2007-05-03
+157,870,"Council Bluffs, IA",2007-05-11
+158,872,"Chillicothe, MO",2007-08-24
+159,873,"Grand Junction, CO",2007-09-21
+160,875,"Salem, OR",2007-08-24
+161,877,"Trenton, MO",2007-06-15
+162,878,"Huron, SD",2007-06-01
+163,879,"Westmont, IL",2007-05-26
+164,880,"Lynnwood, WA",2007-04-28
+165,882,"Baldwyn, MS",2007-06-01
+166,883,"Butler, MO",2007-09-07
+167,884,"Fairbury, NE",2007-09-07
+168,885,"Shawnee, KS",2007-09-21
+169,886,"Austin, MN",2007-05-18
+170,888,"Aberdeen, MS",2007-10-12
+171,890,"Paola, KS",2007-08-24
+172,892,"Gallatin, TN",2007-10-05
+173,893,"Arthur, IL",2007-10-12
+174,894,"Shelby, NC",2007-11-02
+175,895,"Corinth, MS",2007-10-04
+176,896,"Fort Scott, KS",2007-06-01
+177,903,"Dover, DE",2007-10-19
+178,904,"Maggie Valley, NC",2007-09-28
+179,905,"Decatur, AL",2007-09-21
+180,907,"Clovis, CA",2007-09-28
+181,908,"Ankeny, IA",2007-07-13
+182,909,"Mt. Pleasant, IA",2007-06-15
+183,914,"Sandwich, MA",2007-06-15
+184,919,"Laurens, SC",2007-10-05
+185,920,"Lowell, MA",2007-09-08
+186,921,"Oklahoma City, OK",2007-06-01
+187,922,"Plant City, FL",2007-11-16
+188,923,"Jenks, OK",2007-10-12
+189,924,"McPherson, KS",2007-08-24
+190,934,"Lakeville, CT",2007-05-26
+191,935,"East Hartford, CT",2007-06-23
+192,936,"York, ME",2007-08-04
+193,938,"Bridgeton, NJ",2007-09-14
+194,939,"Springville, AL",2007-07-13
+195,940,"Mission, KS",2007-09-14
+196,941,"Kennesaw, GA",2007-08-10
+197,942,"Taylor, AZ",2007-08-31
+198,943,"Clinton, IA",2007-07-06
+199,944,"Felda, FL",2007-12-31
+200,945,"Belton, MO",2007-05-04
+201,946,"Morganton, NC",2007-10-05
+202,947,"Kearney, MO",2007-09-14
+203,948,"Victorville, CA",2007-06-08
+204,949,"Angel Fire, NM",2007-05-25
+205,950,"Columbia, MO",2007-09-07
+206,957,"Booneville, AR",2007-06-15
+207,958,"Worland, WY",2007-08-17
+208,960,"Libertyville, IL",2007-10-19
+209,963,"Fairfield, CA",2007-08-17
+210,964,"Sedalia, MO",2007-08-17
+211,965,"San Jose, CA",2007-06-30
+212,966,"Ada, OK",2007-06-15
+213,967,"Franklin, PA",2007-07-27
+214,968,"Hamilton, NJ",2007-09-08
+215,973,"Clarksville, TN",2007-07-13
+216,975,"Salt Lake City, UT",2007-08-24
+217,976,"Mount Pleasant, SC",2007-08-24
+218,977,"Lynchburg, TN",2007-10-26
+219,978,"Mashpee, MA",2007-10-27
+220,979,"Omaha, NE",2007-09-28
+221,983,"Warren, NH",2007-08-24
+222,984,"Harrisonville, MO",2007-08-24
+223,985,"Stevensville, MT",2007-08-03
+224,987,"Garden City, MO",2007-09-28
+225,991,"Sharonville, OH",2007-09-15
+226,992,"Garnett, KS",2007-10-19
+227,994,"Wichita, KS",2007-06-08
+228,995,"Dubuque, IA",2007-09-01
+229,1001,"Sayville, NY",2007-10-20
+230,1002,"Holly Springs, MS",2007-10-26
+231,1008,"Alpine, CA",2007-10-19
+232,1009,"Independence, MO",2007-10-19
+233,1021,"Marshall, MN",2007-10-05
+234,1022,"Belton, MO",2008-05-02
+235,1023,"Lansing, KS",2008-05-02
+236,1024,"Huron, SD",2008-06-06
+237,1025,"Springfield, MO",2008-04-18
+238,1026,"Kansas City, MO",2008-04-25
+239,1027,"Rio Rancho, NM",2008-03-28
+240,1028,"Frisco, CO",2008-06-13
+241,1029,"Platte City, MO",2008-05-09
+242,1030,"Des Moines, IA",2008-06-05
+243,1031,"Marshalltown, IA",2008-06-27
+244,1034,"Raytown, MO",2008-06-13
+245,1035,"Tryon, NC",2008-06-13
+246,1036,"Elk Grove, IL",2008-06-13
+247,1037,"State Center, IA",2008-06-20
+248,1038,"Sikeston, MO",2008-04-11
+249,1039,"St. Joseph, MO",2008-05-02
+250,1040,"Livingston, AL",2008-04-18
+251,1041,"Fairbanks, IN",2008-06-06
+252,1042,"Sevierville, TN",2008-05-16
+253,1043,"Benton, KY",2008-04-04
+254,1044,"Malden, MO",2008-05-09
+255,1046,"Landover, MD",2008-06-06
+256,1047,"Fort Lauderdale, FL",2007-12-01
+257,1050,"Young Harris, GA",2008-05-24
+258,1051,"Greenwood, SC",2008-07-11
+259,1052,"Bellevue, NE",2008-07-18
+260,1053,"Burlington, KS",2008-07-18
+261,1054,"Watertown, MN",2008-07-18
+262,1055,"Laurie, MO",2008-08-01
+263,1056,"Harrisonville, MO",2008-08-22
+264,1057,"Columbus, MS",2008-04-11
+265,1058,"Jefferson City, MO",2008-04-11
+266,1059,"Osage City, KS",2008-04-11
+267,1060,"Lyons, KS",2008-05-02
+268,1061,"Ashland, MS",2008-05-09
+269,1062,"Shannon, IL",2008-07-11
+270,1063,"Lawrence, KS",2008-05-09
+271,1064,"DeForest, WI",2008-06-06
+272,1065,"Clarksville, TN",2008-04-04
+273,1066,"Loveland, CO",2008-07-11
+274,1067,"Charleston, SC",2008-03-07
+275,1068,"Hedgesville, WV",2008-09-05
+276,1069,"Emporia, KS",2008-08-15
+277,1070,"Florence, KS",2008-08-31
+278,1071,"New Holland, PA",2008-08-22
+279,1072,"Mountain Grove, MO",2008-06-20
+280,1073,"Pleasant Hill, MO",2008-04-04
+281,1076,"Chandler, AZ",2007-11-09
+282,1094,"Waterloo, IA",2008-07-18
+283,1095,"Marysville, KS",2008-06-06
+284,1096,"North Kansas City, MO",2008-03-14
+285,1097,"McLouth, KS",2008-06-06
+286,1098,"Shawnee, KS",2008-09-26
+287,1101,"Waynesboro, GA",2008-05-09
+288,1102,"Dickson, TN",2008-06-27
+289,1104,"Sallisaw, OK",2008-06-06
+290,1105,"Claremore, OK",2008-05-16
+291,1106,"Enid, OK",2008-04-11
+292,1107,"Danville, VA",2008-05-16
+293,1108,"Mason City, IA",2008-07-25
+294,1109,"Ada, OK",2008-06-13
+295,1110,"Glasgow, MO",2008-07-18
+296,1111,"Excelsior Springs, MO",2008-08-15
+297,1112,"Sugar Creek, MO",2008-04-25
+298,1121,"Lake Placid, NY",2008-07-04
+299,1122,"Hammond, LA",2008-03-28
+300,1123,"Wichita, KS",2008-06-13
+301,1124,"Columbia, MO",2008-05-09
+302,1125,"Pulaski, TN",2008-05-08
+303,1126,"Lawrenceburg, TN",2008-06-27
+304,1127,"Salisbury, MD",2008-04-18
+305,1128,"Clarksville, TN",2008-07-11
+306,1129,"Durango, CO",2008-07-03
+307,1130,"Anthony, KS",2008-07-18
+308,1131,"Kansas City, KS",2008-05-23
+309,1132,"New Paltz, NY",2008-08-15
+310,1133,"Huntsville, AL",2008-05-02
+311,1134,"Nelsonville, OH",2008-10-17
+312,1136,"Chesapeake, VA",2008-05-16
+313,1142,"Great Bend, KS",2008-07-10
+314,1143,"Sparta, WI",2008-09-12
+315,1144,"Cameron, MO",2008-06-27
+316,1145,"Warsaw, MO",2008-05-16
+317,1146,"Mobile, AL",2008-03-07
+318,1148,"Independence, KS",2008-05-02
+319,1149,"Madison, MS",2008-08-01
+320,1150,"Richmond, MO",2008-05-02
+321,1151,"Windsor, MO",2008-08-29
+322,1153,"Pleasant Valley, MO",2008-09-19
+323,1154,"Lewisburg, TN",2008-10-10
+324,1155,"El Dorado, KS",2008-07-25
+325,1156,"Laramie, WY",2008-07-18
+326,1157,"Columbia, MO",2008-10-10
+327,1159,"Lincoln, NE",2008-06-19
+328,1160,"Steeleville, IL",2008-05-16
+329,1161,"Great Bend, KS",2008-02-15
+330,1162,"Owatonna, MN",2008-05-30
+331,1163,"Freehold, NJ",2008-07-25
+332,1164,"Mount Vernon, IL",2008-06-13
+333,1165,"Winfield, KS",2008-08-29
+334,1166,"Silver Lake, MI",2008-09-12
+335,1169,"Smyrna, TN",2008-06-14
+336,1170,"Boulder City, NV",2008-05-23
+337,1171,"Cartersville, GA",2008-06-06
+338,1172,"Lakeland, FL",2008-01-25
+339,1178,"Memphis, TN",2008-06-06
+340,1179,"Manhattan, KS",2008-04-18
+341,1180,"Atchison, KS",2008-09-12
+342,1181,"Winchester, TN",2008-04-18
+343,1182,"Grand Junction, CO",2008-09-18
+344,1183,"Menomonee Falls, WI",2008-09-19
+345,1185,"Demopolis, AL",2008-12-05
+346,1186,"Merrimack, NH",2008-06-20
+347,1187,"Austin, MN",2008-05-16
+348,1188,"Hermann, MO",2008-09-26
+349,1189,"Pueblo, CO",2008-06-06
+350,1190,"Windsor, VT",2008-07-25
+351,1191,"Stevensville, MD",2008-07-25
+352,1192,"Dillon, CO",2009-08-07
+353,1193,"Omaha, NE",2008-09-26
+354,1200,"Stillwater, OK",2008-04-04
+355,1201,"Fort Rucker, AL",2008-02-22
+356,1202,"Pine Bluff, AR",2008-05-09
+357,1204,"Yardley, PA",2008-06-06
+358,1205,"Kingsford, MI",2008-07-11
+359,1206,"Grand Rapids, MI",2008-07-25
+360,1207,"McPherson, KS",2008-08-22
+361,1208,"Decatur, AL",2008-09-11
+362,1210,"Hot Springs, AR",2008-09-19
+363,1211,"Owensboro, KY",2008-09-26
+364,1212,"Fort Lauderdale, FL",2008-11-14
+365,1213,"Modesto, CA",2008-05-09
+366,1214,"Kings Mountain, NC",2008-04-18
+367,1215,"Madison, IN",2008-08-15
+368,1216,"Birmingham, AL",2008-08-22
+369,1217,"Covington, GA",2008-10-10
+370,1218,"Nashville, IN",2008-09-05
+371,1219,"North Platte, NE",2008-05-09
+372,1220,"Athens, AL",2008-04-25
+373,1221,"Booneville, MO",2008-06-27
+374,1222,"LaPlatte, NE",2008-08-22
+375,1223,"Mount Morris, MI",2008-08-15
+376,1224,"Kettering, OH",2008-07-18
+377,1225,"Council Bluffs, IA",2008-05-09
+378,1226,"Lincolnton, NC",2008-06-06
+379,1227,"Haleyville, AL",2008-06-13
+380,1229,"Tonganoxie, KS",2008-06-13
+381,1230,"Sedalia, MO",2008-06-13
+382,1231,"Dodge City, KS",2008-07-25
+383,1232,"Axtell, KS",2008-08-08
+384,1233,"Lebanon, TN",2008-08-15
+385,1234,"Butler, MO",2008-09-12
+386,1235,"Cape Girardeau, MO",2008-08-22
+387,1236,"Gastonia, NC",2008-09-05
+388,1237,"Carbondale, IL",2008-09-19
+389,1238,"Harvard, MA",2008-09-13
+390,1239,"Kearney, MO",2008-09-19
+391,1240,"Independence, IA",2008-09-19
+392,1241,"Mission, KS",2008-09-19
+393,1242,"Corinth, MS",2008-10-03
+394,1243,"Laurens, SC",2008-10-03
+395,1244,"Arthur, IL",2008-10-10
+396,1245,"DeSoto, KS",2008-10-10
+397,1246,"Dickinson, ND",2008-09-12
+398,1247,"Bixby, OK",2008-05-09
+399,1248,"Kennesaw, GA",2008-08-08
+400,1250,"Leavenworth, KS",2008-09-05
+401,1251,"Canton, GA",2008-10-17
+402,1252,"Plant City, FL",2008-11-21
+403,1253,"Hazelwood, MO",2008-03-28
+404,1254,"Westmont, IL",2008-05-24
+405,1255,"Park City, KS",2008-09-19
+406,1263,"Cincinnati, OH",2008-09-12
+407,1264,"Dillard, GA",2008-08-01
+408,1265,"Racine, WI",2008-09-26
+409,1266,"North Wildwood, NJ",2008-07-11
+410,1267,"Ponca City, OK",2008-09-19
+411,1268,"Maggie Valley, NC",2008-09-26
+412,1269,"Union, SC",2008-09-12
+413,1270,"Cookeville, TN",2008-09-05
+414,1278,"Garden City, MO",2008-10-24
+415,1279,"Gallatin, TN",2008-10-03
+416,1280,"Princeton, WI",2008-08-22
+417,1281,"Bel Air, MD",2008-08-08
+418,1282,"Columbia, MO",2008-07-25
+419,1283,"Kansas City, MO",2008-10-02
+420,1284,"Waucoma, IA",2008-08-01
+421,1285,"Franklin, PA",2008-07-11
+422,1287,"Wamac, IL",2008-05-02
+423,1288,"Taylorville, IL",2008-05-30
+424,1289,"Nashville, TN",2008-06-07
+425,1290,"Peculiar, MO",2008-06-20
+426,1291,"Franklin, KY",2008-06-20
+427,1292,"Kansas City, MO",2008-06-20
+428,1293,"Snowbird, UT",2008-06-20
+429,1294,"Washington, DC",2008-06-21
+430,1295,"Troy, NY",2008-07-19
+431,1296,"Golden City, MO",2008-10-10
+432,1300,"Ankeny, IA",2008-07-11
+433,1301,"Blue Springs, MO",2008-09-05
+434,1302,"Tulsa, OK",2008-07-11
+435,1305,"Indio, CA",2008-05-02
+436,1306,"Indio, CA",2008-05-03
+437,1307,"Nevada, IA",2008-08-22
+438,1308,"Harrison, AR",2008-06-27
+439,1309,"Taylor, AZ",2008-08-28
+440,1311,"Dubuque, IA",2008-08-30
+441,1312,"Mt. Pleasant, SC",2008-08-30
+442,1313,"Westport, CT",2008-09-20
+443,1314,"Aberdeen, MS",2008-10-10
+444,1315,"Metropolis, IL",2008-10-10
+445,1316,"Garnett, KS",2008-10-17
+446,1317,"Holly Springs, MS",2008-10-24
+447,1324,"Lenoir City, TN",2008-10-09
+448,1325,"Pacific, MO",2008-08-15
+449,1326,"Dover, DE",2008-10-17
+450,1327,"Clarence, NY",2008-09-26
+451,1328,"Murray, KY",2008-07-04
+452,1332,"Paola, KS",2008-08-22
+453,1333,"Ashland, MS",2008-09-05
+454,1334,"Columbia, MO",2008-10-03
+455,1335,"Lynchburg, TN",2008-10-24
+456,1338,"Worland, WY",2008-08-15
+457,1339,"Dighton, KS",2008-07-25
+458,1341,"Lamar, CO",2008-05-09
+459,1342,"Abilene, KS",2008-05-30
+460,1343,"Canon City, CO",2008-06-27
+461,1344,"Goshen, IN",2008-07-11
+462,1345,"Reading, PA",2008-07-18
+463,1346,"Albany, OR",2008-08-01
+464,1349,"Albert Lea, MN",2008-08-22
+465,1350,"Milwaukee, WI",2008-08-29
+466,1351,"Marshall, MN",2008-09-26
+467,1352,"Lumberton, NC",2008-11-07
+468,1355,"Shelby, NC",2008-10-31
+469,1357,"Mays Landing, NJ",2008-05-30
+470,1358,"Warrensburg, MO",2008-07-11
+471,1359,"Libertyville, IL",2008-10-17
+472,1363,"Jenks, OK",2008-10-24
+473,1364,"Independence, MO",2008-10-17
+474,1365,"Bridgeton, NJ",2008-09-19
+475,1366,"LaPorte, IA",2008-07-19
+476,1367,"Columbus, GA",2008-06-27
+477,1372,"Fairfield, CA",2008-08-15
+478,1373,"Booneville, AR",2008-06-27
+479,1374,"Fairbury, NE",2008-09-05
+480,1375,"Fayetteville, AR",2008-09-26
+481,1377,"Salt Lake City, UT",2008-08-22
+482,1387,"Quincy, IL",2008-09-05
+483,1388,"Murphysboro, IL",2008-09-19
+484,1389,"Kansas City, MO",2008-06-20
+485,1390,"Shawnee, KS",2008-09-12
+486,1391,"Sayville, NY",2008-10-24
+487,1397,"Eagle, ID",2008-08-29
+488,1398,"Rocky Mount, NC",2008-10-10
+489,1400,"Mt. Carmel, IL",2008-09-05
+490,1407,"Alpine, CA",2008-10-17
+491,1408,"Mandeville, LA",2008-11-14
+492,1411,"Pass Christian, MS",2009-02-20
+493,1412,"Clovis, CA",2008-09-19
+494,1418,"Buckeye, AZ",2008-11-07
+495,1424,"Laramie, WY",2009-07-17
+496,1426,"Little Rock, AR",2009-03-13
+497,1427,"Kings Mountain, NC",2009-04-17
+498,1428,"Johnson City, TN",2009-05-22
+499,1430,"Lake Placid, NY",2009-07-03
+500,1431,"Gaffney, SC",2009-07-17
+501,1432,"La Porte City, IA",2009-07-18
+502,1433,"Norwalk, CT",2009-09-11
+503,1434,"Glen Rock (Located at The Markets at Shrewsbury), PA",2009-09-11
+504,1435,"Metropolis, IL",2009-10-09
+505,1436,"Felda, FL",2008-12-31
+506,1437,"Greater Gulf State Fairgrounds - Mobile, AL",2009-03-13
+507,1438,"Rio Rancho, NM",2009-03-27
+508,1439,"Sikeston, MO",2009-04-10
+509,1440,"Livingston, AL",2009-04-17
+510,1441,"Salisbury, MD",2009-04-17
+511,1443,"Lansing, KS",2009-05-01
+512,1444,"Huntsville, AL",2009-05-01
+513,1445,"Waynesboro, GA",2009-05-08
+514,1446,"Claremore, OK",2009-05-15
+515,1447,"Green Lane, PA",2009-05-15
+516,1448,"Sevierville, TN",2009-05-15
+517,1449,"Young Harris, GA",2009-05-22
+518,1450,"Kansas City, KS",2009-05-22
+519,1451,"Pueblo, CO",2009-06-05
+520,1452,"Canon City, CO",2009-06-12
+521,1453,"Wichita, KS",2009-06-12
+522,1454,"Upper Marlboro, MD",2009-06-13
+523,1455,"Lawrenceburg, TN",2009-06-26
+524,1456,"Marshalltown, IA",2009-06-26
+525,1458,"Shannon, IL",2009-07-10
+526,1459,"Greenwood, SC",2009-07-10
+527,1461,"Harrisonville, MO",2009-08-21
+528,1462,"Shawnee, KS",2009-09-25
+529,1463,"Mears (Silver Lake), MI",2009-09-11
+530,1464,"Lakeland, FL",2009-01-29
+531,1465,"Worland, WY",2009-08-14
+532,1466,"Sallisaw, OK",2009-06-05
+533,1468,"Hannibal, MO",2009-06-05
+534,1469,"Springfield, KY",2009-10-02
+535,1470,"Eldon, MO",2009-06-26
+536,1471,"Louisa, VA",2009-07-17
+537,1472,"California, MO",2009-08-07
+538,1473,"DeForest/Windsor, WI",2009-08-07
+539,1475,"Auburn, AL",2009-03-27
+540,1477,"Franklin, NC",2009-08-06
+541,1478,"Albert Lea, MN",2009-08-28
+542,1479,"Watertown, MN",2009-07-17
+543,1480,"Burlington, KS",2009-07-17
+544,1481,"Columbus, MS",2009-03-20
+545,1482,"Ashland, MS",2009-05-08
+546,1483,"Demopolis, AL",2009-12-04
+547,1484,"Bonner Springs, KS",2009-08-28
+548,1487,"Abilene, KS",2009-05-29
+549,1490,"Madison, IN",2009-08-21
+550,1491,"Danville, VA",2009-05-15
+551,1492,"Washington, MO",2009-04-17
+552,1494,"LaPlatte, NE",2009-08-21
+553,1495,"Laurie, MO",2009-07-31
+554,1497,"Clarksville, TN",2009-04-03
+555,1505,"Wamac, IL",2009-05-01
+556,1506,"Raytown, MO",2009-06-12
+557,1507,"Osage City, KS",2009-04-10
+558,1510,"Athens, AL",2009-04-24
+559,1511,"Lawrence, KS",2009-05-08
+560,1513,"Benton, KY",2009-04-03
+561,1514,"Ulster County Fairgrounds, New Paltz, NY",2009-08-14
+562,1516,"Loveland, CO",2009-07-10
+563,1517,"Dodge City, KS",2009-07-24
+564,1518,"Waterloo, IA",2009-07-17
+565,1519,"Snowbird, UT",2009-06-19
+566,1520,"Pulaski, TN",2009-05-07
+567,1521,"Sugar Creek, MO",2009-04-24
+568,1534,"Taylorville, IL",2009-05-29
+569,1535,"Mission, KS",2009-09-18
+570,1536,"De Soto, KS",2009-10-09
+571,1537,"Huron, SD",2009-06-05
+572,1538,"Chesapeake, VA",2009-05-15
+573,1539,"Columbia, MO",2009-07-24
+574,1540,"Grand Junction, CO",2009-09-18
+575,1542,"Kennesaw, GA",2009-08-14
+576,1543,"Murphysboro, IL",2009-09-24
+577,1544,"Ada, OK",2009-06-19
+578,1545,"Kingsford, MI",2009-07-16
+579,1546,"Lyons, KS",2009-05-08
+580,1547,"New Holland, PA",2009-08-28
+581,1549,"Fort Smith, AR",2009-07-17
+582,1550,"Decatur, AL",2009-09-17
+583,1551,"Great Bend, KS",2009-07-10
+584,1552,"Eliot, ME",2009-08-05
+585,1554,"Indio, CA",2009-04-24
+586,1555,"Indio, CA",2009-04-25
+587,1556,"Kansas City, MO",2009-04-24
+588,1557,"North Platte, NE",2009-05-08
+589,1558,"Westmont, IL",2009-05-23
+590,1559,"Gallatin, TN",2009-10-02
+591,1560,"McLouth, KS",2009-06-05
+592,1561,"El Dorado, KS",2009-07-24
+593,1562,"Enid, OK",2009-04-17
+594,1563,"Westport, CT",2009-09-26
+595,1564,"Hammond, LA",2009-03-27
+596,1566,"Winchester, TN",2009-04-17
+597,1571,"Haleyville, AL",2009-06-12
+598,1572,"Dillard, GA",2009-07-31
+599,1573,"Windsor, VT",2009-07-25
+600,1574,"Yates Center, KS",2009-07-10
+601,1576,"Columbia, MO",2009-05-08
+602,1577,"Overland Park, KS",2009-04-24
+603,1578,"Aberdeen, SD",2009-07-10
+604,1579,"Bedford, TX",2009-09-04
+605,1580,"Front Royal, VA",2009-10-02
+606,1582,"Memphis, TN",2009-06-05
+607,1585,"Cape Girardeau, MO",2009-08-21
+608,1586,"Richmond, MO",2009-05-01
+609,1587,"Durango, CO",2009-07-03
+610,1588,"Stillwater, OK",2009-04-03
+611,1589,"Owatonna, MN",2009-05-29
+612,1590,"Westfield, WI",2009-08-21
+613,1591,"Independence, KS",2009-05-01
+614,1592,"Covington, GA",2009-10-09
+615,1594,"Merrimack, NH",2009-06-20
+616,1595,"Great Bend, KS",2009-02-13
+617,1596,"Des Moines, IA",2009-06-05
+618,1597,"Jim Roberts Community Park, Franklin, KY",2009-06-19
+619,1598,"Lewisburg, TN",2009-10-09
+620,1599,"Golden City, MO",2009-10-09
+621,1600,"Bixby, OK",2009-05-08
+622,1602,"St. Joseph, MO",2009-05-01
+623,1603,"Troy, NY",2009-07-18
+624,1605,"Platte City, MO",2009-05-08
+625,1606,"Ponca City, OK",2009-09-18
+626,1607,"Lenoir, TN",2009-10-09
+627,1608,"Hermann, MO",2009-09-25
+628,1609,"Shawnee, KS",2009-09-11
+629,1610,"Marysville, KS",2009-06-05
+630,1611,"Butler, MO",2009-08-28
+631,1612,"Council Bluffs, IA",2009-05-08
+632,1613,"Tulsa, OK",2009-07-10
+633,1614,"Fairbanks, IN",2009-06-05
+634,1615,"Laurens, SC",2009-10-02
+635,1616,"North Kansas City, MO",2009-03-13
+636,1618,"Owensboro, KY",2009-09-25
+637,1620,"Clarence, NY",2009-09-25
+638,1621,"Austin, MN",2009-05-15
+639,1624,"Freehold, NJ",2009-07-24
+640,1625,"Steeleville, IL",2009-05-15
+641,1629,"Libertyville, IL",2009-10-16
+642,1630,"Glasgow, MO",2009-07-17
+643,1633,"Tonganoxie, KS",2009-06-12
+644,1634,"Mountain View, AR",2009-06-19
+645,1635,"Rochester, NY",2009-05-23
+646,1636,"Harrisburg, PA",2009-10-02
+647,1637,"Jasper, IN",2009-07-31
+648,1640,"Costa Mesa, CA",2009-05-08
+649,1641,"Seaside Heights, NJ",2009-09-25
+650,1642,"Park City, KS",2009-09-11
+651,1643,"Mays Landing, NJ",2009-06-05
+652,1645,"Harvard, MA",2009-09-19
+653,1646,"Ashland, MS",2009-09-11
+654,1647,"Pelahatchie, MS",2009-04-03
+655,1649,"Moweaqua, IL",2009-06-06
+656,1650,"Ottumwa, IA",2009-06-12
+657,1651,"Mexico, MO",2009-06-19
+658,1652,"Mt. Morris, MI",2009-08-21
+659,1653,"Milwaukee, WI",2009-09-04
+660,1654,"Shelby, NC",2009-11-06
+661,1655,"Columbus, GA",2009-06-20
+662,1658,"Cookeville, TN",2009-09-11
+663,1659,"Madison, MS",2009-10-16
+664,1660,"Hedgesville, WV",2009-09-11
+665,1661,"Leavenworth, KS",2009-09-11
+666,1662,"Jefferson City, MO",2009-04-17
+667,1663,"Iola, KS",2009-07-31
+668,1664,"Springfield, MO",2009-08-14
+669,1665,"Boston, NY",2009-06-26
+670,1667,"Gastonia, NC",2009-08-28
+671,1668,"Lincolnton, NC",2009-06-05
+672,1669,"Boulder City, NV",2009-05-22
+673,1670,"Hot Springs, AR",2009-09-18
+674,1671,"Emporia, KS",2009-08-14
+675,1672,"Blue Springs, MO",2009-09-11
+676,1675,"Fayetteville, AR",2009-09-25
+677,1676,"Springfield, MO",2009-04-17
+678,1677,"Omaha, NE",2009-09-25
+679,1678,"State Center, IA",2009-06-19
+680,1679,"Grand Rapids, MI",2009-07-24
+681,1681,"Bellevue, NE",2009-07-17
+682,1682,"Mason City (East Park), IA",2009-07-24
+683,1683,"Corinth, MS",2009-10-02
+684,1684,"Cartersville, GA",2009-06-05
+685,1689,"Pacific, MO",2009-06-26
+686,1690,"Anthony, KS",2009-07-17
+687,1691,"Pleasant Hill, MO",2009-04-03
+688,1692,"Frisco, CO",2009-06-19
+689,1693,"Nevada, IA",2009-08-28
+690,1694,"Quincy, IL",2009-09-11
+691,1695,"McPherson, KS",2009-08-28
+692,1696,"Mount Carmel, IL",2009-09-11
+693,1697,"Princeton, WI",2009-08-28
+694,1700,"Lula, MS",2009-04-17
+695,1701,"Rogers, AR",2009-05-01
+696,1702,"Edwardsville, IL",2009-05-08
+697,1708,"Hazelwood, MO",2009-04-24
+698,1710,"Kearney, MO",2009-09-18
+699,1713,"Slidell, LA",2010-04-02
+700,1714,"Paola, KS",2009-08-28
+701,1715,"Belton, MO",2009-05-01
+702,1716,"Arthur, IL",2009-10-09
+703,1717,"Tryon, NC",2009-06-12
+704,1718,"Murray, KY",2009-07-03
+705,1719,"Jeffersonville, IN",2009-06-19
+706,1721,"Kettering, OH",2009-07-10
+707,1722,"Myrtle Beach, SC",2009-09-04
+708,1723,"Washington, DC",2009-06-27
+709,1725,"Grants Pass, OR",2009-09-11
+710,1726,"Wellsville, MO",2009-07-10
+711,1727,"Marietta, OH",2009-06-05
+712,1728,"Columbia, MO",2009-10-09
+713,1730,"Bel Air, MD",2009-08-14
+714,1731,"Rocky Mount, NC",2009-10-09
+715,1734,"North Wildwood, NJ",2009-07-10
+716,1737,"Gadsden, AL",2009-05-15
+717,1738,"Vermillion, SD",2009-09-11
+718,1739,"Elk Grove Village, IL",2009-06-19
+719,1748,"Excelsior Springs, MO",2009-08-14
+720,1749,"Lamar, CO",2009-05-08
+721,1752,"Sedalia, MO",2009-06-19
+722,1753,"Eagle, NE",2009-07-10
+723,1754,"Lowell, MI",2009-07-11
+724,1755,"Lancaster, CA",2009-10-03
+725,1756,"Marshall, MN",2009-09-18
+726,1757,"Nashville, IN",2009-08-28
+727,1762,"Independence, MO",2009-10-16
+728,1763,"Cameron, MO",2009-06-26
+729,1766,"Sayville, NY",2009-10-23
+730,1767,"Warrensburg, MO",2009-07-10
+731,1770,"Olathe, KS",2009-08-07
+732,1771,"Windsor, MO",2009-09-04
+733,1772,"McMinnville, TN",2009-08-14
+734,1773,"Salt Lake City, UT",2009-06-05
+735,1779,"Lenexa, KS",2009-06-26
+736,1780,"Garnett, KS",2009-10-16
+737,1783,"Nelsonville, OH",2009-10-16
+738,1794,"Tecumseh, OK",2009-06-12
+739,1797,"Auburn Hills, MI",2009-06-26
+740,1799,"Greensboro, GA",2009-09-25
+741,1803,"Bakersfield, CA",2009-06-05
+742,1804,"Salt Lake City, UT",2009-08-21
+743,1810,"Columbia, MO",2009-09-25
+744,1811,"Edenton, NC",2009-05-08
+745,1821,"Plant City, FL",2009-11-20
+746,1822,"Dover, DE",2009-10-16
+747,1823,"Vista, CA",2009-07-31
+748,1824,"Lakeport, CA",2009-09-05
+749,1825,"Kansas City, MO",2009-08-14
+750,1826,"Stockton, CA",2009-07-03
+751,1827,"New Albany, IN",2009-06-26
+752,1828,"Eagle, CO",2009-07-24
+753,1829,"Florence, CO",2009-10-16
+754,1831,"Parker, CO",2009-09-05
+755,1832,"College Grove, TN",2009-09-04
+756,1833,"Nashville, TN",2009-08-28
+757,1834,"Hays, KS",2009-07-17
+758,1835,"Wynne, AR",2009-06-12
+759,1836,"Fairfield, CA",2009-08-14
+760,1837,"Fairfield, CA",2009-08-14
+761,1838,"Fairfield, CA",2009-08-15
+762,1839,"Carbondale, IL",2009-09-18
+763,1840,"Kansas City, MO",2009-10-02
+764,1842,"Lake Placid, NY",2009-07-03
+765,1853,"Sparta, MI",2009-09-25
+766,1854,"Paris, TN",2009-07-17
+767,1856,"Kuttawa, KY",2009-08-22
+768,1857,"Guntersville, AL",2009-09-18
+769,1858,"Florence, AL",2009-09-25
+770,1859,"Russellville, AR",2009-11-06
+771,1860,"Mesquite, NV",2009-09-04
+772,1861,"Alpine, CA",2009-10-16
+773,1862,"Eagle, ID",2009-09-06
+774,1863,"Wagoner, OK",2009-07-24
+775,1870,"Talladega, AL",2009-10-30
+776,1874,"Albany, OR",2009-07-31
+777,1877,"New Albany, IN",2009-10-09
+778,1881,"North Little Rock, AR",2010-03-19
+779,1886,"Washington, MO",2010-04-16
+780,1887,"Mobile, AL",2010-03-12
+781,1888,"Pensacola, FL",2010-03-05
+782,1889,"Lake Havasu City, AZ",2010-02-26
+783,1895,"Buckeye, AZ",2009-11-13
+784,1896,"Clovis, CA",2009-09-18
+785,1898,"Parsons, KS",2009-10-16
+786,1899,"Lynchburg, TN",2009-10-23
+787,1903,"Benton, KY",2010-04-02
+788,1914,"Waynesboro, GA",2010-05-07
+789,1917,"Dillon, CO",2008-08-08
+790,1918,"Chambersburg, PA",2009-10-16
+791,1920,"Osage City, KS",2010-04-09
+792,1921,"Gaffney, SC",2010-07-16
+793,1922,"Yates Center, KS",2010-07-09
+794,1923,"Lake Placid, NY",2010-07-02
+795,1925,"Texas Motor Speedway, Fort Worth, TX",2009-04-02
+796,1927,"Bristol Motor Speedway, Bristol, TN",2009-08-22
+797,1928,"Atlanta Motor Speedway, Atlanta, GA",2009-09-04
+798,1930,"Salisbury, MD",2010-04-16
+799,1931,"Sikeston, MO",2010-04-09
+800,1932,"Lawrenceburg, TN",2010-06-25
+801,1934,"Winchester, TN",2010-04-16
+802,1935,"Springdale, AR",2010-04-30
+803,1936,"Mountain View, AR",2010-06-18
+804,1937,"Tecumseh, OK",2010-06-11
+805,1938,"Windsor, VT",2010-07-24
+806,1939,"Huntsville, AL",2010-04-30
+807,1940,"Canon City, CO",2010-06-11
+808,1942,"Overland Park, KS",2010-04-23
+809,1943,"Shannon, IL",2010-07-09
+810,1947,"Laurie, MO",2010-08-06
+811,1948,"Johnson City, TN",2010-05-28
+812,1949,"Rochester, NY",2010-05-29
+813,1950,"Columbus, MS",2010-04-09
+814,1951,"North Augusta, SC",2010-05-28
+815,1952,"Tempe, AZ",2009-12-04
+816,1953,"Wisconsin Dells, WI",2010-05-21
+817,1961,"La Porte, IA",2010-07-17
+818,1962,"Frisco, CO",2010-06-18
+819,1964,"Laramie, WY",2010-07-16
+820,1965,"McLouth, KS",2010-06-04
+821,1966,"Kingsford, MI",2010-07-16
+822,1967,"Lakeland, FL",2010-01-29
+823,1968,"Sevierville, TN",2010-05-14
+824,1969,"Fort Smith, AR",2010-07-16
+825,1970,"Richmond, MO",2010-04-30
+826,1971,"Pueblo, CO",2010-06-04
+827,1972,"Bonner Springs, KS",2010-08-27
+828,1975,"Auburn Hills, MI",2010-06-25
+829,1976,"Green Lane, PA",2010-05-14
+830,1977,"Kansas City, MO",2009-10-02
+831,1978,"College Grove, TN",2010-09-03
+832,1979,"Eliot, ME",2010-08-07
+833,1980,"Kennesaw, GA",2010-08-20
+834,1981,"Raytown, MO",2010-06-11
+835,1983,"Marietta, OH",2010-06-11
+836,1984,"Greensboro, GA",2010-09-24
+837,1985,"Bonner Springs, KS",2010-05-21
+838,1987,"Murphysboro, IL",2010-09-24
+839,1988,"Enid, OK",2010-04-16
+840,1991,"Athens, AL",2010-04-23
+841,1994,"Ponca City (Lake Ponca), OK",2010-09-17
+842,1995,"Mears, MI",2010-09-10
+843,1996,"New Holland, PA",2010-08-27
+844,1997,"Mason City, IA",2010-07-23
+845,2000,"Marysville, KS",2010-06-04
+846,2001,"Ashland, MS",2010-05-21
+847,2002,"Topeka, KS",2010-05-28
+848,2003,"Benton-West City, IL",2010-07-02
+849,2004,"Hernando, MS",2010-06-11
+850,2005,"Haubstadt, IN",2010-09-03
+851,2006,"Penn Valley, CA",2010-06-04
+852,2007,"Worland, WY",2010-08-20
+853,2008,"Dillard, GA",2010-08-06
+854,2009,"Gadsden, AL",2010-04-09
+855,2010,"Excelsior Springs, MO",2010-08-20
+856,2011,"Harrisonville, MO",2010-08-13
+857,2013,"Franklin, NC",2010-08-13
+858,2014,"Young Harris, GA",2010-05-28
+859,2015,"Clarksville, TN",2010-07-09
+860,2016,"Owatonna, MN",2010-06-04
+861,2017,"Cameron, MO",2010-07-02
+862,2018,"McPherson, KS",2010-08-27
+863,2019,"Springfield, KY",2010-10-01
+864,2020,"Hazelwood, MO",2010-04-23
+865,2021,"Wellsville, MO",2010-07-09
+866,2022,"Sugar Creek, MO",2010-04-23
+867,2035,"Rio Rancho, NM",2010-03-26
+868,2036,"Nevada, IA",2010-08-27
+869,2037,"Austin, MN",2010-05-14
+870,2038,"Burlington, KS",2010-07-16
+871,2039,"Seaside Heights, NJ",2010-09-25
+872,2040,"DeSoto, KS",2010-10-08
+873,2042,"Albert Lea, MN",2010-08-27
+874,2044,"Arkansas City, KS",2010-09-03
+875,2046,"Great Bend, KS",2010-02-12
+876,2047,"Great Bend, KS",2010-09-03
+877,2049,"Great Bend, KS",2010-09-04
+878,2050,"Durango, CO",2010-07-03
+879,2052,"Waterloo, IA",2010-07-16
+880,2058,"Chesapeake, VA",2010-05-21
+881,2060,"Weston, MO",2010-07-10
+882,2061,"New Paltz, NY",2010-08-21
+883,2062,"El Dorado, KS",2010-08-20
+884,2063,"Lamar, CO",2010-05-14
+885,2064,"Abilene, KS",2010-06-04
+886,2067,"Omaha, NE",2010-09-24
+887,2068,"Harrisburg, PA",2010-10-01
+888,2069,"Springfield, MO",2010-04-16
+889,2070,"LaPlatte, NE",2010-08-20
+890,2071,"Jeffersonville, IN",2010-06-18
+891,2072,"Hammond, LA",2010-03-26
+892,2073,"Bixby, OK",2010-05-07
+893,2074,"Harvard, MA",2010-09-18
+894,2075,"Jefferson City, MO",2010-04-16
+895,2076,"Marshalltown, IA",2010-06-25
+896,2077,"Huron, SD",2010-06-04
+897,2079,"Owensboro, KY",2010-09-24
+898,2080,"Madison, IN",2010-08-20
+899,2081,"Madison, MS",2010-10-22
+900,2082,"Demopolis, AL",2010-12-03
+901,2083,"Norwalk, CT",2010-09-10
+902,2084,"Mt. Morris, MI",2010-08-20
+903,2085,"Lewisburg, TN",2010-10-08
+904,2086,"Lyons, KS",2010-05-07
+905,2087,"Princeton, WI",2010-08-27
+906,2088,"Covington, GA",2010-10-08
+907,2089,"Corinth, MS",2010-10-01
+908,2090,"Parker, CO",2010-09-04
+909,2093,"Decatur, AL",2010-09-17
+910,2094,"Washington, DC",2010-06-26
+911,2096,"Glasgow, MO",2010-07-16
+912,2098,"Eagle, NE",2010-07-09
+913,2099,"Olathe, KS",2010-08-06
+914,2100,"Sallisaw, OK",2010-06-04
+915,2101,"McMinnville, TN",2010-08-13
+916,2102,"Louisa, VA",2010-07-16
+917,2103,"Franklin, KY",2010-06-18
+918,2104,"Dillon, CO",2010-08-06
+919,2105,"Quincy, IL",2010-09-10
+920,2106,"Canton, GA",2010-10-15
+921,2107,"Parsons, KS",2010-10-15
+922,2108,"Memphis, TN",2010-06-04
+923,2109,"Metropolis, IL",2010-10-08
+924,2110,"Lincolnton, NC",2010-06-04
+925,2111,"Eldon, MO",2010-06-25
+926,2112,"North Platte, NE",2010-05-07
+927,2113,"Bedford, TX",2010-09-04
+928,2114,"Nelsonville, OH",2010-10-15
+929,2115,"Pleasant Hill, MO",2010-04-02
+930,2116,"Columbia, MO",2010-05-07
+931,2117,"St. Joseph, MO",2010-04-30
+932,2118,"North Kansas City, MO",2010-03-12
+933,2119,"Grand Rapids (John Ball Park), MI",2010-07-23
+934,2121,"Mt. Carmel, IL",2010-09-10
+935,2122,"Iola, KS",2010-07-30
+936,2123,"North Wildwood, NJ",2010-07-09
+937,2124,"Kings Mountain, NC",2010-04-16
+938,2125,"Warrensburg, MO",2010-07-09
+939,2126,"Council Bluffs, IA",2010-05-07
+940,2127,"Chambersburg, PA",2010-10-15
+941,2128,"Milwaukee, WI",2010-09-03
+942,2129,"Lancaster, CA",2010-10-08
+943,2130,"Ada, OK",2010-06-25
+944,2131,"Nashville, TN",2010-08-27
+945,2132,"Tryon, NC",2010-06-11
+946,2133,"Belton, MO",2010-04-30
+947,2134,"Ottumwa, IA",2010-06-11
+948,2136,"Indio, CA",2010-04-24
+949,2137,"Vermillion, SD",2010-09-10
+950,2138,"Mission, KS",2010-09-16
+951,2139,"Claremore, OK",2010-05-14
+952,2140,"Troy, NY",2010-07-17
+953,2141,"Lawrence, KS",2010-05-07
+954,2142,"Kansas City, MO",2010-10-02
+955,2143,"Golden City, MO",2010-10-08
+956,2144,"Mesquite, NV",2010-09-03
+957,2145,"Park City, KS",2010-09-10
+958,2146,"Florence, CO",2010-10-15
+959,2147,"Loveland, CO",2010-07-09
+960,2148,"Tonganoxie, KS",2010-06-11
+961,2149,"Kearney, MO",2010-09-17
+962,2150,"Westfield, WI",2010-08-20
+963,2151,"Boston, NY",2010-06-25
+964,2152,"Bel Air, MD",2010-08-13
+965,2163,"Garden City, KS",2010-08-27
+966,2165,"Springfield, MO",2010-08-13
+967,2166,"Taylorville, IL",2010-06-04
+968,2167,"Emporia, KS",2010-08-20
+969,2168,"Independence, KS",2010-06-25
+970,2169,"Amelia Island, FL",2010-08-27
+971,2170,"Dodge City, KS",2010-07-30
+972,2171,"Rome, GA",2010-05-07
+973,2174,"Montello, WI",2010-06-11
+974,2175,"Craig, CO",2010-08-27
+975,2176,"Dalton, GA",2010-10-23
+976,2177,"Kuttawa, KY",2010-08-20
+977,2178,"Middletown, DE",2010-05-21
+978,2179,"Knoxville, TN",2010-04-23
+979,2180,"Seymour, MO",2010-06-25
+980,2181,"Livingston, AL",2010-11-05
+981,2182,"Lakeport, CA",2010-08-27
+982,2183,"Auburn, AL",2010-04-16
+983,2184,"Stillwater, OK",2010-04-09
+984,2185,"Edenton, NC",2010-04-30
+985,2186,"Murray, KY",2010-07-02
+986,2188,"Grand Junction, CO",2010-09-10
+987,2198,"Greenwood, SC",2010-07-09
+988,2207,"Guntersville, AL",2010-11-05
+989,2208,"Bainbridge, GA",2010-10-15
+990,2209,"Pell City, AL",2010-06-18
+991,2210,"Anderson, SC",2010-04-30
+992,2211,"Gainesville, GA",2010-03-12
+993,2212,"Liberty, IN",2010-05-01
+994,2213,"Covington, LA",2010-04-30
+995,2214,"Scottsdale, AZ",2010-04-09
+996,2215,"Jasper, IN",2010-08-06
+997,2216,"Brockport, NY",2010-07-30
+998,2217,"Costa Mesa, CA",2010-06-11
+999,2218,"Sauk Rapids, MN",2010-06-18
+1000,2219,"West Des Moines, IA",2010-05-29
+1001,2220,"Libertyville, IL",2010-10-15
+1002,2221,"Gastonia, NC",2010-08-27
+1003,2222,"Hannibal, MO",2010-06-04
+1004,2223,"Merrimack, NH",2010-06-11
+1005,2224,"Shelby, NC",2010-11-05
+1006,2225,"Lowell, MI",2010-07-09
+1007,2226,"Boulder City, NV",2010-05-28
+1008,2227,"Bakersfield, CA",2010-05-21
+1009,2228,"Tulsa, OK",2010-09-24
+1010,2229,"Shawnee, KS",2010-09-24
+1011,2230,"Blue Springs, MO",2010-09-10
+1012,2232,"Hedgesville, WV",2010-09-10
+1013,2233,"Hermann, MO",2010-09-24
+1014,2234,"Mexico, MO",2010-06-18
+1015,2235,"Laurens, SC",2010-10-01
+1016,2237,"Platte City, MO",2010-05-07
+1017,2238,"State Center, IA",2010-06-18
+1018,2239,"Clarence, NY",2010-09-25
+1019,2273,"Lansing, KS",2010-04-30
+1020,2274,"Columbus, GA",2010-05-21
+1021,2275,"Valley Center, CA",2010-08-13
+1022,2276,"Rocky Mount, NC",2010-10-08
+1023,2278,"Buckeye, AZ",2010-11-12
+1024,2279,"Cookeville, TN",2010-09-10
+1025,2280,"Kettering, OH",2010-07-09
+1026,2282,"Lyons, GA",2010-10-08
+1027,2283,"Menomonee Falls, WI",2010-09-17
+1028,2284,"Munfordville, KY",2010-10-15
+1029,2285,"Rochester, MN",2010-08-13
+1030,2287,"Sedalia, MO",2010-06-18
+1031,2288,"Mount Airy, MD",2010-10-08
+1032,2289,"Kansas City, MO",2010-08-06
+1033,2290,"Columbia, MO",2010-07-23
+1034,2291,"Butler, MO",2010-10-29
+1035,2292,"Cape Girardeau, MO",2010-08-27
+1036,2293,"Ashland, MS",2010-09-10
+1037,2295,"Vista, CA",2010-07-30
+1038,2296,"Windsor, MO",2010-09-03
+1039,2297,"Westmont, IL",2010-05-29
+1040,2298,"Steeleville, IL",2010-05-14
+1041,2299,"Paola, KS",2010-08-27
+1042,2300,"Pacific, MO",2010-08-13
+1043,2301,"Sandwich, MA",2010-06-05
+1044,2302,"Morgan Hill, CA",2010-05-07
+1045,2303,"Marshall, MN",2010-09-17
+1046,2304,"Glen Rock, PA",2010-09-10
+1047,2313,"Lula, MS",2010-04-16
+1048,2328,"Upper Marlboro, MD",2010-06-04
+1049,2330,"Wagoner, OK",2010-07-23
+1050,2331,"Mount Holly, NJ",2010-07-23
+1051,2332,"Kansas City, MO",2010-09-10
+1052,2333,"Bellevue, WA",2010-05-22
+1053,2334,"Placerville, CA",2010-10-01
+1054,2335,"Raystown Lake, Hesston, PA",2010-09-18
+1055,2337,"Versailles, MO",2010-05-28
+1056,2338,"French Lick, IN",2010-08-13
+1057,2339,"Russell, KS",2010-10-08
+1058,2340,"Greenfield, IN",2010-09-17
+1059,2341,"Pender, NE",2010-06-18
+1060,2345,"Nashville, IN",2010-08-27
+1061,2346,"Arthur, IL",2010-10-08
+1062,2347,"Morden, MB",2010-08-28
+1063,2348,"Wynne, AR",2010-06-11
+1064,2349,"Garnett, KS",2010-10-15
+1065,2350,"Independence, MO",2010-10-15
+1066,2351,"Anthony, KS",2010-07-16
+1067,2352,"Haleyville, AL",2010-06-11
+1068,2353,"Hays, KS",2010-07-16
+1069,2354,"Sparta, MI",2010-09-24
+1070,2355,"Wichita, KS",2010-06-11
+1071,2372,"South Bend, IN",2010-07-16
+1072,2373,"Knoxville, IA",2010-06-04
+1073,2377,"Lynchburg, TN",2010-10-22
+1074,2383,"Columbia, MO",2010-09-17
+1075,2384,"Fayetteville, AR",2010-10-01
+1076,2385,"Stockton, CA",2010-07-02
+1077,2386,"Easton, MD",2010-07-23
+1078,2387,"Cleveland, GA",2010-10-22
+1079,2388,"Fredonia, KS",2010-06-11
+1080,2389,"Chandler, OK",2010-06-18
+1081,2390,"Williams, AZ",2010-07-02
+1082,2391,"Winder, GA",2010-09-10
+1083,2392,"Tulsa, OK",2010-07-09
+1084,2393,"Scott City, KS",2010-09-10
+1085,2394,"Rosarito, Mexico, BC",2010-08-27
+1086,2395,"Boise, ID",2010-07-23
+1087,2396,"Girard, KS",2010-07-02
+1088,2397,"Queen Creek, AZ",2010-10-15
+1089,2398,"Terre Haute, IN",2010-07-16
+1090,2400,"Salt Lake City, UT",2011-08-19
+1091,2401,"Scottsdale, AZ",2010-12-03
+1092,2412,"Lenexa, KS",2010-06-25
+1093,2418,"Holtsville, NY",2010-08-07
+1094,2419,"Fond du Lac, WI",2010-09-10
+1095,2420,"Oak Ridge, TN",2010-07-09
+1096,2421,"Kearns, UT",2010-08-06
+1097,2422,"Millington, TN",2010-09-10
+1098,2424,"Springdale, AR",2010-08-27
+1099,2425,"Brooklyn, MI",2010-08-13
+1100,2426,"Daytona, FL",2010-07-02
+1101,2427,"Fort Gibson, OK",2010-10-29
+1102,2428,"Tucson, AZ",2010-10-29
+1103,2429,"New Palestine, IN",2010-07-30
+1104,2430,"Myrtle Beach, SC",2010-09-03
+1105,2431,"Columbia, MO",2010-10-01
+1106,2432,"Pine Bluff, AR",2010-09-17
+1107,2433,"Talladega, AL",2010-10-29
+1108,2434,"Dover, DE",2010-08-20
+1109,2435,"Lake Havasu City, AZ",2011-02-25
+1110,2436,"Abilene, KS",2011-05-20
+1111,2437,"Langley, OK",2011-05-20
+1112,2438,"Omaha, NE",2010-09-04
+1113,2447,"Ames, IA",2010-09-03
+1114,2448,"Bessemer, AL",2011-07-08
+1115,2449,"Lee''s Summit, MO",2011-06-03
+1116,2451,"Edwardsville, KS",2010-09-17
+1117,2453,"Midwest City, OK",2010-08-20
+1118,2465,"Washington, MO",2011-04-15
+1119,2466,"Richmond, VA",2010-09-10
+1120,2477,"Rio Rancho, NM",2011-07-01
+1121,2478,"Fryeburg, ME",2011-07-22
+1122,2479,"Campo, CA",2010-11-05
+1123,2480,"Cameron Park, CA",2010-09-17
+1124,2481,"Hartselle, AL",2011-05-20
+1125,2482,"Edmond, OK",2011-05-27
+1126,2483,"Plant City, FL",2010-11-19
+1127,2484,"Mobile, AL",2011-03-11
+1128,2485,"Girard, KS",2011-07-02
+1129,2488,"Topeka, KS",2011-05-27
+1130,2493,"Rochester, NY",2011-05-28
+1131,2495,"Columbus, MS",2011-04-08
+1132,2496,"Benton, KY",2011-04-01
+1133,2497,"Chandler, OK",2011-06-17
+1134,2501,"Louisville, KY",2011-05-06
+1135,2502,"Hendersonville, NC",2010-10-08
+1136,2503,"Lewisburg, TN",2011-06-03
+1137,2505,"Cumming, GA",2011-11-18
+1138,2506,"Waynesboro, GA",2011-05-13
+1139,2515,"Springfield, MO",2011-04-15
+1140,2516,"Pensacola, FL",2011-03-04
+1141,2517,"Edenton, NC",2011-04-29
+1142,2521,"Lakeport, CA",2011-08-26
+1143,2522,"Williams, AZ",2011-07-01
+1144,2523,"Rome, GA",2011-05-13
+1145,2525,"Ashland, MS",2011-05-06
+1146,2526,"Cumberland, MD",2011-08-19
+1147,2527,"Chesterfield, MO",2010-11-26
+1148,2528,"Wildomar, CA",2011-03-18
+1149,2529,"Whiting, IA",2011-07-03
+1150,2530,"Laurie, MO",2011-08-05
+1151,2531,"Westmont, IL",2011-05-27
+1152,2532,"Young Harris , GA",2011-05-27
+1153,2533,"Salisbury, MD",2011-04-15
+1154,2544,"Loveland, CO",2011-07-08
+1155,2545,"Lakeland, FL",2011-01-28
+1156,2546,"Claremore, OK",2011-05-13
+1157,2548,"Auburn Hills, MI",2011-06-24
+1158,2551,"Kansas City, MO",2010-10-01
+1159,2553,"Harrison, AR",2010-11-05
+1160,2559,"Worland, WY",2011-08-19
+1161,2560,"Slidell, LA",2011-04-01
+1162,2561,"Yates Center, KS",2011-07-08
+1163,2563,"Ponca City, OK",2011-09-16
+1164,2564,"Lexington, NC",2011-04-22
+1165,2565,"Wildomar, CA",2010-12-30
+1166,2566,"Wildomar, CA",2010-12-31
+1167,2567,"Charleston, SC",2011-05-20
+1168,2568,"Quapaw, OK",2011-09-02
+1169,2569,"Saint Peters, MO",2011-09-16
+1170,2570,"St. Louis, MO",2011-10-07
+1171,2571,"Lyons, KS",2011-05-13
+1172,2579,"Lamar, CO",2011-05-13
+1173,2580,"Marysville, KS",2011-06-03
+1174,2581,"Fredonia, KS",2011-06-10
+1175,2582,"Lake Placid, NY",2011-07-02
+1176,2583,"Memphis, TN",2011-06-03
+1177,2585,"Chesapeake, VA",2011-05-20
+1178,2586,"Hesston, PA",2011-09-17
+1179,2587,"Hammond, LA",2011-03-25
+1180,2588,"Laramie, WY",2011-07-15
+1181,2589,"Munfordville, KY",2011-10-14
+1182,2593,"Springfield, KY",2011-09-30
+1183,2595,"Omaha, NE",2011-09-03
+1184,2596,"Nelsonville, OH",2011-10-14
+1185,2601,"Scott City, KS",2011-09-09
+1186,2602,"Seaside Heights, NJ",2011-09-24
+1187,2603,"Seymour, MO",2011-06-24
+1188,2604,"Madison, IN",2011-08-19
+1189,2617,"Garden City, KS",2011-09-23
+1190,2618,"Huntsville, AL",2011-05-06
+1191,2619,"Pueblo, CO",2011-06-10
+1192,2620,"Canon City, CO",2011-06-03
+1193,2621,"Taylorville, IL",2011-07-29
+1194,2624,"Annapolis, MD",2011-05-13
+1195,2625,"Salisbury, NC",2011-09-23
+1196,2626,"Jackson, MS",2011-10-07
+1197,2627,"Frederick, MD",2011-06-17
+1198,2628,"Castle Rock, CO",2011-07-01
+1199,2630,"Albert Lea, MN",2011-08-26
+1200,2631,"Demopolis, AL",2011-12-02
+1201,2633,"Hedgesville, WV",2011-09-09
+1202,2634,"Steeleville, IL",2011-05-13
+1203,2635,"Raytown, MO",2011-06-10
+1204,2636,"Gaffney, SC",2011-07-15
+1205,2637,"Vermillion, SD",2011-09-09
+1206,2639,"Florence, CO",2011-10-14
+1207,2640,"Dalton, GA",2011-10-22
+1208,2641,"Boulder City, NV",2011-05-27
+1209,2643,"Owatonna, MN",2011-06-03
+1210,2644,"New Palestine, IN",2011-07-29
+1211,2645,"Liberty, IN",2011-04-30
+1212,2646,"Franklin, NC",2011-08-12
+1213,2648,"Lake Placid, NY",2011-07-02
+1214,2650,"Silver Lake, MI",2011-09-09
+1215,2651,"Sedalia, MO",2011-06-17
+1216,2652,"Montello, WI",2011-06-10
+1217,2653,"Marshalltown, IA",2011-06-24
+1218,2654,"New Holland, PA",2011-08-26
+1219,2659,"Murphysboro, IL",2011-09-22
+1220,2660,"Waterloo, IA",2011-07-15
+1221,2661,"Springdale, AR",2011-04-29
+1222,2662,"Harrison, AR",2011-11-04
+1223,2663,"Great Bend, KS",2011-02-11
+1224,2664,"New Paltz, NY",2011-08-20
+1225,2665,"Shelby, NC",2011-11-04
+1226,2666,"Stillwater, OK",2011-04-08
+1227,2667,"Louisa, VA",2011-07-15
+1228,2668,"Winder, GA",2011-09-09
+1229,2669,"Amelia Island, FL",2011-08-26
+1230,2671,"Middletown, DE",2011-05-20
+1231,2672,"Ada, OK",2011-06-24
+1232,2673,"Wellsville, MO",2011-07-08
+1233,2674,"Pender, NE",2011-06-17
+1234,2675,"Owensboro, KY",2011-09-23
+1235,2676,"Nevada, IA",2011-08-26
+1236,2677,"Fort Gibson, OK",2011-10-28
+1237,2678,"Placerville, CA",2011-09-30
+1238,2679,"Rocky Mount, NC",2011-10-07
+1239,2680,"McMinnville, TN",2011-08-12
+1240,2681,"Grand Junction, CO",2011-09-09
+1241,2682,"Osage City, KS",2011-04-08
+1242,2683,"Craig, CO",2011-08-26
+1243,2684,"Tecumseh, OK",2011-06-10
+1244,2688,"Tulsa, OK",2011-09-23
+1245,2689,"Myrtle Beach, SC",2011-09-02
+1246,2690,"Winchester, TN",2011-04-15
+1247,2691,"Fort Smith, AR",2011-10-15
+1248,2692,"White County (Cleveland/Sautee), GA",2011-10-21
+1249,2693,"Weston, MO",2011-07-09
+1250,2694,"Green Lane, PA",2011-05-13
+1251,2695,"Sallisaw, OK",2011-06-03
+1252,2696,"West Des Moines, IA",2011-05-28
+1253,2697,"Libertyville, IL",2011-10-14
+1254,2699,"Washington, DC",2011-06-25
+1255,2700,"Omaha, NE",2011-09-23
+1256,2701,"Plant City, FL",2011-11-18
+1257,2702,"Dillard, GA",2011-08-05
+1258,2704,"Wynne, AR",2011-06-10
+1259,2708,"Gadsden, AL",2011-04-08
+1260,2709,"Costa Mesa, CA",2011-06-10
+1261,2710,"Kettering, OH",2011-07-08
+1262,2711,"Nashville, TN",2011-08-26
+1263,2712,"Marietta, OH",2011-06-10
+1264,2713,"Boston, NY",2011-06-24
+1265,2714,"Lyons, GA",2011-10-07
+1266,2715,"Decatur, AL",2011-09-16
+1267,2716,"South Bend, IN",2011-07-15
+1268,2717,"Harvard, MA",2011-09-17
+1269,2718,"Enid, OK",2011-04-15
+1270,2719,"Livingston, AL",2011-11-04
+1271,2720,"Independence, MO",2011-10-14
+1272,2721,"Kearns, UT",2011-08-12
+1273,2722,"Pleasant Hill, MO",2011-04-01
+1274,2723,"North Kansas City, MO",2011-03-11
+1275,2725,"De Soto, KS",2011-10-07
+1276,2726,"Lansing, KS",2011-05-06
+1277,2727,"Hallsville, MO",2011-02-11
+1278,2728,"Campo, CA",2011-08-12
+1279,2729,"Eliot, ME",2011-08-13
+1280,2730,"Covington, LA",2011-04-15
+1281,2731,"Terre Haute, IN",2011-07-22
+1282,2732,"Dillon, CO",2011-08-12
+1283,2733,"Sugar Creek, MO",2011-04-29
+1284,2735,"Harrisburg, PA",2011-10-07
+1285,2736,"Council Bluffs, IA",2011-07-29
+1286,2737,"Monroe, MI",2011-08-26
+1287,2739,"Centralia, MO",2011-10-07
+1288,2740,"Clarksburg, The Blue Mountains , ON",2011-07-08
+1289,2741,"Lincoln, IL",2011-08-26
+1290,2747,"Parsons, KS",2011-10-14
+1291,2748,"Haleyville, AL",2011-06-10
+1292,2749,"Quincy, IL",2011-09-09
+1293,2750,"Arkansas City, KS",2011-08-26
+1294,2751,"Morgan Hill, CA",2011-05-06
+1295,2753,"Bakersfield, CA",2011-05-20
+1296,2755,"Jeffersonville, IN",2011-06-17
+1297,2757,"Kings Mountain, NC",2011-04-15
+1298,2758,"Bedford, TX",2011-09-03
+1299,2762,"Cameron Park, CA",2011-09-16
+1300,2767,"Scottsdale, AZ",2011-03-25
+1301,2783,"Fulton, MS",2011-08-19
+1302,2784,"North Augusta, SC",2011-05-27
+1303,2785,"Lenexa, KS",2011-06-24
+1304,2786,"Richmond, MO",2011-05-06
+1305,2787,"Belton, MO",2011-05-06
+1306,2788,"Cullman, AL",2011-10-07
+1307,2789,"Bonner Springs, KS",2011-08-26
+1308,2790,"Jefferson City, MO",2011-04-15
+1309,2791,"Mission, KS",2011-09-16
+1310,2792,"Brockport, NY",2011-07-30
+1311,2793,"Windsor, MO",2011-09-02
+1312,2794,"Mt. Carmel , IL",2011-09-09
+1313,2795,"Sauk Rapids, MN",2011-06-17
+1314,2796,"State Center, IA",2011-06-17
+1315,2797,"Sevierville, TN",2011-05-20
+1316,2798,"Fairbault, MN",2011-05-20
+1317,2799,"Hazelwood, MO",2011-04-29
+1318,2800,"Sikeston, MO",2011-04-08
+1319,2801,"St. Joseph, MO",2011-05-06
+1320,2802,"Indio, CA",2011-04-30
+1321,2803,"Lexington, MA",2011-04-16
+1322,2804,"Brentwood, CA",2011-05-27
+1323,2805,"Rancho Cordova, CA",2011-07-02
+1324,2806,"Millington, TN",2011-09-09
+1325,2808,"Golden City, MO",2011-10-07
+1326,2809,"North Platte, NE",2011-05-06
+1327,2810,"Iola, KS",2011-07-29
+1328,2811,"Greenwood, SC",2011-07-08
+1329,2812,"Huron, SD",2011-06-03
+1330,2813,"Penn Valley, CA",2011-06-03
+1331,2814,"Mesquite, NV",2011-09-02
+1332,2815,"Benton, IL",2011-07-01
+1333,2816,"Troy, NY",2011-07-16
+1334,2817,"Chambersburg, PA",2011-10-14
+1335,2818,"Hernando, MS",2011-06-10
+1336,2820,"Cape Girardeau, MO",2011-08-26
+1337,2821,"Springfield, MO",2011-09-16
+1338,2822,"Kennesaw, GA",2011-08-26
+1339,2823,"Russell, KS",2011-09-23
+1340,2824,"Mt. Morris, MI",2011-06-17
+1341,2825,"Belleville, IL",2011-06-17
+1342,2826,"Dana Point, CA",2011-09-23
+1343,2827,"Kennett, MO",2011-04-22
+1344,2828,"Shakopee, MN",2011-06-10
+1345,2829,"Buffalo Ranch at Pala Casino, Pala, CA",2011-04-01
+1346,2830,"Gastonia, NC",2011-10-28
+1347,2831,"Lebanon, KY",2011-05-20
+1348,2833,"Alton, IL",2011-06-25
+1349,2871,"Gilbert, AZ",2011-04-08
+1350,2873,"Austin, TX",2011-05-13
+1351,2874,"Conroe, TX",2011-05-20
+1352,2875,"Sacramento (N), CA",2011-04-15
+1353,2876,"Overland Park, KS",2011-07-01
+1354,2877,"Sante Fe , NM",2011-04-22
+1355,2878,"Loveland, CO",2011-04-29
+1356,2879,"Las Vegas (N), NV",2011-05-06
+1357,2880,"Midwest City, OK",2011-07-08
+1358,2881,"Baton Rouge, LA",2011-05-27
+1359,2885,"Fort Worth (SW) , TX",2011-07-15
+1360,2886,"Memphis, TN",2011-07-22
+1361,2887,"Birmingham, AL",2011-08-05
+1362,2888,"Marietta, GA",2011-08-19
+1363,2889,"Orlando, FL",2011-08-26
+1364,2890,"Jackson, TN",2011-10-07
+1365,2891,"Bentonville, AR",2011-10-14
+1366,2892,"Greensboro, NC",2011-09-09
+1367,2893,"Chesapeake, VA",2011-09-16
+1368,2894,"Pittsburgh, PA",2011-09-23
+1369,2896,"Evergreen Park, IL",2011-06-03
+1370,2897,"Traverse City, MI",2011-06-10
+1371,2898,"Madison, WI",2011-06-17
+1372,2899,"Woodbury, MN",2011-06-24
+1373,2900,"Indianapolis, IN",2011-08-12
+1374,2907,"Fayetteville, AR",2011-09-30
+1375,2908,"Sandwich, MA",2011-06-11
+1376,2909,"Platte City, MO",2011-05-06
+1377,2910,"Burlington, KS",2011-07-15
+1378,2911,"Jasper, IN",2011-08-05
+1379,2912,"Frisco, CO",2011-06-17
+1380,2913,"McPherson, KS",2011-08-26
+1381,2915,"Rochester, MN",2011-08-12
+1382,2916,"Hermann, MO",2011-09-23
+1383,2917,"Pacific, MO",2011-08-12
+1384,2918,"Clarence, NY",2011-09-23
+1385,2919,"Tryon, NC",2011-06-10
+1386,2920,"Cameron, MO",2011-07-01
+1387,2921,"Mason City, IA",2011-07-22
+1388,2922,"Metropolis, IL",2011-10-07
+1389,2924,"Vista, CA",2011-08-05
+1390,2925,"Emporia, KS",2011-08-19
+1391,2926,"Parker, CO",2011-09-02
+1392,2927,"Garnett, KS",2011-10-14
+1393,2928,"Laurens, SC",2011-09-30
+1394,2929,"Glen Allen, VA",2011-09-16
+1395,2930,"Kingsford, MI",2011-07-15
+1396,2932,"Canton, GA",2011-10-14
+1397,2933,"Marshall, MN",2011-08-19
+1398,2934,"Hays, KS",2011-07-15
+1399,2935,"Greensboro, GA",2011-09-23
+1400,2936,"Anthony, KS",2011-07-15
+1401,2937,"Manorsville, NY",2011-08-06
+1402,2938,"Edwardsville, KS",2011-09-16
+1403,2939,"Euharlee, GA",2011-06-03
+1404,2940,"Arkansas City, KS",2011-04-29
+1405,2941,"Franklin, IN",2011-06-24
+1406,2942,"Santa Rosa, CA",2011-09-09
+1407,2943,"Springfield, TN",2011-10-14
+1408,2944,"Memphis, TN",2011-06-17
+1409,2945,"Brandon, MS",2011-05-13
+1410,2947,"Prescott, AZ",2011-05-13
+1411,2948,"Olathe, KS",2011-08-05
+1412,2949,"Heber City, UT",2011-06-10
+1413,2951,"Paola, KS",2011-08-26
+1414,2952,"Mount Holly, NJ",2011-07-29
+1415,2953,"Tonganoxie, KS",2011-06-10
+1416,2954,"Bellevue, NE",2011-07-15
+1417,2955,"Pelahatchie, MS",2011-04-01
+1418,2956,"Columbus, GA",2011-05-06
+1419,2957,"Holbrook, AZ",2011-07-08
+1420,2958,"Old Orchard Beach, ME",2011-06-24
+1421,2959,"Sisters, OR",2011-06-25
+1422,2960,"Bluemont, VA",2011-07-29
+1423,2962,"Las Vegas, NV",2011-05-21
+1424,2963,"Weeping Water, NE",2011-08-12
+1425,2964,"Mayetta, KS",2011-06-17
+1426,2966,"Overland Park, KS",2011-05-20
+1427,2967,"Arthur , IL",2011-10-07
+1428,2968,"Willowbrook, IL",2011-06-04
+1429,2969,"Warrens, WI",2011-09-02
+1430,2970,"Monroe City, MO",2011-05-20
+1431,2971,"Carrollton, KY",2011-09-09
+1432,2972,"Council Bluffs, IA",2011-05-13
+1433,2974,"Amarillo, TX",2011-05-27
+1434,2975,"Saratoga, NY",2011-07-29
+1435,2989,"La Porte City, IA",2011-07-16
+1436,2990,"Bel Air, MD",2011-08-12
+1437,2991,"Merrimack, NH",2011-06-17
+1438,2995,"Grand Rapids, MI",2011-07-22
+1439,2996,"Lincolnton, NC",2011-06-03
+1440,2998,"Kearney, MO",2011-09-16
+1441,2999,"Blue Springs, MO",2011-09-09
+1442,3000,"Morden Manitoba, CN",2011-08-27
+1443,3002,"Upper Marlboro, MD",2011-06-03
+1444,3003,"Excelsior Springs, MO",2011-08-19
+1445,3005,"Columbia, MO",2011-05-06
+1446,3006,"Olathe, KS",2011-07-22
+1447,3007,"Greer, SC",2011-08-26
+1448,3008,"Ottumwa, IA",2011-06-10
+1449,3009,"Cle Elum, WA",2011-07-22
+1450,3010,"Lawrence, KS",2011-05-06
+1451,3011,"Valley Center, KS",2011-05-06
+1452,3012,"Kenosha, WI",2011-08-26
+1453,3014,"Armada, MI",2011-06-03
+1454,3015,"Wilson, NY",2011-06-17
+1455,3022,"Omaha, NE",2011-06-10
+1456,3037,"Buffalo, NY",2011-08-05
+1457,3041,"Shawnee, KS",2011-09-23
+1458,3042,"Sedona, AZ",2011-07-22
+1459,3043,"Suquamish, WA",2011-09-04
+1460,3044,"Lee''s Summit, MO",2011-07-29
+1461,3045,"Tuscumbia, MO",2011-08-12
+1462,3046,"Boise, ID",2011-07-22
+1463,3048,"Cookeville, TN",2011-09-09
+1464,3051,"Westport, CT",2011-09-24
+1465,3052,"Windsor, VT",2011-07-22
+1466,3053,"Columbia, MO",2011-09-09
+1467,3054,"Ames, IA",2011-09-03
+1468,3055,"White Sulphur Springs, MT",2011-07-29
+1469,3058,"North Wildwood, NJ",2011-07-08
+1470,3059,"Connersville, IN",2011-09-03
+1471,3060,"York, PA",2011-09-09
+1472,3061,"Dodge City, KS",2011-07-29
+1473,3062,"Woodstock, VA",2011-10-21
+1474,3064,"Kingston, RI",2012-07-21
+1475,3096,"Clarksville, TN",2011-06-17
+1476,3097,"Gettysburg, PA",2012-07-13
+1477,3098,"Artesia, NM",2012-06-29
+1478,3099,"Pine Bluff, AR",2011-09-16
+1479,3100,"Tracys Landing, MD",2011-09-03
+1480,3101,"Litchfield, IL",2011-09-16
+1481,3102,"Grafton, WI",2011-08-20
+1482,3104,"Greenfield, MA",2011-10-07
+1483,3105,"Kansas City, MO",2011-09-29
+1484,3120,"Dubuque, IA",2011-09-03
+1485,3121,"Langley, OK",2012-05-18
+1486,3122,"Edenton, NC",2012-04-27
+1487,3124,"Lexington, NC",2012-04-27
+1488,3125,"Valley Center, KS",2012-06-01
+1489,3126,"Gillette, WY",2011-08-12
+1490,3128,"Kansas City, MO",2011-09-29
+1491,3129,"Lynchburg, TN",2011-10-21
+1492,3131,"Lake Havasu City, AZ",2012-01-27
+1493,3133,"Worthington, MN",2011-09-16
+1494,3140,"Jonesboro, AR",2011-09-30
+1495,3141,"Vista, CA",2011-12-09
+1496,3142,"Vista, CA",2011-12-10
+1497,3143,"Hampton, VA",2011-09-09
+1498,3144,"Tuxedo, NC",2011-10-08
+1499,3146,"Abilene, KS",2012-05-18
+1500,3147,"Kennett, MO",2012-04-06
+1501,3148,"Tupelo, MS",2012-03-16
+1502,3150,"Apex, NC",2012-06-22
+1503,3151,"Covington, VA",2012-06-29
+1504,3152,"Corinth, MS",2011-09-30
+1505,3166,"Buena Park, CA",2011-12-30
+1506,3167,"Buena Park, CA",2011-12-31
+1507,3168,"Waxhaw, NC",2011-10-08
+1508,3169,"Washington Island, WI",2012-08-24
+1509,3170,"St. Joseph, MO",2012-05-04
+1510,3171,"Lewisburg, TN",2012-05-25
+1511,3172,"Benton, KY",2012-03-30
+1512,3173,"Whiting, IA",2012-07-03
+1513,3174,"Slidell, LA",2012-03-30
+1514,3175,"Steeleville, IL",2012-05-18
+1515,3176,"Pensacola, FL",2012-03-02
+1516,3177,"New London, CT",2011-10-14
+1517,3178,"Manhattan, KS",2012-05-11
+1518,3179,"Mesa, AZ",2011-12-09
+1519,3180,"Mesa, AZ",2011-12-10
+1520,3181,"Bakersfield, CA",2012-05-18
+1521,3187,"Tryon, NC",2012-06-08
+1522,3199,"Antioch, CA",2011-11-11
+1523,3200,"Young Harris, GA",2012-01-27
+1524,3204,"McLouth, KS",2012-06-01
+1525,3205,"Girard, KS",2012-06-30
+1526,3206,"Holbrook, AZ",2012-07-06
+1527,3207,"Costa Mesa, CA",2012-06-08
+1528,3208,"Cornelia, GA",2012-04-20
+1529,3209,"Surprise, AZ",2012-03-02
+1530,3210,"Norman, OK",2012-07-13
+1531,3211,"Hartselle, AL",2012-05-18
+1532,3212,"Mobile, AL",2012-03-09
+1533,3213,"Gillette, WY",2012-08-03
+1534,3214,"Ashland, MS",2012-05-04
+1535,3216,"Lakeland, FL",2012-01-27
+1536,3217,"Wildomar, CA",2012-04-06
+1537,3218,"Council Bluffs, IA",2012-07-27
+1538,3219,"Boulder City, NV",2012-05-25
+1539,3220,"Topeka, KS",2012-05-25
+1540,3221,"Washington, MO",2012-04-20
+1541,3222,"Laurie, MO",2012-08-03
+1542,3223,"Lake Placid, NY",2012-06-29
+1543,3224,"La Platte, NE",2012-08-17
+1544,3225,"Enid, OK",2012-04-20
+1545,3226,"Huron, SD",2012-06-01
+1546,3227,"Edmond, OK",2012-05-25
+1547,3229,"Storm Lake, IA",2012-06-15
+1548,3230,"Cleveland, TN",2012-07-27
+1549,3231,"Fair Oaks, IN",2012-06-01
+1550,3237,"Bixby, OK",2011-05-07
+1551,3238,"Easton, MD",2011-07-22
+1552,3240,"Columbia, MO",2012-02-24
+1553,3241,"Harvard, MA",2012-09-15
+1554,3242,"Claremore, OK",2012-05-11
+1555,3243,"Columbia, MO",2012-05-04
+1556,3244,"Craig, CO",2012-08-03
+1557,3245,"Lansing, KS",2012-05-04
+1558,3246,"Lawrence, KS",2012-05-04
+1559,3247,"Kings Mountain, NC",2012-04-20
+1560,3248,"North Platte, NE",2012-05-04
+1561,3249,"Connersville, IN",2012-09-01
+1562,3250,"Winder, GA",2012-09-07
+1563,3251,"Dodge City, KS",2012-07-27
+1564,3252,"Chesapeake City, VA",2012-05-18
+1565,3253,"Cumberland, MD",2012-08-17
+1566,3254,"Murphysboro, IL",2012-09-20
+1567,3255,"Liberty, IN",2012-05-05
+1568,3256,"Vermillion, SD",2012-09-07
+1569,3257,"Laramie, WY",2012-07-20
+1570,3258,"Springfield, KY",2012-10-05
+1571,3259,"Bixby, OK",2012-05-04
+1572,3260,"Tracy''s Landing, MD",2012-09-01
+1573,3261,"Young Harris, GA",2012-05-25
+1574,3262,"Omaha, NE",2012-09-01
+1575,3263,"Springfield, MO",2012-04-20
+1576,3264,"McPherson, KS",2012-08-24
+1577,3267,"Fulton, MS",2012-08-17
+1578,3268,"Rio Rancho, NM",2012-07-06
+1579,3269,"Worland, WY",2012-08-17
+1580,3270,"Salisbury, MD",2012-04-20
+1581,3271,"Stillwater, OK",2012-04-06
+1582,3272,"Fryeburg, ME",2012-08-04
+1583,3273,"Frederick, MD",2012-06-15
+1584,3274,"Parker, CO",2012-08-31
+1585,3277,"Salisbury, NC",2012-09-21
+1586,3281,"Mason City, IA",2012-07-27
+1587,3292,"Nanaimo, BC",2012-07-14
+1588,3293,"Mesa, AZ",2012-01-21
+1589,3294,"Overland Park, KS",2012-04-20
+1590,3295,"Coalville, UT",2012-06-29
+1591,3296,"Oakland, CA",2012-07-06
+1592,3298,"Great Bend, KS",2012-02-24
+1593,3299,"Hernando, MS",2012-06-15
+1594,3300,"Mears, MI",2012-09-07
+1595,3301,"Fayetteville, AR",2012-09-28
+1596,3302,"Dillard, GA",2012-08-03
+1597,3303,"Fairbault, MN",2012-05-18
+1598,3304,"Auburn Hills, MI",2012-06-22
+1599,3305,"Osage City, KS",2012-04-06
+1600,3306,"Franklin, IN",2012-06-22
+1601,3307,"Bellevue, NE",2012-07-20
+1602,3309,"Frisco, CO",2012-06-14
+1603,3310,"Westmont, IL",2012-05-26
+1604,3311,"Merrimack, NH",2012-06-15
+1605,3312,"Huntsville, AL",2012-05-04
+1606,3313,"New Holland, PA",2012-08-24
+1607,3314,"Quapaw, OK",2012-08-31
+1608,3315,"Lenexa, KS",2012-06-22
+1609,3316,"Lincoln, IL",2012-08-24
+1610,3317,"Yates Center, KS",2012-09-07
+1611,3318,"Zanndam~Netherlands, NL",2012-04-21
+1612,3325,"Lee''s Summit, MO",2012-06-01
+1613,3326,"Hays, KS",2012-07-20
+1614,3327,"Raytown, MO",2012-06-08
+1615,3328,"Mission, KS",2012-09-14
+1616,3329,"Richmond, VA",2012-09-07
+1617,3331,"Montello, WI",2012-06-08
+1618,3332,"State Center, IA",2012-06-16
+1619,3334,"Omaha, NE",2012-09-28
+1620,3335,"Wilson, NY",2012-06-15
+1621,3336,"Scott City, KS",2012-09-14
+1622,3337,"Shawnee, KS",2012-09-21
+1623,3338,"Suquamish, WA",2012-09-02
+1624,3339,"Florence, CO",2012-10-19
+1625,3340,"Marshalltown, IA",2012-06-22
+1626,3341,"Ponca City, OK",2012-09-14
+1627,3342,"Seymour, MO",2012-06-22
+1628,3343,"Lyons, GA",2012-10-12
+1629,3344,"Sugar Creek, MO",2012-04-27
+1630,3345,"Kenosha, WI",2012-08-24
+1631,3346,"Gadsden, AL",2012-04-13
+1632,3348,"Munfordville, KY",2012-10-19
+1633,3349,"Lakeport, CA",2012-08-24
+1634,3350,"Indio, CA",2012-04-27
+1635,3351,"Owatonna, MN",2012-06-01
+1636,3352,"Chandler, OK",2012-06-15
+1637,3353,"Myrtle Beach, SC",2012-08-31
+1638,3354,"Rome, GA",2012-09-28
+1639,3355,"Calhoun, GA",2012-04-27
+1640,3356,"Fredericksburg, VA",2012-05-04
+1641,3362,"McLouth, KS",2011-06-03
+1642,3369,"Vandiver, AL",2012-05-25
+1643,3370,"Jeffersonville, IN",2012-06-15
+1644,3371,"Santa Clara, CA",2012-06-29
+1645,3372,"Vista, CA",2012-08-03
+1646,3373,"Shawnee, OK",2012-09-28
+1647,3376,"Olathe, KS",2012-05-18
+1648,3377,"Penn Valley, CA",2012-07-20
+1649,3378,"Columbia, MO",2012-09-21
+1650,3379,"North Kansas City, MO",2012-03-09
+1651,3380,"Hammond, LA",2012-03-23
+1652,3381,"Pleasant Hill, MO",2012-03-30
+1653,3382,"Columbus, GA",2012-04-27
+1654,3384,"Annapolis, MD",2012-05-04
+1655,3385,"Rome, GA",2012-05-11
+1656,3386,"Waynesboro, GA",2012-05-11
+1657,3387,"West Des Moines, IA",2012-05-26
+1658,3388,"Rochester, NY",2012-05-26
+1659,3389,"Armada, MI",2012-06-01
+1660,3390,"Memphis, TN",2012-06-01
+1661,3393,"Fredonia, KS",2012-06-08
+1662,3394,"Meridian, ID",2012-06-30
+1663,3395,"Greenwood, SC",2012-07-13
+1664,3396,"Louisa, VA",2012-07-20
+1665,3397,"Waterloo, IA",2012-07-20
+1666,3398,"South Bend, IN",2012-07-20
+1667,3399,"Bluemont, VA",2012-07-27
+1668,3400,"Iola, KS",2012-07-27
+1669,3401,"Palmyra, VA",2012-06-22
+1670,3402,"Jefferson City, MO",2012-04-20
+1671,3403,"Middletown, DE",2012-05-18
+1672,3404,"Pueblo, CO",2012-06-08
+1673,3405,"Marietta, OH",2012-06-08
+1674,3406,"Hamburg, NY",2012-06-22
+1675,3407,"Glasgow, MO",2012-07-20
+1676,3408,"New Palestine, IN",2012-07-27
+1677,3410,"Windsor, VT",2012-07-27
+1678,3412,"Manorville, NY",2012-08-04
+1679,3413,"Franklin, NC",2012-08-10
+1680,3414,"Dillon, CO",2012-08-10
+1681,3415,"McMinnville, TN",2012-08-10
+1682,3416,"Rochester, MN",2012-08-10
+1683,3417,"Weepingwater, NE",2012-08-10
+1684,3418,"Excelsior Springs, MO",2012-08-17
+1685,3419,"Eliot, ME",2012-08-11
+1686,3420,"Grafton, WI",2012-08-17
+1687,3421,"New Paltz, NY",2012-08-18
+1688,3422,"Kennesaw, GA",2012-08-24
+1689,3423,"Monroe, MI",2012-08-25
+1690,3424,"Amelia Island, FL",2012-08-24
+2140,4088,"Glasgow, MO",2013-07-19
+1691,3425,"Albert Lea, MN",2012-08-24
+1692,3426,"Nevada, IA",2012-08-24
+1693,3427,"Wynne, AR",2012-06-08
+1694,3428,"Wellsville, MO",2012-07-13
+1695,3429,"Madison, IN",2012-08-17
+1696,3430,"Marshall, MN",2012-08-17
+1697,3431,"Greer, SC",2012-08-24
+1698,3432,"Mesquite, NV",2012-08-31
+1699,3433,"Bedford, TX",2012-09-01
+1700,3434,"Rogers, AR",2012-04-27
+1701,3435,"Brockport, NY",2012-07-06
+1702,3436,"Sallisaw, OK",2012-06-01
+1703,3437,"Canon City, CO",2012-06-01
+1704,3438,"Troy, NY",2012-07-14
+1705,3439,"Bel Air , MD",2012-08-10
+1706,3440,"Millington, TN",2012-09-07
+1707,3441,"Quincy, IL",2012-09-07
+1708,3443,"Grand Junction, CO",2012-09-07
+1709,3444,"Blue Springs, MO",2012-09-07
+1710,3446,"Decatur, AL",2012-09-14
+1711,3447,"Litchfield, IL",2012-09-14
+1712,3449,"Clarence, NY",2012-09-21
+1713,3450,"Owensboro, KY",2012-09-21
+1714,3451,"Tulsa, OK",2012-09-21
+1715,3452,"Seaside Heights, NJ",2012-09-22
+1716,3453,"Garden City, KS",2012-09-21
+1717,3454,"Dana Point, CA",2012-09-28
+1718,3455,"Harrisburg, PA",2012-10-05
+1719,3457,"Jonesboro, AR",2012-10-05
+1720,3458,"Greenfield, MA",2012-10-05
+1721,3459,"Cullman, AL",2012-10-11
+1722,3460,"Centralia, MO",2012-10-19
+1723,3461,"Rocky Mount, NC",2012-10-12
+1724,3462,"Libertyville, IL",2012-10-19
+1725,3463,"Independence, MO",2012-10-12
+1726,3464,"De Soto, KS",2012-10-12
+1727,3465,"Parsons, KS",2012-10-19
+1728,3467,"Nelsonville, OH",2012-10-19
+1729,3468,"Woodstock, VA",2012-10-19
+1730,3470,"Fort Smith, AR",2012-10-20
+1731,3471,"White County, GA",2012-10-26
+1732,3472,"Fort Gibson, OK",2012-10-26
+1733,3473,"Butler, MO",2012-10-26
+1734,3474,"Cumming, GA",2012-11-16
+1735,3475,"Demopolis, AL",2012-11-30
+1736,3476,"Harrison, AR",2012-11-02
+1737,3478,"Hannibal, MO",2012-06-01
+1738,3479,"Placerville, CA",2012-09-21
+1739,3480,"Green Lane, PA",2012-05-11
+1740,3481,"Tonganoxie, KS",2012-06-08
+1741,3482,"Carrollton, KY",2012-09-07
+1742,3484,"Long Beach, CA",2012-05-11
+1743,3485,"Grandview, MO",2012-05-04
+1744,3486,"West Palm Beach, FL",2012-03-23
+1745,3490,"Mesa, AZ",2012-03-23
+1746,3491,"Atlanta, GA",2012-09-14
+1747,3500,"Lee''s Summit, MO",2012-07-27
+1748,3501,"Worthington, MN",2012-09-14
+1749,3502,"Jackson, MS",2012-10-12
+1750,3505,"Tampa, FL",2012-02-17
+1751,3506,"Ocala, FL",2012-03-02
+1752,3507,"Baton Rouge, LA",2012-03-09
+1753,3508,"Westworth Village, TX",2012-03-16
+1754,3509,"Midwest City, OK",2012-03-23
+1755,3510,"Las Vegas, NV",2012-04-20
+1756,3511,"Salt Lake City, UT",2012-04-27
+1757,3512,"Thornton, CO",2012-05-04
+1758,3513,"Albuquerque, NM",2012-05-11
+1759,3514,"Lenexa, KS",2012-05-18
+1760,3516,"Tuscon, AZ",2012-04-06
+1761,3517,"San Diego, CA",2012-04-13
+1762,3518,"Austin, TX",2012-05-25
+1763,3519,"Marietta, GA",2012-06-01
+1764,3521,"North Charleston, SC",2012-06-15
+1765,3522,"Greensboro, NC",2012-06-22
+1766,3523,"Canton, OH",2012-06-29
+1767,3524,"Southgate, MI",2012-07-06
+1768,3525,"Madison, WI",2012-07-13
+1769,3526,"Woodbury, MN",2012-07-20
+1770,3527,"Des Moines, IA",2012-07-27
+1771,3528,"Rockford, IL",2012-08-03
+1772,3529,"Pittsburgh, PA",2012-08-10
+1773,3530,"Medford, NY",2012-08-17
+1774,3531,"Pleasantville, NJ",2012-08-24
+1775,3532,"Laurel, MD",2012-09-07
+1776,3533,"Chesapeake, VA",2012-09-14
+1777,3534,"Hendersonville, TN",2012-09-21
+1778,3535,"St. Charles, MO",2012-09-28
+1779,3536,"Bentonville, AR",2012-10-12
+1780,3538,"Arcadia, CA",2012-03-09
+1781,3539,"Ames, IA",2012-04-20
+1782,3540,"Temecula, CA",2012-06-22
+1783,3541,"Anaheim, CA",2012-06-30
+1784,3542,"Anaheim, CA",2012-06-29
+1785,3544,"Morton, IL",2012-07-27
+1786,3545,"Poteau, OK",2012-10-19
+1787,3546,"Las Vegas, NV",2012-03-30
+1788,3547,"Winchester, TN",2012-04-20
+1789,3548,"Evans, GA",2012-05-25
+1790,3549,"Lincolnton, NC",2012-06-01
+1791,3550,"Belleville, IL",2012-06-15
+1792,3551,"Okemah, OK",2012-06-22
+1793,3552,"Washingtnn, DC",2012-06-23
+1794,3553,"Cameron, MO",2012-06-29
+1795,3554,"Benton, IL",2012-07-06
+1796,3555,"Santa Rosa, CA",2012-07-13
+1797,3556,"Weston, MO",2012-07-14
+1798,3557,"Winnipeg, Manitoba, CN",2012-08-17
+1799,3558,"Kearney, MO",2012-09-14
+1800,3559,"Kansas City, MO",2012-10-04
+1801,3560,"Laurens, SC",2012-10-05
+1802,3561,"Shelby, NC",2012-11-02
+1803,3562,"Plant City, FL",2012-11-16
+1804,3563,"Brandon, MS",2012-05-11
+1805,3564,"Edenton, NC",2012-04-28
+1806,3567,"Paola, KS",2012-08-24
+1807,3568,"York, PA",2012-09-07
+1808,3578,"Gainesville, GA",2012-11-09
+1809,3579,"Lamar, CO",2012-05-11
+1810,3589,"Brentwood, CA",2012-05-26
+1811,3590,"Huntsville, AL",2012-06-08
+1812,3593,"Staten Island, NY",2012-04-21
+1813,3594,"Ontario, CA",2012-05-04
+1814,3595,"Effingham, IL",2012-06-22
+1815,3597,"Columbus, MS",2012-08-24
+1816,3598,"Shenandoah, VA",2012-09-21
+1817,3599,"Topeka, KS",2012-10-12
+1818,3600,"Santee, CA",2012-10-12
+1819,3602,"Platte City, MO",2012-05-11
+1820,3603,"Council Bluffs, IA",2012-05-11
+1821,3604,"Monroe City, MO",2012-05-18
+1822,3605,"Sevierville, TN",2012-05-18
+1823,3606,"Scottsdale, AZ",2012-05-19
+1824,3607,"Upper Marlboro, MD",2012-06-01
+1825,3608,"Marysville, KS",2012-06-01
+1826,3609,"Mayetta, KS",2012-06-08
+1827,3610,"Euharlee, GA",2012-06-15
+1828,3613,"Kingsford, MI",2012-07-20
+1829,3614,"Burlington, KS",2012-07-20
+1830,3615,"Jasper, IN",2012-08-03
+1831,3616,"Cape Girardeau, MO",2012-08-24
+1832,3617,"Warrens, WI",2012-08-31
+1833,3618,"Hedgesville, WV",2012-09-07
+1834,3619,"Arthur, IL",2012-10-12
+1835,3620,"Arkansas City, KS",2012-04-27
+1836,3621,"Clarksville, TN",2012-06-22
+1837,3622,"Florissant, MO",2012-05-11
+1838,3628,"Billings, MT",2012-08-15
+1839,3629,"Waxhaw, NC",2012-10-12
+1840,3630,"Kirksville, MO",2012-09-07
+1841,3633,"Mesa, AZ",2012-03-24
+1842,3635,"Brentwood, CA",2012-05-27
+1843,3636,"Ashland, MS",2012-08-24
+1844,3637,"Memphis, TN",2012-04-21
+1845,3638,"Cookeville, TN",2012-09-07
+1846,3640,"Williams, AZ",2012-06-15
+1847,3641,"Nashville, TN",2012-08-24
+1848,3642,"Windsor, MO",2012-08-31
+1849,3643,"Bonner Springs, KS",2012-08-24
+1850,3660,"North Bend, OR",2012-05-25
+1851,3661,"Ottumwa, IA",2012-06-08
+1852,3662,"Davenport, IA",2012-06-15
+1853,3663,"Westminster, CA",2012-08-17
+1854,3665,"Liberal, KS",2012-08-03
+1855,3666,"Coquille, OR",2012-09-07
+1856,3667,"Watertown, SD",2012-07-20
+1857,3668,"Telluride, CO",2012-09-22
+1858,3669,"Danville, IL",2012-09-28
+1859,3670,"Needles, CA",2012-10-05
+1860,3671,"Sand Springs, OK",2012-10-12
+1861,3672,"Harrisonburg, VA",2012-09-01
+1862,3673,"Lexington, MA",2012-05-19
+1863,3676,"Old Orchard Beach, ME",2012-06-23
+1864,3677,"North Wildwood, NJ",2012-07-13
+1865,3678,"Tuscumbia, MO",2012-07-27
+1866,3679,"Emporia, KS",2012-08-17
+1867,3680,"Metropolis, IL",2013-06-28
+1868,3681,"Lancaster, CA",2012-10-19
+1869,3682,"Montello, WI",2012-09-07
+1870,3685,"Denver, CO",2012-06-21
+1871,3686,"Montague, CA",2012-07-27
+1872,3687,"Kettering, OH",2012-07-13
+1873,3688,"St. Charles, IL",2012-06-08
+1874,3689,"Lake Ozark, MO",2012-06-01
+1875,3690,"Des Moines, IA",2012-09-21
+1876,3691,"Fort Bliss, TX",2012-10-12
+1877,3696,"Calgary, Alberta, CN",2012-09-01
+1878,3697,"Syracuse, NY",2012-07-20
+1879,3699,"Leavenworth, KS",2012-09-07
+1880,3705,"Xenia, OH",2012-09-28
+1881,3715,"Birch Run, MI",2012-08-17
+1882,3716,"Kannapolis, NC",2013-05-10
+1883,3717,"Grand Rapids, MI",2012-07-27
+1884,3718,"Corinth, MS",2012-10-05
+1885,3719,"Snohomish, WA",2012-07-21
+1886,3720,"Russell, KS",2012-10-05
+1887,3721,"Springfield, TN",2012-10-12
+1888,3722,"Dalton, GA",2012-10-20
+1889,3725,"Duluth, GA",2012-10-12
+1890,3747,"Garnett, KS",2012-10-19
+1891,3749,"Whitewater, WI",2012-09-21
+1892,3751,"Idaho Falls, ID",2012-09-14
+1893,3752,"Maggie Valley, NC",2013-07-26
+1894,3753,"Brentwood, CA",2012-08-17
+1895,3754,"Calhoun, GA",2012-11-30
+1896,3755,"Mount Holly, NJ",2012-09-08
+1897,3761,"Campo, CA",2012-08-10
+1898,3771,"Dothan, AL",2012-10-05
+1899,3772,"Vidalia, LA",2012-09-29
+1900,3776,"New London, CT",2012-09-29
+1901,3777,"Westport, CT",2012-09-01
+1902,3778,"Tuxedo, NC",2012-10-13
+1903,3779,"Lexington, NC",2013-04-26
+1904,3781,"Pine Bluff, AR",2012-09-14
+1905,3782,"Herington, KS",2012-09-21
+1906,3783,"Grandview, MO",2013-05-03
+1907,3786,"Kansas City, MO",2012-10-04
+1908,3788,"Lynchburg, TN",2012-10-26
+1909,3790,"Tupelo, MS",2013-03-15
+1910,3792,"Summerville, GA",2013-04-05
+1911,3793,"Mt. Carmel, IL",2013-04-26
+1912,3795,"Nashville, TN",2012-09-29
+1913,3799,"Las Vegas, NV",2012-11-01
+1914,3806,"Young Harris, GA",2013-02-08
+1915,3811,"Boulder City, NV",2013-05-24
+1916,3812,"Whiting, IA",2013-07-03
+1917,3814,"Annapolis, MD",2013-05-03
+1918,3815,"Gothenburg, NE",2013-04-26
+1919,3816,"Artesia, NM",2013-06-28
+1920,3817,"Davenport, IA",2013-06-22
+1921,3818,"West City, IL",2012-10-27
+1922,3819,"Vista, CA",2012-12-14
+1923,3820,"Lake Elsinore, CA",2012-12-30
+1924,3821,"Wildomar, CA",2013-04-05
+1925,3827,"Arcadia, CA",2012-10-27
+1926,3828,"Langley, OK",2013-05-17
+1927,3829,"Lakeland, FL",2013-01-25
+1928,3830,"Coachella, CA",2012-12-07
+1929,3831,"Cleveland, TN",2013-07-26
+1930,3832,"Kennett, MO",2013-04-05
+1931,3835,"Clarksburg, MD",2012-10-12
+1932,3839,"Winchester, VA",2013-06-28
+1933,3840,"Laughlin, NV",2012-11-09
+1934,3842,"Laurie, MO",2013-08-02
+1935,3843,"Fairplay, CO",2013-06-21
+1936,3844,"North Bend, OR",2013-05-25
+1937,3848,"Liberty, MO",2013-07-03
+1938,3850,"Lake Havasu City, AZ",2013-01-25
+1939,3858,"Mobile, AL",2013-03-08
+1940,3859,"Tecumseh, OK",2013-06-07
+1941,3860,"Hays, KS",2013-07-19
+1942,3861,"Lake Placid, NY",2013-07-04
+1943,3862,"Ponca City, OK",2013-09-13
+1944,3863,"Benton, KY",2013-03-29
+1945,3864,"Slidell, LA",2013-03-29
+1946,3865,"Calhoun, GA",2013-04-26
+1947,3866,"Washington, MO",2013-04-19
+1948,3867,"Pueblo, CO",2013-06-07
+1949,3868,"Kettering, OH",2013-07-12
+1950,3869,"Bixby, OK",2013-05-03
+1951,3870,"Tryon, NC",2013-06-14
+1952,3871,"Fillmore, CA",2013-06-14
+1953,3872,"Auburn Hills, MI",2013-06-21
+1954,3959,"Mesa, AZ",2012-12-07
+1955,3990,"Lake Elsinore, CA",2012-12-31
+1956,4192,"Mesa, AZ",2013-02-15
+1957,4199,"Tampa, FL",2013-02-15
+1958,4187,"Mesa, AZ",2013-02-16
+1959,3977,"Columbia, MO",2013-02-22
+1960,4200,"Daphne, AL",2013-02-22
+1961,3882,"Pensacola, FL",2013-03-01
+1962,4211,"Baton Rouge, LA",2013-03-01
+1963,4212,"Westworth Village, TX",2013-03-08
+1964,3968,"N. Kansas City, MO",2013-03-15
+1965,4138,"Arcadia, CA",2013-03-15
+1966,4147,"Miami, OK",2013-03-15
+1967,4205,"Albuquerque, NM",2013-03-15
+1968,3893,"Midland, TX",2013-03-22
+1969,3899,"Kearney, NE",2013-03-22
+1970,3918,"Hammond, LA",2013-03-22
+1971,4206,"Tucson, AZ",2013-03-22
+1972,4188,"Shawnee, OK",2013-03-29
+1973,4207,"Thornton, CO",2013-03-29
+1974,3900,"Stillwater, OK",2013-04-05
+1975,4106,"Pleasant Hill, MO",2013-04-05
+1976,4208,"Salt Lake City, UT",2013-04-05
+1977,4244,"Somerville, TN",2013-04-05
+1978,4287,"Evansville, IN",2013-04-05
+1979,4007,"Woodland, CA",2013-04-06
+1980,3914,"Osage City, KS",2013-04-12
+1981,3984,"Gadsden, AL",2013-04-12
+1982,4027,"Columbus, MS",2013-04-12
+1983,4209,"Renton, WA",2013-04-12
+1984,4341,"Smithville, MO",2013-04-12
+1985,3884,"Enid, OK",2013-04-19
+1986,3920,"Springfield, MO",2013-04-19
+1987,3952,"Winchester, TN",2013-04-19
+1988,3995,"Staten Island, NY",2013-04-19
+1989,3996,"Overland Park, KS",2013-04-19
+1990,4028,"Kings Mountain, NC",2013-04-19
+1991,4058,"Cornelia, GA",2013-04-19
+1992,4104,"Salisbury, MD",2013-04-19
+1993,4119,"Ames, IA",2013-04-19
+1994,4210,"Las Vegas, NV",2013-04-19
+1995,3939,"Victorville, CA",2013-04-20
+1996,3983,"Sugar Creek, MO",2013-04-26
+1997,4077,"Edwardsville, KS",2013-04-26
+1998,4101,"Columbus, GA",2013-04-26
+1999,4149,"Arkansas City, KS",2013-04-26
+2000,4214,"Overland Park, KS",2013-04-26
+2001,4237,"Rogers, AR",2013-04-26
+2002,4277,"Indio, CA",2013-04-27
+2003,4285,"Memphis, TN",2013-04-28
+2004,4296,"Laughlin, NV",2013-05-02
+2005,3874,"Fremont, WI",2013-05-03
+2006,3912,"Columbia, MO",2013-05-03
+2007,3917,"Lansing, KS",2013-05-03
+2008,3922,"Knoxville, TN",2013-05-03
+2009,3933,"Huntsville, AL",2013-05-03
+2010,4041,"North Platte, NE",2013-05-03
+2011,4156,"Hot Springs, AR",2013-05-03
+2012,4159,"Show Low, AZ",2013-05-03
+2013,4183,"St. Joseph, MO",2013-05-03
+2014,4215,"St. Charles, MO",2013-05-03
+2015,4268,"Brandon, MS",2013-05-03
+2016,3928,"Liberty, IN",2013-05-04
+2017,3936,"Fredericksburg, VA",2013-05-10
+2018,3944,"Manhattan, KS",2013-05-10
+2019,3945,"Waynesboro, GA",2013-05-10
+2020,3961,"Ashland, MS",2013-05-10
+2021,3966,"Rome, GA",2013-05-10
+2022,3973,"Claremore, OK",2013-05-10
+2023,4032,"Lawrence, KS",2013-05-10
+2024,4070,"Long Beach, CA",2013-05-10
+2025,4086,"Green Lane, PA",2013-05-10
+2026,4189,"Lamar, CO",2013-05-10
+2027,4201,"Knoxville, TN",2013-05-10
+2028,4243,"Platte City, MO",2013-05-10
+2029,4317,"Florissant, MO",2013-05-10
+2030,4345,"Council Bluffs, IA",2013-05-10
+2031,3902,"Chesapeake, VA",2013-05-17
+2032,3923,"West Chester, OH",2013-05-17
+2033,3967,"Sevierville, TN",2013-05-17
+2034,3970,"Abilene, KS",2013-05-17
+2035,4034,"Gainesville, GA",2013-05-17
+2036,4063,"Faribault, MN",2013-05-17
+2037,4076,"Middletown, DE",2013-05-17
+2038,4127,"Bakersfield, CA",2013-05-17
+2039,4139,"Lake of the Ozarks, MO",2013-05-17
+2040,4144,"Hartselle, AL",2013-05-17
+2041,4202,"Marietta, GA",2013-05-17
+2042,4240,"Monroe City, MO",2013-05-17
+2043,4390,"Steeleville, IL",2013-05-17
+2044,4060,"Lexington, MA",2013-05-18
+2045,4069,"Hoofddorp, Netherlands",2013-05-18
+2046,4059,"Lewisburg, TN",2013-05-24
+2047,4075,"Westmont, IL",2013-05-24
+2048,4158,"Mesa , AZ",2013-05-24
+2049,4267,"Brentwood, CA",2013-05-24
+2050,4315,"Evans, GA",2013-05-24
+2051,4012,"Rochester, NY",2013-05-25
+2052,4105,"Fort Ritchie, MD",2013-05-25
+2053,4131,"West Des Moines, IA",2013-05-25
+2054,4298,"Snarestone Leicestershire, UK",2013-05-25
+2055,3873,"Marysville, KS",2013-05-31
+2056,3885,"McLouth, KS",2013-05-31
+2057,3950,"Levittown, PA",2013-05-31
+2058,3978,"Owatonna, MN",2013-05-31
+2059,4030,"Valley, NE",2013-05-31
+2060,4079,"Okemah, OK",2013-05-31
+2061,4087,"Valley Center, KS",2013-05-31
+2062,4100,"Memphis, TN",2013-05-31
+2063,4115,"Huron, SD",2013-05-31
+2064,4117,"Canon City, CO",2013-05-31
+2065,4203,"N. Charleston, SC",2013-05-31
+2066,4312,"Ft. Washington, MD",2013-05-31
+2067,3897,"Swanzey, NH",2013-06-01
+2068,3883,"Springwater, NY",2013-06-07
+2069,3941,"Lincolnton, NC",2013-06-07
+2070,4148,"Montello, WI",2013-06-07
+2071,4301,"Mayetta, KS",2013-06-07
+2072,4173,"Wynne, AR",2013-06-07
+2073,4174,"Tonganoxie, KS",2013-06-07
+2074,4176,"Euharlee, GA",2013-06-07
+2075,4184,"Bardstown, KY",2013-06-07
+2076,4218,"Asheville, NC",2013-06-07
+2077,4233,"Lees Summit, MO",2013-06-07
+2078,3910,"Merrimack, NH",2013-06-14
+2079,3956,"Frisco, CO",2013-06-14
+2080,3957,"Fredonia, KS",2013-06-14
+2081,3962,"Wilson, NY",2013-06-14
+2082,3997,"Chandler, OK",2013-06-14
+2083,4004,"Whitewater, WI",2013-06-14
+2084,4010,"Topeka, KS",2013-06-14
+2085,4038,"Hernando, MS",2013-06-14
+2086,4112,"Williams, AZ",2013-06-14
+2087,4132,"Jeffersonville, IN",2013-06-14
+2088,4137,"Blue Mountain , On",2013-06-14
+2089,4146,"Frederick , MD",2013-06-14
+2090,4198,"State Center, IA",2013-06-14
+2091,4219,"Lexington, KY",2013-06-14
+2092,4411,"Marion, IL",2013-06-14
+2093,4343,"Welch, MN",2013-06-15
+2094,3943,"Seymour, MO",2013-06-20
+2095,3929,"Marshalltown, IA",2013-06-21
+2096,3975,"Palmyra, VA",2013-06-21
+2097,3988,"Quincy, IL",2013-06-21
+2098,4009,"Lenexa, KS",2013-06-21
+2099,4020,"Hutchinson, MN",2013-06-21
+2100,4125,"Apex, NC",2013-06-21
+2101,4161,"Temecula, CA",2013-06-21
+2102,4224,"Indianapolis, IN",2013-06-21
+2103,4305,"Brockport, NY",2013-06-21
+2104,4306,"Old Orchard Beach, ME",2013-06-21
+2105,4310,"Clarksville, TN",2013-06-21
+2106,4073,"Washington, DC",2013-06-22
+2107,3986,"Effingham, IL",2013-06-27
+2108,3886,"Grafton, WI",2013-06-28
+2109,3942,"Franklin, IN",2013-06-28
+2110,3963,"Covington, VA",2013-06-28
+2111,4128,"Mankato, MN",2013-06-28
+2112,4129,"Hamburg, NY",2013-06-28
+2113,4130,"Santa Clara, CA",2013-06-28
+2114,4225,"Traverse City, MI",2013-06-28
+2115,3891,"Rio Rancho, NM",2013-07-05
+2116,4094,"Cameron, MO",2013-07-05
+2117,4226,"Madison, WI",2013-07-05
+2118,4279,"St. Charles, IL",2013-07-05
+2119,4363,"Thayer, MO",2013-07-05
+2120,4368,"Absarokee, MT",2013-07-06
+2121,3931,"Greenwood, SC",2013-07-11
+2122,3916,"Gettysburg, PA",2013-07-12
+2123,3993,"Madelia, MN",2013-07-12
+2124,4096,"Wellsville, MO",2013-07-12
+2125,4157,"Holbrook, AZ",2013-07-12
+2126,4177,"Santa Rosa, CA",2013-07-12
+2127,4190,"North Wildwood, NJ",2013-07-12
+2128,4227,"Woodbury, MN",2013-07-12
+2129,4045,"Peoria, IL",2013-07-13
+2130,4121,"Troy, NY",2013-07-13
+2131,4362,"San Juan, PR",2013-07-13
+2132,4421,"Stamford, CT",2013-07-13
+2133,3889,"Warren, PA",2013-07-19
+2134,3906,"Unicoi, TN",2013-07-19
+2135,3926,"Laramie, WY",2013-07-19
+2136,4021,"Louisa, VA",2013-07-19
+2137,4044,"Waterloo, IA",2013-07-19
+2138,4054,"Watertown, SD",2013-07-19
+2139,4062,"Burlington, KS",2013-07-19
+2141,4163,"New Palestine, IN",2013-07-19
+2142,4228,"Des Moines, IA",2013-07-19
+2143,4303,"Bellevue, NE",2013-07-19
+2144,4309,"Comstock Park, MI",2013-07-19
+2145,4367,"Galax, VA",2013-07-19
+2146,3987,"Kingston, RI",2013-07-20
+2147,4311,"Snohomish, WA",2013-07-20
+2148,4360,"Placerville, CA",2013-07-20
+2149,3901,"Mason City, IA",2013-07-26
+2150,3934,"Montague, CA",2013-07-26
+2151,4064,"Morton, IL",2013-07-26
+2152,4067,"Windsor, VT",2013-07-26
+2153,4118,"Dodge City, KS",2013-07-26
+2154,4167,"Bluemont, VA",2013-07-26
+2155,4249,"Lee''s Summit, MO",2013-07-26
+2156,4417,"Woodlake, CA",2013-07-26
+2157,3994,"Olathe, KS",2013-08-01
+2158,3937,"Liberal, KS",2013-08-02
+2159,4065,"Vista, CA",2013-08-02
+2160,4166,"Dillard, GA",2013-08-02
+2161,4229,"Rockford, IL",2013-08-02
+2162,4407,"Miami, OK",2013-08-02
+2163,4412,"Brainerd, MN",2013-08-02
+2164,4452,"Rossville, KS",2013-08-02
+2165,3999,"Woodward, OK",2013-08-09
+2166,4097,"McMinnville, TN",2013-08-09
+2167,4126,"Weeping Water, NE",2013-08-09
+2168,4165,"Gillette, WY",2013-08-09
+2169,4196,"Rochester, MN",2013-08-09
+2170,4220,"Medford, NY",2013-08-09
+2171,4252,"Franklin, NC",2013-08-09
+2172,4282,"Bel Air, MD",2013-08-09
+2173,4337,"Newaygo, MI",2013-08-09
+2174,4371,"N. Tonawanda, NY",2013-08-09
+2175,4398,"Brentwood, CA",2013-08-09
+2176,4283,"Billings, MT",2013-08-14
+2177,3888,"Conifer, CO",2013-08-16
+2178,3896,"Worland, WY",2013-08-16
+2179,3909,"LaPlatte, NE",2013-08-16
+2180,3980,"Athens, GA",2013-08-16
+2181,3985,"Huntington State Beach, CA",2013-08-16
+2182,4042,"New Paltz, NY",2013-08-16
+2183,4074,"Fulton, MS",2013-08-16
+2184,4221,"Laurel, MD",2013-08-16
+2185,4234,"Marshall, MN",2013-08-16
+2186,4256,"Madison, IN",2013-08-16
+2187,4281,"Excelsior Springs, MO",2013-08-16
+2188,4424,"Waucoma, IA",2013-08-16
+2189,4289,"Winnipeg, Manitoba, CA",2013-08-17
+2190,4386,"Kansas City, KS",2013-08-17
+2191,4455,"New Hope, AL",2013-08-17
+2192,4356,"Overland Park, KS",2013-08-18
+2193,3875,"Washington Island, WI",2013-08-23
+2194,3881,"New Holland, PA",2013-08-23
+2195,3890,"Lincoln, IL",2013-08-23
+2196,3925,"McPherson, KS",2013-08-23
+2197,3935,"Kennesaw, GA",2013-08-23
+2198,3955,"Birch Run, MI",2013-08-23
+2199,3991,"Amelia Island, FL",2013-08-23
+2200,4023,"Albert Lea, MN",2013-08-23
+2201,4080,"Liberty, MO",2013-08-23
+2202,4091,"Emporia, KS",2013-08-23
+2203,4092,"Nevada, IA",2013-08-23
+2204,4116,"Lakeport, CA",2013-08-23
+2205,4122,"Nashville, TN",2013-08-23
+2206,4160,"Greer, SC",2013-08-23
+2207,4162,"Campo, CA",2013-08-23
+2208,4164,"Kenosha, WI",2013-08-23
+2209,4222,"Richmond, VA",2013-08-23
+2210,4245,"Paola, KS",2013-08-23
+2211,4251,"Columbus, MS",2013-08-23
+2212,4261,"Ashland, MS",2013-08-23
+2213,4292,"Harrisonburg, VA",2013-08-23
+2214,4293,"Bonner Springs, KS",2013-08-23
+2215,4344,"Cape Girardeau, MO",2013-08-23
+2216,4373,"Hill City, SD",2013-08-23
+2217,4382,"Wendover, NV",2013-08-23
+2218,4413,"Garden City, CO",2013-08-23
+2219,4194,"Quapaw, OK",2013-08-30
+2220,4238,"Parker, CO",2013-08-30
+2221,4257,"Warrens, WI",2013-08-30
+2222,3951,"Connersville, IN",2013-08-31
+2223,4036,"Omaha, NE",2013-08-31
+2224,4093,"Mesquite, NV",2013-08-31
+2225,4235,"Bedford, TX",2013-08-31
+2226,4350,"Calgary, Alberta, Ca",2013-08-31
+2227,4415,"Westport, CT",2013-08-31
+2228,3915,"Richmond, VA",2013-09-06
+2229,3932,"Scott City, KS",2013-09-06
+2230,4011,"Inwood, WV",2013-09-06
+2231,4013,"Vermillion, SD",2013-09-06
+2232,4061,"Quincy, IL",2013-09-06
+2233,4068,"Montello, WI",2013-09-06
+2234,4110,"Cookeville, TN",2013-09-06
+2235,4308,"York, PA",2013-09-06
+2236,4178,"Carrollton, KY",2013-09-06
+2237,4223,"Chesapeake, VA",2013-09-06
+2238,4280,"Alamosa, CO",2013-09-06
+2239,4353,"Blue Springs, MO",2013-09-06
+2240,4364,"Derby, KS",2013-09-06
+2241,4425,"Sheridan, WY",2013-09-06
+2242,4040,"Garden City, KS",2013-09-07
+2243,4182,"Cresskill, NJ",2013-09-07
+2244,3913,"Mears, MI",2013-09-13
+2245,3924,"Grand Junction, CO",2013-09-13
+2246,3949,"Decatur, AL",2013-09-13
+2247,3972,"Yates Center, KS",2013-09-13
+2248,4008,"Cameron Park, CA",2013-09-13
+2249,4022,"Atlanta, GA",2013-09-13
+2250,4031,"Worthington, MN",2013-09-13
+2251,4037,"Winder, GA",2013-09-13
+2252,4053,"Mission, KS",2013-09-13
+2253,4141,"Millington, TN",2013-09-13
+2254,4204,"Hendersonville, TN",2013-09-13
+2255,4266,"Litchfield, IL",2013-09-13
+2256,4369,"Floyd, VA",2013-09-13
+2257,4395,"Clinton, MO",2013-09-13
+2258,4428,"Leavenworth, KS",2013-09-13
+2259,4107,"Harvard, MA",2013-09-14
+2260,3954,"Murphysboro, IL",2013-09-19
+2261,4370,"St. Leon, IN",2013-09-19
+2262,3880,"Salisbury, NC",2013-09-20
+2263,4384,"Russell, KS",2013-09-20
+2264,4052,"Dover, DE",2013-09-20
+2265,4170,"Plymouth, IN",2013-09-20
+2266,4191,"Spearfish, SD",2013-09-20
+2267,4195,"Clarence, NY",2013-09-20
+2268,4232,"Kearney, MO",2013-09-20
+2269,4304,"Des Moines, IA",2013-09-20
+2270,4316,"Fayetteville, AR",2013-09-20
+2271,4358,"Shenandoah, VA",2013-09-20
+2272,4403,"Coalville, UT",2013-09-20
+2273,4057,"Cleveland, GA",2013-10-25
+2274,4446,"Fort Mills, SC",2013-09-20
+2275,4486,"Tunica, MS",2013-09-20
+2276,4071,"Telluride, CO",2013-09-21
+2277,4231,"Seaside Heights, NJ",2013-09-21
+2278,3930,"Hermann, MO",2013-09-27
+2279,3974,"Vidalia, LA",2013-09-27
+2280,3981,"Dothan, AL",2013-09-27
+2281,3998,"Woodbury, TN",2013-09-27
+2282,4108,"Jonesboro, AR",2013-09-27
+2283,4120,"Danville, IL",2013-09-27
+2284,4124,"Xenia, OH",2013-09-27
+2285,4216,"Overland Park, KS",2013-09-27
+2286,4248,"Omaha, NE",2013-09-27
+2287,4250,"Owensboro, KY",2013-09-27
+2288,4318,"Shawnee, KS",2013-09-27
+2289,4400,"Laughlin, NV",2013-09-27
+2290,4422,"Appleton City, MO",2013-09-27
+2291,4366,"Marietta, GA",2013-09-28
+2292,4404,"New London, CT",2013-09-28
+2293,4335,"Kansas City, MO",2013-10-03
+2294,4336,"Kansas City, MO",2013-10-03
+2295,3921,"Springfield, KY",2013-10-04
+2296,3964,"Dana Point, CA",2013-10-04
+2297,4066,"Harrisburg, PA",2013-10-04
+2298,4357,"Earlington, KY",2013-10-04
+2299,4381,"Alma, AR",2013-10-04
+2300,4385,"Corinth, MS",2013-10-04
+2301,4423,"Laurens, SC",2013-10-04
+2302,4427,"Atlantic City, NJ",2013-10-05
+2303,4512,"Nashville, TN",2013-10-05
+2304,3940,"Centralia, MO",2013-10-11
+2305,3969,"Sand Springs, OK",2013-10-11
+2306,4043,"Lyons, GA",2013-10-11
+2307,4056,"DeSoto, KS",2013-10-11
+2308,4090,"Greenfield, MA",2013-10-11
+2309,4098,"Fort Bliss, TX",2013-10-11
+2310,4123,"Rocky Mount, NC",2013-10-11
+2311,4168,"Waxhaw, NC",2013-10-11
+2312,4169,"Cullman, AL",2013-10-11
+2313,4217,"Midwest City, OK",2013-10-11
+2314,4290,"Topeka, KS",2013-10-11
+2315,4334,"Clarksburg, MD",2013-10-11
+2316,4351,"Arthur, IL",2013-10-11
+2317,4410,"Rome, GA",2013-10-12
+2318,4478,"Cottonwood, AZ",2013-10-12
+2319,3971,"Munfordville, KY",2013-10-18
+2320,4055,"Parsons, KS",2013-10-18
+2321,4095,"Libertyville, IL",2013-10-18
+2322,4099,"Nelsonville, OH",2013-10-18
+2323,4230,"Bentonville, AR",2013-10-18
+2324,4262,"Woodstock, VA",2013-10-18
+2325,4278,"Independence, MO",2013-10-18
+2326,4333,"Poteau, OK",2013-10-18
+2327,4338,"Garnett, KS",2013-10-18
+2328,4387,"Prescott Valley, AZ",2013-10-18
+2329,4397,"Lancaster, CA",2013-10-18
+2330,4474,"Smithville, MO",2013-10-18
+2331,4078,"Fort Smith, AR",2013-10-19
+2332,3953,"Fort Gibson, OK",2013-10-25
+2333,3976,"Osawatomie, KS",2013-10-25
+2334,4274,"Butler, MO",2013-10-25
+2335,4438,"Lynchburg, TN",2013-10-25
+2336,4297,"Laughlin, NV",2013-10-31
+2337,4019,"Shelby, NC",2013-11-01
+2338,4082,"Harrison, AR",2013-11-01
+2339,4383,"Las Vegas, NV",2013-11-07
+2340,4402,"St. James, MO",2013-11-08
+2341,4085,"Cumming, GA",2013-11-15
+2342,4401,"Charleston, SC",2013-11-15
+2343,4419,"Lakeland, FL",2013-11-15
+2344,4114,"Plant City, FL",2013-11-22
+2345,4035,"Demopolis, AL",2013-12-06
+2346,4134,"Calhoun, GA",2013-12-06
+2347,4342,"LaQuinta, CA",2013-12-06
+2348,4529,"Las Vegas, NV",2013-12-13
+2349,4533,"Lake Elsinore, CA",2013-12-27
+2350,4534,"Lake Elsinore, CA",2013-12-28
+2351,4572,"Lakeland, FL",2014-01-23
+2352,4487,"Young Harris, GA",2014-02-07
+2353,4497,"San Juan, PR",2014-02-21
+2354,4878,"Indio, CA",2014-02-21
+2355,4925,"Tampa, FL",2014-02-21
+2356,4458,"Huntsville, TX",2014-02-27
+2357,4802,"Havasu Landing, CA",2014-02-28
+2358,4926,"Daphne, AL",2014-02-28
+2359,4485,"Pensacola, FL",2014-03-07
+2360,4906,"San Marcos, TX",2014-03-07
+2361,4931,"Baton Rouge, LA",2014-03-07
+2362,4466,"Tupelo, MS",2014-03-14
+2363,4638,"Bainbridge, GA",2014-03-14
+2364,4665,"Miami, OK",2014-03-14
+2365,4666,"Miami, OK",2014-03-14
+2366,4834,"N. Kansas City, MO",2014-03-14
+2367,4932,"Fort Worth, TX",2014-03-14
+2368,4667,"Miami, OK",2014-03-15
+2369,4670,"Hammond, LA",2014-03-21
+2370,4888,"Arcadia, CA",2014-03-21
+2371,4943,"Tucson, AZ",2014-03-21
+2372,4809,"Atmore, AL",2014-03-27
+2373,4444,"Shawnee, OK",2014-03-28
+2374,4506,"Ashburn, GA",2014-03-28
+2375,4785,"London, KY",2014-03-28
+2376,4944,"Sacramento, CA",2014-03-28
+2377,4449,"Summerville, GA",2014-04-03
+2378,4744,"Evansville, IN",2014-04-03
+2379,4493,"Gulfport, MS",2014-04-04
+2380,4507,"Somerville, TN",2014-04-04
+2381,4514,"Kennett, MO",2014-04-04
+2382,4519,"Cedar Park, TX",2014-04-04
+2383,4560,"Stillwater, OK",2014-04-04
+2384,4650,"Pleasant Hill, MO",2014-04-04
+2385,4874,"Lanexa, VA",2014-04-04
+2386,4945,"Renton, WA",2014-04-04
+2387,4361,"Harrington, DE",2014-04-11
+2388,4456,"Washington, MO",2014-04-11
+2389,4503,"Enid, OK",2014-04-11
+2390,4521,"Smithville, MO",2014-04-11
+2391,4690,"Osage City, KS",2014-04-11
+2392,4705,"Staten Island, NY",2014-04-11
+2393,4905,"Winston-Salem, NC",2014-04-11
+2394,4946,"Salt Lake City, UT",2014-04-11
+2395,4962,"Gadsden, AL",2014-04-11
+2396,4612,"Winchester, TN",2014-04-18
+2397,4659,"Cornelia, GA",2014-04-18
+2398,4699,"Kings Mountain, NC",2014-04-18
+2399,4947,"Denver, CO",2014-04-18
+2400,4475,"Overland Park, KS",2014-04-25
+2401,4480,"Calhoun, GA",2014-04-25
+2402,4656,"Mt. Carmel, IL",2014-04-25
+2403,4673,"Lexington, NC",2014-04-25
+2404,4685,"Monroe, WA",2014-04-25
+2405,4751,"Gothenburg, NE",2014-04-25
+2406,4782,"Boone, IA",2014-04-25
+2407,4831,"Midland, TX",2014-04-25
+2408,4838,"Edwardsville, KS",2014-04-25
+2409,4948,"Las Vegas, NV",2014-04-25
+2410,4591,"Mesquite, NV",2014-04-26
+2411,4783,"Boone, IA",2014-04-26
+2412,5024,"Memphis, TN",2014-04-26
+2413,5037,"Laughlin, NV",2014-05-01
+2414,4500,"Lucedale, MS",2014-05-02
+2415,4524,"Annapolis, MD",2014-05-02
+2416,4563,"Hot Springs, AR",2014-05-02
+2417,4564,"Grandview, MO",2014-05-02
+2418,4592,"Huntsville, AL",2014-05-02
+2419,4628,"Fremont, WI",2014-05-02
+2420,4646,"Lansing, KS",2014-05-02
+2421,4691,"Show Low, AZ",2014-05-02
+2422,4730,"Bixby, OK",2014-05-02
+2423,4739,"Columbia, MO",2014-05-02
+2424,4740,"Elk Grove, CA",2014-05-02
+2425,4791,Nassau Bahamas,2014-05-02
+2426,4843,"St. Joseph, MO",2014-05-02
+2427,4893,"North Platte, NE",2014-05-02
+2428,4895,"Brandon, MS",2014-05-02
+2429,4933,"Overland Park, KS",2014-05-02
+2430,4969,"Lake Elsinore, CA",2014-05-02
+2431,4579,"Liberty, IN",2014-05-03
+2432,4694,"Ridgefield, CT",2014-05-03
+2433,4462,"Kannapolis, NC",2014-05-09
+2434,4552,"Springfield, MO",2014-05-09
+2435,4556,"Ashland, MS",2014-05-09
+2436,4558,"Salisbury, MD",2014-05-09
+2437,4566,"Lawrence, KS",2014-05-09
+2438,4574,"Waynesboro, GA",2014-05-09
+2439,4635,"Fredericksburg, VA",2014-05-09
+2440,4661,"Rome, GA",2014-05-09
+2441,4728,"Claremore, OK",2014-05-09
+2442,4731,"Long Beach , CA",2014-05-09
+2443,4735,"Green Lane, PA",2014-05-09
+2444,4793,"Lamar, CO",2014-05-09
+2445,4903,"Council Bluffs, IA",2014-05-09
+2446,4934,"St. Charles, MO",2014-05-09
+2447,4682,"Kapermolenpark, Hasselt, Be",2014-05-10
+2448,4701,"Gardner, MA",2014-05-10
+2449,4490,"Langley, OK",2014-05-16
+2450,4573,"Chesapeake, VA",2014-05-16
+2451,4576,"Sevierville, TN",2014-05-16
+2452,4611,"Bakersfield, CA",2014-05-16
+2453,4702,"Falcon Heights, MN",2014-05-16
+2454,4723,"Abilene, KS",2014-05-16
+2455,4798,"West Chester, OH",2014-05-16
+2456,4814,"Platte City, MO",2014-05-16
+2457,4857,"Hartselle, AL",2014-05-16
+2458,5056,"Kimberling City, MO",2014-05-16
+2459,4748,"Monroe City, MO",2014-05-17
+2460,4488,"Boulder City, NV",2014-05-23
+2461,4712,"Evans, GA",2014-05-23
+2462,4927,"Hendersonville, TN",2014-05-23
+2463,5003,"Westmont, IL",2014-05-23
+2464,4593,"Rochester, NY",2014-05-24
+2465,4595,"Westmont, IL",2014-05-24
+2466,4596,"North Bend, OR",2014-05-24
+2467,4622,"Snarestone Leicestershire, UK",2014-05-24
+2468,4649,"Mound City, KS",2014-05-24
+2469,4764,"West Des Moines, IA",2014-05-24
+2470,4835,"Lewisburg, TN",2014-05-24
+2471,4520,"Knoxville, TN",2014-05-30
+2472,4527,"Owatonna, MN",2014-05-30
+2473,4583,"Snow Hill, MD",2014-05-30
+2474,4662,"Valley, NE",2014-05-30
+2475,4928,"Marietta, GA",2014-05-30
+2476,5005,"Missoula, MT",2014-05-30
+2477,5030,"Canon City, CO",2014-05-30
+2478,4613,"Swanzey, NH",2014-05-31
+2479,4537,"McLouth, KS",2014-06-06
+2480,4698,"Montello, WI",2014-06-06
+2481,4711,"Valley Center, CA",2014-06-06
+2482,4713,"Huron, SD",2014-06-06
+2483,4720,"Lincolnton, NC",2014-06-06
+2484,4804,"Lee''s Summit, MO",2014-06-06
+2485,4833,"Ft. Washington, MD",2014-06-06
+2486,4854,"Pueblo, CO",2014-06-06
+2487,4871,"Bardstown, KY",2014-06-06
+2488,4909,"Levittown, PA",2014-06-06
+2489,4950,"N. Charleston, SC",2014-06-06
+2490,4956,"Marysville, KS",2014-06-06
+2491,4958,"Okemah, OK",2014-06-06
+2492,4975,"Eurharlee, GA",2014-06-06
+2493,4983,"Mayetta, KS",2014-06-06
+2494,5058,"St. Joseph, MO",2014-06-06
+2495,4631,"Hoofddorp, Ne",2014-06-07
+2496,4548,"Brimfield, IL",2014-06-13
+2497,4598,"Wynne, AR",2014-06-13
+2498,4629,"Miles City, MT",2014-06-13
+2499,4750,"Williams, AZ",2014-06-13
+2500,4758,"Fillmore, CA",2014-06-13
+2501,4760,"Tryon, NC",2014-06-13
+2502,4766,"Wilson, NY",2014-06-13
+2503,4788,"Oconomowoc, WI",2014-06-13
+2504,4797,"Jeffersonville, IN",2014-06-13
+2505,4812,"Tonganoxie, KS",2014-06-13
+2506,4820,"Merrimack, NH",2014-06-13
+2507,4860,"Frisco, CO",2014-06-13
+2508,4949,"Asheville, NC",2014-06-13
+2509,5094,Niverville Manitoba Canada,2014-06-13
+2510,5016,Edmonton Alberta Canada,2014-06-14
+2511,5095,Perugia Italy,2014-06-14
+2512,4489,"Fairplay, CO",2014-06-20
+2513,4510,"Auburn Hills, MI",2014-06-20
+2514,4603,"Seymour, MO",2014-06-20
+2515,4618,"Quincy, IL",2014-06-20
+2516,4652,"Whitewater, WI",2014-06-20
+2517,4687,"Central Point, OR",2014-06-20
+2518,4688,"Apex, NC",2014-06-20
+2519,4703,"Fredonia, KS",2014-06-20
+2520,4755,"Barbourville, KY",2014-06-20
+2521,4775,"Hernando, MS",2014-06-20
+2522,4886,"State Center, IA",2014-06-20
+2523,4929,"Lexington, KY",2014-06-20
+2524,4970,"Temecula, CA",2014-06-20
+2525,5055,"Uncasville, CT",2014-06-20
+2526,4530,"Buckner, MO",2014-06-21
+2527,4616,"Davenport, IA",2014-06-21
+2528,4693,"Washington, DC",2014-06-21
+2529,5004,"Old Orchard Beach, ME",2014-06-21
+2530,4477,"Willard, MO",2014-06-26
+2531,4715,"Victorville, CA",2014-06-26
+2532,4821,"Effingham, IL",2014-06-26
+2533,4482,"Grafton, WI",2014-06-27
+2534,4499,"Mankato, MN",2014-06-27
+2535,4547,"Artesia, NM",2014-06-27
+2536,4567,"Nevada, IA",2014-06-27
+2537,4578,"Winchester, VA",2014-06-27
+2538,4589,"Maryville, TN",2014-06-27
+2539,4597,"Chandler, OK",2014-06-27
+2540,4627,"Omaha, NE",2014-06-27
+2541,4708,"Franklin, IN",2014-06-27
+2542,4721,"Metropolis, IL",2014-06-27
+2543,4725,"Santa Clara, CA",2014-06-27
+2544,4818,"Lenexa, KS",2014-06-27
+2545,4937,"Indianapolis, IN",2014-06-27
+2546,5036,"Covington, VA",2014-06-27
+2547,4491,"Whiting, IA",2014-07-03
+2548,4532,"Liberty, MO",2014-07-03
+2549,4531,"Lake Placid, NY",2014-07-04
+2550,4671,"Bryant, AR",2014-07-04
+2551,4727,"Rio Rancho, NM",2014-07-04
+2552,4938,"Traverse City, MI",2014-07-04
+2553,5060,"Falls City, NE",2014-07-04
+2554,5086,"Thayer, MO",2014-07-04
+2555,4511,"Absarokee, MT",2014-07-05
+2556,4811,"Greenwood, SC",2014-07-10
+2557,4430,"St. Charles, IL",2014-07-11
+2558,4653,"Madelia, MN",2014-07-11
+2559,4717,"Fort Smith, AR",2014-07-11
+2560,4729,"Wellsville, MO",2014-07-11
+2561,4737,"Rohnert Park, CA",2014-07-11
+2562,4842,"Green Bay, WI",2014-07-11
+2563,4864,"Kettering, OH",2014-07-11
+2564,4939,"Madison, WI",2014-07-11
+2565,5018,"North Wildwood, NJ",2014-07-11
+2566,5039,"Winfield, KS",2014-07-11
+2567,5097,"Warrensburg, MO",2014-07-11
+2568,5120,"Holbrook, AZ",2014-07-11
+2569,5048,"Stamford, CT",2014-07-12
+2570,4570,"Laramie, WY",2014-07-16
+2571,4492,"Bellevue, NE",2014-07-18
+2572,4551,"Pittsfield, PA",2014-07-18
+2573,4605,"Watertown, SD",2014-07-18
+2574,4642,"Waterloo, IA",2014-07-18
+2575,4826,"Kingston, RI",2014-07-18
+2576,4829,"Hays, KS",2014-07-18
+2577,4863,"New Palestine, IN",2014-07-18
+2578,4940,"Woodbury, MN",2014-07-18
+2579,4994,"Galax, VA",2014-07-18
+2580,5070,"Burlington, KS",2014-07-18
+2581,5087,"Conway, AR",2014-07-18
+2582,4872,"Troy, NY",2014-07-19
+2583,4518,"Holladay, UT",2014-07-24
+2584,5100,"Kansas City, MO",2014-07-24
+2585,4599,"Morton, IL",2014-07-25
+2586,4660,"Maggie Valley, NC",2014-07-25
+2587,4684,"Dyersburg, TN",2014-07-25
+2588,4757,"Montague, CA",2014-07-25
+2589,4769,"Mason City, IA",2014-07-25
+2590,4781,"Vista, CA",2014-07-25
+2591,4815,"Iola, KS",2014-07-25
+2592,4862,"Cleveland, TN",2014-07-25
+2593,4894,"Dodge City, KS",2014-07-25
+2594,4911,"Windsor, VT",2014-07-25
+2595,4941,"Des Moines, IA",2014-07-25
+2596,4971,"Lee''s Summit, MO",2014-07-25
+2597,5028,"Grand Rapids, MI",2014-07-25
+2598,5032,"Denver, CO",2014-07-25
+2599,4494,"Laurie, MO",2014-08-01
+2600,4565,"Liberal, KS",2014-08-01
+2601,4683,"Waucoma, IA",2014-08-01
+2602,4695,"Alamosa, CO",2014-08-01
+2603,4807,"Olathe, KS",2014-08-01
+2604,4865,"Oakland, CA",2014-08-01
+2605,4887,"Dillard, GA",2014-08-01
+2606,4912,"Asheboro, NC",2014-08-01
+2607,4942,"Madison, WI",2014-08-01
+2608,4967,"Leonardtown, MD",2014-08-01
+2609,5023,"Rossville, KS",2014-08-01
+2610,5138,"Olofstorp Sweden, EU",2014-08-02
+2611,4544,"Woodward, OK",2014-08-08
+2612,4594,"Gillette, WY",2014-08-08
+2613,4600,"Huntington Beach, CA",2014-08-08
+2614,4686,"Weeping Water, NE",2014-08-08
+2615,4808,"Newaygo, MI",2014-08-08
+2616,4822,"N. Tonawanda, NY",2014-08-08
+2617,4827,"Frankllin, NC",2014-08-08
+2618,4848,"McMinnville, TN",2014-08-08
+2619,4849,"Bel Air, MD",2014-08-08
+2620,4877,"Kansas City, KS",2014-08-08
+2621,4951,"Scarborough, ME",2014-08-08
+2622,4980,"Rochester, MN",2014-08-08
+2623,4996,"Brentwood, CA",2014-08-08
+2624,5002,"Brainerd, MN",2014-08-08
+2625,5013,"Odessa, MO",2014-08-08
+2626,4795,"Huntington Beach, CA",2014-08-09
+2627,4964,"Billings, MT",2014-08-12
+2628,4719,"Athens, GA",2014-08-14
+2629,4546,"Worland, WY",2014-08-15
+2630,4679,"Conifer, CO",2014-08-15
+2631,4784,"LaPlatte, NE",2014-08-15
+2632,4823,"Madison, IN",2014-08-15
+2633,4840,"Marshall, MN",2014-08-15
+2634,4907,"Fulton, MS",2014-08-15
+2635,4952,"Harrisburg, PA",2014-08-15
+2636,4968,"Atlanta, GA",2014-08-15
+2637,5072,"Excelsior Springs, MO",2014-08-15
+2638,5081,"Kirksville, MO",2014-08-15
+2639,4636,"New Paltz, NY",2014-08-16
+2640,5144,Winnipeg Manitoba Canada,2014-08-16
+2641,4644,"Overland Park, KS",2014-08-17
+2642,4542,"Albert Lea, MN",2014-08-22
+2643,4577,"New Holland, PA",2014-08-22
+2644,4617,"Washington Island, WI",2014-08-22
+2645,4623,"Lakeport, CA",2014-08-22
+2646,4657,"Birch Run, MI",2014-08-22
+2647,4678,"McPherson, KS",2014-08-22
+2648,4692,"Lincoln, IL",2014-08-22
+2649,4718,"Kenosha, WI",2014-08-22
+2650,4732,"Hill City, SD",2014-08-22
+2651,4738,"Emporia, KS",2014-08-22
+2652,4752,"Greer, SC",2014-08-22
+2653,4837,"Bonner Springs, KS",2014-08-22
+2654,4856,"Harrisonburg, VA",2014-08-22
+2655,4866,"Kennesaw, GA",2014-08-22
+2656,4867,"Amelia Island, FL",2014-08-22
+2657,4885,"Paola, KS",2014-08-22
+2658,4953,"Laurel, MD",2014-08-22
+2659,4976,"Garden City, CO",2014-08-22
+2660,4997,"Liberty, MO",2014-08-22
+2661,5029,"Cape Girardeau, MO",2014-08-22
+2662,5031,"Nashville, TN",2014-08-22
+2663,5133,"Wendover, NV",2014-08-22
+2664,5152,"Hampton, VA",2014-08-22
+2665,5154,"Dallas Center, IA",2014-08-22
+2666,4747,"Warrens, WI",2014-08-29
+2667,4954,"Richmond, VA",2014-08-29
+2668,5073,"Charleston, SC",2014-08-29
+2669,5145,"Myrtle Beach, SC",2014-08-29
+2670,5177,"Westport, CT",2014-08-29
+2671,4633,"Calgary, Alberta, Ca",2014-08-30
+2672,4786,"Bedford, TX",2014-08-30
+2673,4873,"Coquille, OR",2014-08-30
+2674,4890,"Gainesville, GA",2014-08-30
+2675,4984,"Omaha, NE",2014-08-30
+2676,4992,"Connersville, IN",2014-08-30
+2677,5084,"Parker, CO",2014-08-30
+2678,4538,"Sacramento, CA",2014-09-05
+2679,4580,"Carrollton, KY",2014-09-05
+2680,4601,"Sheridan, WY",2014-09-05
+2681,4615,"Montello, WI",2014-09-05
+2682,4630,"Vermillion, SD",2014-09-05
+2683,4645,"Cottonwood, AZ",2014-09-05
+2684,4664,"York, PA",2014-09-05
+2685,4674,"Butler, MO",2014-09-05
+2686,4790,"Garden City, KS",2014-09-05
+2687,4868,"Richmond, VA",2014-09-05
+2688,4930,"Southaven, MS",2014-09-05
+2689,5019,"Cookeville, TN",2014-09-05
+2690,5078,"Miami, OK",2014-09-05
+2691,5085,"Quincy, IL",2014-09-05
+2692,5143,"Las Vegas, NV",2014-09-05
+2693,5147,"Peoria, IL",2014-09-05
+2694,5052,"Cresskill, NJ",2014-09-06
+2695,5090,"Foster, RI",2014-09-06
+2696,5219,"Garden City, KS",2014-09-06
+2697,4554,"Mears, MI",2014-09-12
+2698,4571,"Alma, AR",2014-09-12
+2699,4619,"St. Leon, IN",2014-09-12
+2700,4648,"Worthington, MN",2014-09-12
+2701,4700,"Winder, GA",2014-09-12
+2702,4759,"Grand Junction, CO",2014-09-12
+2703,4851,"Floyd, VA",2014-09-12
+2704,4875,"Derby, KS",2014-09-12
+2705,4935,"N. Kansas City, MO",2014-09-12
+2706,5025,"Leavenworth, KS",2014-09-12
+2707,5071,"Tuscaloosa, AL",2014-09-12
+2708,5151,"Millington, TN",2014-09-12
+2709,5172,"Scranton, PA",2014-09-12
+2710,5184,"Greeneville, TN",2014-09-12
+2711,4675,"Kimberling City, MO",2014-09-13
+2712,4792,"Harvard, MA",2014-09-13
+2713,4982,"Diksmuide, Belgium",2014-09-13
+2714,5134,"Langley, BC Canada",2014-09-13
+2715,4569,"Murphysboro, IL",2014-09-18
+2716,4476,"Salisbury, NC",2014-09-19
+2717,4604,"Ponca City, OK",2014-09-19
+2718,4639,"Denison, IA",2014-09-19
+2719,4733,"Kearney, MO",2014-09-19
+2720,4794,"Plymouth, IN",2014-09-19
+2721,4796,"Sprearfish, SD",2014-09-19
+2722,4832,"Mission, KS",2014-09-19
+2723,4847,"Decatur, AL",2014-09-19
+2724,4936,"Midwest City, OK",2014-09-19
+2725,4961,"Fort Mill, SC",2014-09-19
+2726,4707,"Telluride, CO",2014-09-20
+2727,4828,"Clarence, NY",2014-09-20
+2728,4850,"Seaside Heights, NJ",2014-09-20
+2729,5166,"Waldfeucht-Haaren / Nordrhein Westfalen / Germany, EU",2014-09-20
+2730,4575,"Vidalia, LA",2014-09-26
+2731,4761,"Hickory, NC",2014-09-26
+2732,4772,"Fayetteville, AR",2014-09-26
+2733,4774,"Omaha, NE",2014-09-26
+2734,4824,"Dothan, AL",2014-09-26
+2735,4852,"Owensboro, KY",2014-09-26
+2736,4876,"Shawnee, KS",2014-09-26
+2737,4955,"Bentonville, AR",2014-09-26
+2738,5044,"Jonesboro, AR",2014-09-26
+2739,5092,"Hermann, MO",2014-09-26
+2740,5098,"Warrensburg, MO",2014-09-26
+2741,5176,"San Diego, CA",2014-09-26
+2742,5191,"Allentown, PA",2014-09-26
+2743,4696,"Marietta, GA",2014-09-27
+2744,5049,"New London, CT",2014-09-27
+2745,5153,"Blue Island, IL",2014-09-27
+2746,4672,"Dana Point, CA",2014-10-02
+2747,4978,"Kansas City, MO",2014-10-02
+2748,4979,"Kansas City, MO",2014-10-02
+2749,5091,"Corinth, MS",2014-10-02
+2750,4581,"Springfield, KY",2014-10-03
+2751,4716,"Harrisburg, PA",2014-10-03
+2752,4753,"Conyers, GA",2014-10-03
+2753,4825,"Earlington, KY",2014-10-03
+2754,5057,"Gallatin, TN",2014-10-03
+2755,5061,"Laurens, SC",2014-10-03
+2756,5082,"Sheridan, AR",2014-10-03
+2757,5142,"Atlantic City, NJ",2014-10-03
+2758,5203,"Hattiesburg, MS",2014-10-03
+2759,4006,"Cincinnati, OH",2014-10-10
+2760,4620,"Centralia, MO",2014-10-10
+2761,4663,"Lyons, GA",2014-10-10
+2762,4689,"Greenfield, MA",2014-10-10
+2763,4704,"Sand Springs, OK",2014-10-10
+2764,4749,"Waxhaw, NC",2014-10-10
+2765,4771,"Fort Bliss, TX",2014-10-10
+2766,4800,"Rocky Mount, NC",2014-10-10
+2767,4813,"Pikeville, TN",2014-10-10
+2768,4846,"DeSoto, KS",2014-10-10
+2769,4853,"Arthur, IL",2014-10-10
+2770,4891,"Clarksburg, MD",2014-10-10
+2771,4902,"Bullhead City, AZ",2014-10-10
+2772,4974,"Topeka, KS",2014-10-10
+2773,5080,"Lawrenceville, GA",2014-10-10
+2774,5174,"Cullman, AL",2014-10-10
+2775,5175,"Middletown, CT",2014-10-10
+2776,5246,"Ocean Springs, MS",2014-10-10
+2777,5220,"Sloan, IA",2014-10-11
+2778,4614,"Munfordville, KY",2014-10-17
+2779,4697,"Libertyville, IL",2014-10-17
+2780,4722,"Parsons, KS",2014-10-17
+2781,4724,"Nelsonville, OH",2014-10-17
+2782,4756,"Lancaster, CA",2014-10-17
+2783,4801,"Mount Pleasant, TN",2014-10-17
+2784,4816,"Columbus, MS",2014-10-17
+2785,4819,"Woodstock, VA",2014-10-17
+2786,4981,"Harper, KS",2014-10-17
+2787,5046,"Marshalltown, IA",2014-10-17
+2788,5096,"Independence, MO",2014-10-17
+2789,5163,"Lawton, OK",2014-10-17
+2790,5171,"Greater St. Louis, IL",2014-10-17
+2791,4910,"Rome, GA",2014-10-18
+2792,5047,"Marshalltown, IA",2014-10-18
+2793,5050,"New Hope, AL",2014-10-18
+2794,5064,"Smithville, MO",2014-10-18
+2795,5079,"Hoofddorp Netherlands, EU",2014-10-18
+2796,4658,"Cleveland, GA",2014-10-24
+2797,4680,"Fort Gibson, OK",2014-10-24
+2798,4714,"Osawatomie, KS",2014-10-24
+2799,5213,"Lynchburg, TN",2014-10-24
+2800,5360,"Lynchburg, TN",2014-10-24
+2801,5038,"Laughlin, NV",2014-10-30
+2802,4637,"Shelby, NC",2014-10-31
+2803,4869,"Lakeland, FL",2014-11-07
+2804,5101,"St. James, MO",2014-11-07
+2805,5106,"Florence, MS",2014-11-07
+2806,5165,"Calhoun, GA",2014-11-07
+2807,5102,"St. James, MO",2014-11-08
+2808,5223,"Las Vegas, NV",2014-11-13
+2809,4870,"Charleston, SC",2014-11-14
+2810,4904,"Chatsworth, GA",2014-11-14
+2811,5268,"Richland, GA",2014-11-14
+2812,4641,"Plant City, FL",2014-11-21
+2813,4773,"Cumming, GA",2014-11-21
+2814,4590,"Demopolis, AL",2014-12-05
+2815,4836,"Calhoun, GA",2014-12-05
+2816,4858,"LaQuinta, CA",2014-12-12
+2817,5192,"Las Vegas, NV",2014-12-12
+2818,5251,"Denver, CO",2015-01-09
+2819,5260,"Lakeland, FL",2015-01-30
+2820,5291,"Young Harris, GA",2015-02-06
+2821,5607,"Kissimmee, FL",2015-02-20
+2822,5644,"Rancho Mirage, CA",2015-02-20
+2823,5105,"Huntsville, TX",2015-02-26
+2824,5027,"Lake Havasu City, AZ",2015-02-27
+2825,5444,"Isle, MN",2015-02-27
+2826,5608,"Daphne, AL",2015-02-27
+2827,5063,"Pensacola, FL",2015-03-06
+2828,5613,"Shreveport, LA",2015-03-06
+2829,5641,"Nashville, TN",2015-03-06
+2830,5232,"Tupelo, MS",2015-03-13
+2831,5304,"Bainbridge, GA",2015-03-13
+2832,5614,"Fort Worth, TX",2015-03-13
+2833,5717,"Fairhope, AL",2015-03-13
+2834,5424,"Arcadia, CA",2015-03-20
+2835,5503,"Miami, OK",2015-03-20
+2836,5626,"Tucson, AZ",2015-03-20
+2837,5504,"Miami, OK",2015-03-21
+2838,5279,"Kissimmee, FL",2015-03-26
+2839,5140,"Ashburn, GA",2015-03-27
+2840,5262,"Shawnee, OK",2015-03-27
+2841,5300,"Havasu Landing, CA",2015-03-27
+2842,5355,"Conyers, GA",2015-03-27
+2843,5549,"Atmore, AL",2015-03-27
+2844,5627,"Reno, NV",2015-03-27
+2845,5645,"Hammond, LA",2015-03-27
+2846,5135,"Gulfport, MS",2015-04-03
+2847,5253,"Pleasant Hill, MO",2015-04-03
+2848,5270,"Somerville, TN",2015-04-03
+2849,5323,"Stillwater, OK",2015-04-03
+2850,5590,"Shady Grove, PA",2015-04-03
+2851,5628,"Renton, WA",2015-04-03
+2852,5137,"Harrington, DE",2015-04-10
+2853,5181,"Osage City, KS",2015-04-10
+2854,5233,"Cedar Park, TX",2015-04-10
+2855,5257,"Winston-Salem, NC",2015-04-10
+2856,5271,"Indianapolis, IN",2015-04-10
+2857,5278,"Smithville, MO",2015-04-10
+2858,5322,"Wildomar, CA",2015-04-10
+2859,5489,"Staten Island, NY",2015-04-10
+2860,5629,"Salt Lake City, UT",2015-04-10
+2861,5675,"Gadsden, AL",2015-04-10
+2862,5180,"Enid, OK",2015-04-17
+2863,5225,"Midland , TX",2015-04-17
+2864,5394,"Overland Park, KS",2015-04-17
+2865,5446,"Washington, MO",2015-04-17
+2866,5450,"Winchester, TN",2015-04-17
+2867,5500,"Cornelia, GA",2015-04-17
+2868,5562,"Lanexa, VA",2015-04-17
+2869,5630,"Fort Collins, CO",2015-04-17
+2870,5648,"Kings Mountain, NC",2015-04-17
+2871,5700,"Chelsea, AL",2015-04-17
+2872,5195,"Edwardsville, KS",2015-04-24
+2873,5200,"Calhoun, GA",2015-04-24
+2874,5244,"Morris, OK",2015-04-24
+2875,5255,"Mt. Carmel, IL",2015-04-24
+2876,5318,"Murfreesboro, TN",2015-04-24
+2877,5352,"Lexington, NC",2015-04-24
+2878,5407,"Springfield, MO",2015-04-24
+2879,5583,"Boone, IA",2015-04-24
+2880,5631,"Las Vegas, NV",2015-04-24
+2881,5698,"Garnett, KS",2015-04-24
+2882,5720,"Chincoteague, VA",2015-04-24
+2883,5584,"Boone, IA",2015-04-25
+2884,5713,"Memphis, TN",2015-04-25
+2885,5202,"Bixby, OK",2015-05-01
+2886,5224,"Huntsville, AL",2015-05-01
+2887,5227,"Lansing, KS",2015-05-01
+2888,5234,"Annapolis, MD",2015-05-01
+2889,5245,"St. Joseph, MO",2015-05-01
+2890,5269,"Lucedale, MS",2015-05-01
+2891,5290,"Grandview, MO",2015-05-01
+2892,5302,"Appleton, WI",2015-05-01
+2893,5403,"Dwight, IL",2015-05-01
+2894,5496,"Columbia, MO",2015-05-01
+2895,5521,"Elk Grove, CA",2015-05-01
+2896,5530,"Liberty, IN",2015-05-01
+2897,5561,"Show Low, AZ",2015-05-01
+2898,5835,"Kansas City, MO",2015-05-01
+2899,5217,"Ridgefield, CT",2015-05-02
+2900,5303,"Appleton, WI",2015-05-02
+2901,5449,"Mesquite, NV",2015-05-02
+2902,5524,"Liberty, IN",2015-05-02
+2903,5188,"Waynesboro, GA",2015-05-08
+2904,5204,"Kannapolis, NC",2015-05-08
+2905,5250,"Abilene, KS",2015-05-08
+2906,5292,"Ashland, MS",2015-05-08
+2907,5301,"Council Bluffs, IA",2015-05-08
+2908,5311,"Lawrence, KS",2015-05-08
+2909,5317,"Auburn, AL",2015-05-08
+2910,5330,"Fredericksburg, VA",2015-05-08
+2911,5398,"Rome, GA",2015-05-08
+2912,5401,"Warsaw, IN",2015-05-08
+2913,5438,"Lamar, CO",2015-05-08
+2914,5527,"Green Lane, PA",2015-05-08
+2915,5529,"Claremore, OK",2015-05-08
+2916,5543,"Long Beach, CA",2015-05-08
+2917,5598,"Arab, AL",2015-05-08
+2918,5615,"Overland Park, KS",2015-05-08
+2919,5185,"Chesapeake, VA",2015-05-15
+2920,5186,"Langley, OK",2015-05-15
+2921,5364,"Sevierville, TN",2015-05-15
+2922,5384,"Platte City, MO",2015-05-15
+2923,5441,"West Chester, OH",2015-05-15
+2924,5492,"Hartselle, AL",2015-05-15
+2925,5517,"St. Paul, MN",2015-05-15
+2926,5542,"Bakersfield, CA",2015-05-15
+2927,5616,"St. Charles, MO",2015-05-15
+2928,5681,"Wyandotte, MI",2015-05-15
+2929,5797,"Syracuse, NY",2015-05-15
+2930,5267,"Madison, WI",2015-05-16
+2931,5831,"Birmingham, AL",2015-05-16
+2932,5231,"Boulder City, NV",2015-05-22
+2933,5237,"Westmont, IL",2015-05-22
+2934,5285,"North Bend, OR",2015-05-22
+2935,5366,"Kennett, MO",2015-05-22
+2936,5402,"Kimberling City, MO",2015-05-22
+2937,5481,"Lewisburg, TN",2015-05-22
+2938,5609,"Marietta, GA",2015-05-22
+2939,5723,"Evans, GA",2015-05-22
+2940,5238,"Westmont, IL",2015-05-23
+2941,5283,"Rochester, NY",2015-05-23
+2942,5315,"Mound City, KS",2015-05-23
+2943,5497,"West Des Moines, IA",2015-05-23
+2944,5083,"Fond du Lac, WI",2015-05-29
+2945,5187,"Monroe City, MO",2015-05-29
+2946,5201,"Canon City, CO",2015-05-29
+2947,5226,"Norco, CA",2015-05-29
+2948,5280,"Owatonna, MN",2015-05-29
+2949,5282,"Brookhaven, MS",2015-05-29
+2950,5365,"Lima, OH",2015-05-29
+2951,5379,"Swanzey, NH",2015-05-29
+2952,5442,"Valley, NE",2015-05-29
+2953,5452,"Missoula, MT",2015-05-29
+2954,5467,"Brimfield, IL",2015-05-29
+2955,5604,"Kansas City, MO",2015-05-29
+2956,5606,"Snow Hill, MD",2015-05-29
+2957,5610,"Hendersonville, TN",2015-05-29
+2958,5642,"Knoxville, TN",2015-05-29
+2959,5786,"Woodruff, SC",2015-05-29
+2960,5807,"Ft. Washington, MD",2015-05-29
+2961,5605,"Loveland, CO",2015-05-30
+2962,5169,"Montello, WI",2015-06-05
+2963,5211,"Huron, SD",2015-06-05
+2964,5295,"Lincoln, IL",2015-06-05
+2965,5308,"Bardstown, KY",2015-06-05
+2966,5340,"McLouth, KS",2015-06-05
+2967,5428,"Boonville, MO",2015-06-05
+2968,5432,"Marysville, KS",2015-06-05
+2969,5520,"Memphis, TN",2015-06-05
+2970,5525,"Mayetta, KS",2015-06-05
+2971,5546,"Levittown, PA",2015-06-05
+2972,5550,"Lee''s Summit, MO",2015-06-05
+2973,5587,"Okemah, OK",2015-06-05
+2974,5600,"Euharlee, GA",2015-06-05
+2975,5602,"Valley Center, CA",2015-06-05
+2976,5632,"Asheville, NC",2015-06-05
+2977,5656,"Lincolnton, NC",2015-06-05
+2978,5679,"Pueblo, CO",2015-06-05
+2979,5855,"Branson, MO",2015-06-05
+2980,5354,"Fitzgerald, GA",2015-06-12
+2981,5357,"Wynne, AR",2015-06-12
+2982,5363,"Tryon, NC",2015-06-12
+2983,5399,"Jeffersonville, IN",2015-06-12
+2984,5436,"Oconomowoc, WI",2015-06-12
+2985,5479,"Hays, KS",2015-06-12
+2986,5531,"Marietta, OH",2015-06-12
+2987,5558,"Fillmore, CA",2015-06-12
+2988,5633,"N. Charleston, SC",2015-06-12
+2989,5774,"Mankato, MN",2015-06-12
+2990,5781,"Knoxville, TN",2015-06-12
+2991,5387,"Uncasville, CT",2015-06-13
+2992,5778,"Dallas, TX",2015-06-13
+2993,5247,"Barbourville, KY",2015-06-19
+2994,5266,"Hernando, MS",2015-06-19
+2995,5272,"Miles City, MT",2015-06-19
+2996,5326,"Apex, NC",2015-06-19
+2997,5471,"Auburn Hills, MI",2015-06-19
+2998,5478,"State Center, IA",2015-06-19
+2999,5501,"Quincy, IL",2015-06-19
+3000,5526,"Frisco, CO",2015-06-19
+3001,5570,"Seymour, MO",2015-06-19
+3002,5594,"Wilson, NY",2015-06-19
+3003,5611,"Bowling Green, KY",2015-06-19
+3004,5748,"Buckhannon, WV",2015-06-19
+3005,5798,"Eureka, KS",2015-06-19
+3006,5806,"Banning, CA",2015-06-19
+3007,5810,"Ogden, UT",2015-06-19
+3008,5333,"Buckner, MO",2015-06-20
+3009,5429,"Merrimack, NH",2015-06-20
+3010,5451,"Old Orchard Beach, ME",2015-06-20
+3011,5164,"Leadville, CO",2015-06-26
+3012,5208,"Willard, MO",2015-06-26
+3013,5210,Nassau Bahams,2015-06-26
+3014,5248,"Omaha, NE",2015-06-26
+3015,5281,"Artesia, NM",2015-06-26
+3016,5331,"Chandler, OK",2015-06-26
+3017,5408,"Central Point, OR",2015-06-26
+3018,5427,"Newport Beach, CA",2015-06-26
+3019,5433,"Maryville, TN",2015-06-26
+3020,5462,"Santa Clara, CA",2015-06-26
+3021,5507,"Franklin, IN",2015-06-26
+3022,5588,"Lenexa, KS",2015-06-26
+3023,5603,"Grafton, WI",2015-06-26
+3024,5620,"Ypsilanti, MI",2015-06-26
+3025,5734,"Covington, VA",2015-06-26
+3026,5514,"Washington, DC",2015-06-27
+3027,5568,"Davenport, IA",2015-06-27
+3028,5569,"Waterbury, VT",2015-06-27
+3029,5793,"Peconic, NY",2015-06-27
+3030,5857,"Allentown, PA",2015-06-27
+3031,5160,"Jackson, TN",2015-07-03
+3032,5254,"Lake Placid, NY",2015-07-03
+3033,5477,"Rio Rancho, NM",2015-07-03
+3034,5676,"Whiting, IA",2015-07-03
+3035,5711,"Absarokee, MT",2015-07-03
+3036,5731,"Liberty, MO",2015-07-03
+3037,5842,"Hutchinson, KS",2015-07-03
+3038,5259,"Greenwood, SC",2015-07-09
+3039,5235,"Wise, VA",2015-07-10
+3040,5319,"Falls City, NE",2015-07-10
+3041,5346,"Green Bay, WI",2015-07-10
+3042,5375,"Fort Smith, AR",2015-07-10
+3043,5453,"Warrensburg, MO",2015-07-10
+3044,5480,"Wellsville, MO",2015-07-10
+3045,5482,"Rohnert Park, CA",2015-07-10
+3046,5538,"Kettering, OH",2015-07-10
+3047,5621,"Indianapolis, IN",2015-07-10
+3048,5693,"North Wildwood, NJ",2015-07-10
+3049,5859,"Holbrook, AZ",2015-07-10
+3050,5867,"REDWOOD FALLS, MN",2015-07-10
+3051,5252,"Bellevue, NE",2015-07-17
+3052,5274,"Burlington, KS",2015-07-17
+3053,5382,"Laramie, WY",2015-07-17
+3054,5493,"Waterloo, IA",2015-07-17
+3055,5511,"Watertown, SD",2015-07-17
+3056,5585,"New Palestine, IN",2015-07-17
+3057,5622,"Auburn Hills, MI",2015-07-17
+3058,5640,"Kingston, RI",2015-07-17
+3059,5762,"Galax, VA",2015-07-17
+3060,5332,"Maggie Valley, NC",2015-07-24
+3061,5372,"Dodge City, KS",2015-07-24
+3062,5377,"Morton, IL",2015-07-24
+3063,5443,"Iola, KS",2015-07-24
+3064,5533,"Dyersburg, TN",2015-07-24
+3065,5623,"Woodbury, MN",2015-07-24
+3066,5650,"Mason City, IA",2015-07-24
+3067,5651,"Shawnee, OK",2015-07-24
+3068,5695,"Arvada, CO",2015-07-24
+3069,5699,"Effingham, IL",2015-07-24
+3070,5714,"Lees Summit, MO",2015-07-24
+3071,5800,"Vista, CA",2015-07-24
+3072,5860,"Carrollton, GA",2015-07-24
+3073,5897,"Salt Lake City, UT",2015-07-24
+3074,5579,"Windsor, VT",2015-07-25
+3075,5893,"Orion, IL",2015-07-25
+3076,5265,"Rossville, KS",2015-07-31
+3077,5353,"Asheboro, NC",2015-07-31
+3078,5437,"Oakland, CA",2015-07-31
+3079,5465,"Laurie, MO",2015-07-31
+3080,5536,"Alamosa, CO",2015-07-31
+3081,5547,"Brainerd, MN",2015-07-31
+3082,5649,"Dillard, GA",2015-07-31
+3083,5624,"Des Moines, IA",2015-07-31
+3084,5753,"Manitowoc, WI",2015-07-31
+3085,5809,"New Hope, AL",2015-07-31
+3086,5813,"Leonardtown, MD",2015-07-31
+3087,5876,"Miami, OK",2015-07-31
+3088,5884,"Manorville, NY",2015-08-01
+3089,5343,"Floyd, VA",2015-08-07
+3090,5349,"Gillette, WY",2015-08-07
+3091,5373,"Huntington Beach, CA",2015-08-07
+3092,5468,"McMinnville, TN",2015-08-07
+3093,5472,"Franklin, NC",2015-08-07
+3094,5486,"Woodward, OK",2015-08-07
+3095,5541,"Rochester, MN",2015-08-07
+3096,5593,"Kirksville, MO",2015-08-07
+3097,5625,"Madison, WI",2015-08-07
+3098,5765,"Salina, KS",2015-08-07
+3099,5877,"Penn Valley, CA",2015-08-07
+3100,5647,"Billings, MT",2015-08-11
+3101,5440,"Atlanta, GA",2015-08-14
+3102,5476,"New Paltz, NY",2015-08-14
+3103,5490,"Fulton, MS",2015-08-14
+3104,5510,"Conifer, CO",2015-08-14
+3105,5512,"Athens, GA",2015-08-14
+3106,5545,"Worland, WY",2015-08-14
+3107,5586,"Newaygo, MI",2015-08-14
+3108,5634,"Scarborough, ME",2015-08-14
+3109,5684,"Excelsior Springs, MO",2015-08-14
+3110,5751,"Omaha, NE",2015-08-14
+3111,5757,"Bel Air, MD",2015-08-14
+3112,5733,"Overland Park, KS",2015-08-15
+3113,5498,"Hill City, SD",2015-08-21
+3114,5515,"Marshall, MN",2015-08-21
+3115,5539,"Hot Springs, AR",2015-08-21
+3116,5581,"Emporia, KS",2015-08-21
+3117,5591,"Madison, IN",2015-08-21
+3118,5597,"Hampton, VA",2015-08-21
+3119,5635,"Harrisburg, PA",2015-08-21
+3120,5677,"Birch Run, MI",2015-08-21
+3121,5776,"Liberty, MO",2015-08-21
+3122,5780,"Kennesaw, GA",2015-08-21
+3123,5828,"Cape Girardeau, MO",2015-08-21
+3124,5540,"Hot Springs, AR",2015-08-22
+3125,5194,"Bonner Springs, KS",2015-08-28
+3126,5293,"Washington Island, WI",2015-08-28
+3127,5296,"New Holland, PA",2015-08-28
+3128,5329,"Albert Lea, MN",2015-08-28
+3129,5347,"Sheridan, WY",2015-08-28
+3130,5548,"Kenosha, WI",2015-08-28
+3131,5592,"Paola, KS",2015-08-28
+3132,5636,"Laurel, MD",2015-08-28
+3133,5718,"Marne, MI",2015-08-28
+3134,5722,"Gainesville, GA",2015-08-28
+3135,5787,"Pikeville, TN",2015-08-28
+3136,5792,"Marshalltown, IA",2015-08-28
+3137,5811,"Wendover, NV",2015-08-28
+3138,5851,"Lubbock, TX",2015-08-28
+3139,5743,"New London, CT",2015-08-29
+3140,5874,"Fairfield , CT",2015-08-29
+3141,5314,"Geneva, NY",2015-09-04
+3142,5464,"Bedford, TX",2015-09-04
+3143,5637,"Richmond, VA",2015-09-04
+3144,5697,"Clinton, MO",2015-09-04
+3145,5732,"Vernon, IN",2015-09-04
+3146,5749,"Charleston, SC",2015-09-04
+3147,5775,"Warrens, WI",2015-09-04
+3148,5878,"Myrtle Beach, SC",2015-09-04
+3149,5891,"Columbia, MO",2015-09-04
+3150,5513,"Parker, CO",2015-09-05
+3151,5687,"Hartford, CT",2015-09-05
+3152,5726,"Omaha, NE",2015-09-05
+3153,5894,"Westport, CT",2015-09-05
+3154,5243,"Fort Mill, SC",2015-09-11
+3155,5312,"Richmond, VA",2015-09-11
+3156,5348,"Grand Junction, CO",2015-09-11
+3157,5356,"Mears, MI",2015-09-11
+3158,5404,"Montello, WI",2015-09-11
+3159,5766,"Decatur, AL",2015-09-11
+3160,5557,"Carrollton, KY",2015-09-11
+3161,5559,"Butler, MO",2015-09-11
+3162,5560,"Vermillion, SD",2015-09-11
+3163,5617,"N. Kansas City, MO",2015-09-11
+3164,5682,"Alma, AR",2015-09-11
+3165,5694,"Derby, KS",2015-09-11
+3166,5715,"Cookeville, TN",2015-09-11
+3167,5730,"Leavenworth, KS",2015-09-11
+3168,5747,"Goldsboro, NC",2015-09-11
+3169,5814,"Chicago, IL",2015-09-11
+3170,5875,"Millington, TN",2015-09-11
+3171,5888,"Lake Elsinore, CA",2015-09-11
+3172,5892,"Independence, MO",2015-09-11
+3173,5495,"Harvard, MA",2015-09-12
+3174,5777,"Bloomington, IN",2015-09-12
+3175,5945,"Lake Elsinore, CA",2015-09-13
+3176,5189,"Kearney, NE",2015-09-18
+3177,5264,"Salisbury, NC",2015-09-18
+3178,5297,"Sacramento, CA",2015-09-18
+3179,5344,"Denver, CO",2015-09-18
+3180,5430,"Worthington, MN",2015-09-18
+3181,5484,"Denison, IA",2015-09-18
+3182,5494,"Plymouth, IN",2015-09-18
+3183,5535,"Kearney, MO",2015-09-18
+3184,5544,"Spearfish, SD",2015-09-18
+3185,5612,"Southaven, MS",2015-09-18
+3186,5754,"Ponca City, OK",2015-09-18
+3187,5826,"Nebo, KY",2015-09-18
+3188,5474,"Kimberling City, MO",2015-09-19
+3189,5475,"Seaside Heights, NJ",2015-09-19
+3190,5523,"Hot Springs, AR",2015-09-19
+3191,5582,"Clarence, NY",2015-09-19
+3192,5313,"Vidalia, LA",2015-09-25
+3193,5431,"Murphysboro, IL",2015-09-25
+3194,5469,"Newton, NC",2015-09-25
+3195,5491,"Tuscaloosa, AL",2015-09-25
+3196,5522,"Fayetteville, AR",2015-09-25
+3197,5567,"Owensboro, KY",2015-09-25
+3198,5619,"Midwest City, OK",2015-09-25
+3199,5683,"Warrensburg, MO",2015-09-25
+3200,5692,"Shawnee, KS",2015-09-25
+3201,5756,"Jonesboro, AR",2015-09-25
+3202,5840,"Dothan, AL",2015-09-25
+3203,5847,"Bryant , AR",2015-09-25
+3204,5853,"Lemoyne, PA",2015-09-25
+3205,5870,"Harrisonburg, VA",2015-09-25
+3206,5901,"Oak Grove, MO",2015-09-25
+3207,5914,"Junction City, KS",2015-09-25
+3208,5958,"Omaha, NE",2015-09-25
+3209,5686,"Cresskill, NJ",2015-09-26
+3210,5829,"Blue Island, IL",2015-09-26
+3211,5750,"Corinth, MS",2015-10-01
+3212,5327,"Springfield, KY",2015-10-02
+3213,5400,"Dana Point, CA",2015-10-02
+3214,5488,"Harrisburg, PA",2015-10-02
+3215,5673,"Sheridan, AR",2015-10-02
+3216,5788,"Columbus, MS",2015-10-02
+3217,5789,"Oroville, CA",2015-10-02
+3218,5801,"Rome, GA",2015-10-02
+3219,5815,"Laurens, SC",2015-10-02
+3220,5871,"Guntersville, AL",2015-10-02
+3221,5886,"Kansas City, MO",2015-10-02
+3222,5933,"Kansas City, MO",2015-10-02
+3223,5802,"Rome, GA",2015-10-03
+3224,5887,"Kansas City, MO",2015-10-03
+3225,5869,"Helena, AR",2015-10-08
+3226,5339,"Sand Springs, OK",2015-10-09
+3227,5345,"Centralia, MO",2015-10-09
+3228,5374,"Lyons, GA",2015-10-09
+3229,5397,"Greenfield, MA",2015-10-09
+3230,5439,"Bullhead City, AZ",2015-10-09
+3231,5470,"Rocky Mount, NC",2015-10-09
+3232,5537,"Cincinnati, OH",2015-10-09
+3233,5643,"Lawrenceville, GA",2015-10-09
+3234,5646,"Waxhaw, NC",2015-10-09
+3235,5674,"Arthur, IL",2015-10-09
+3236,5678,"DeSoto, KS",2015-10-09
+3237,5708,"Bentonville, AR",2015-10-09
+3238,5721,"Fort Bliss, TX",2015-10-09
+3239,5724,"Topeka, KS",2015-10-09
+3240,5849,"Hattiesburg, MS",2015-10-09
+3241,5934,"Atlantic City, NJ",2015-10-09
+3242,5978,"Kansas City, MO",2015-10-14
+3243,5371,"Lenoir, NC",2015-10-16
+3244,5376,"Munfordville, KY",2015-10-16
+3245,5380,"Nelsonville, OH",2015-10-16
+3246,5383,"Mount Pleasant, TN",2015-10-16
+3247,5388,"Libertyville, IL",2015-10-16
+3248,5423,"Harper, KS",2015-10-16
+3249,5463,"Parsons, KS",2015-10-16
+3250,5742,"Woodstock, VA",2015-10-16
+3251,5890,"Broken Arrow, OK",2015-10-16
+3252,5725,"Richardson, TX",2015-10-22
+3253,5381,"Osawatomie, KS",2015-10-23
+3254,5445,"Fort Gibson, OK",2015-10-23
+3255,5499,"Cleveland, GA",2015-10-23
+3256,5752,"Lynchburg, TN",2015-10-23
+3257,5832,"Union Grove, WI",2015-10-23
+3258,5848,"Independence, MO",2015-10-23
+3259,6015,"Lynchburg, TN",2015-10-23
+3260,6002,"Las Vegas, NV",2015-10-24
+3261,5918,"Rehobeth Beach, DE",2015-10-30
+3262,5790,"Kissimmee, FL",2015-11-03
+3263,5466,"Shelby, NC",2015-11-06
+3264,5845,"Lakeland, FL",2015-11-06
+3265,5902,"St. James, MO",2015-11-06
+3266,5971,"Winder, GA",2015-11-06
+3267,5904,"St. James, MO",2015-11-07
+3268,5953,"Gulf Shores, AL",2015-11-07
+3269,5386,"Richland, GA",2015-11-13
+3270,5502,"Mount Pleasant, SC",2015-11-13
+3271,5779,"Chatsworth, GA",2015-11-13
+3272,5975,"Indio, CA",2015-11-13
+3273,5685,"Cumming, GA",2015-11-20
+3274,5825,"Knoxville, TN",2015-11-20
+3275,5833,"Plant City, FL",2015-11-20
+3276,6014,"Tuscumbia, AL",2015-11-20
+3277,5854,"Calhoun, GA",2015-12-04
+3278,5880,"Demopolis, AL",2015-12-04
+3279,5984,"Las Vegas, NV",2015-12-11
+3280,5990,"La Quinta, CA",2015-12-11
+3281,5924,"Denver, CO",2016-01-08
+3282,6000,"Lakeland , FL",2016-01-29
+3283,5923,"Young Harris, GA",2016-02-05
+3284,6227,"Queen Creek, AZ",2016-02-19
+3285,6402,"Indio, CA",2016-02-19
+3286,5816,"Huntsville, TX",2016-02-25
+3287,6356,"Daphne, AL",2016-02-26
+3288,5922,"Auburn, AL",2016-03-04
+3289,6008,"Lawrenceville, GA",2016-03-04
+3290,6159,"Isle , MN",2016-03-04
+3291,6362,"Shreveport, LA",2016-03-04
+3292,5885,"Bainbridge, GA",2016-03-11
+3293,6107,"Nashville, TN",2016-03-11
+3294,6363,"Fort Worth, TX",2016-03-11
+3295,6240,"Fairhope, AL",2016-03-12
+3296,5808,"Pensacola, FL",2016-03-18
+3297,6100,"Tupelo, MS",2016-03-18
+3298,6377,"Tucson, AZ",2016-03-18
+3299,6417,"Tupelo, MS",2016-03-19
+3300,5954,"Shawnee, OK",2016-03-25
+3301,6379,"Reno, NV",2016-03-25
+3302,6460,"Hammond, LA",2016-03-25
+3303,5938,"Vero Beach, FL",2016-04-01
+3304,6021,"Cedar Park, TX",2016-04-01
+3305,6055,"Stillwater, OK",2016-04-01
+3306,6253,"Jackson, TN",2016-04-01
+3307,6302,"Greencastle, PA",2016-04-01
+3308,6336,"Pleasant Hill, MO",2016-04-01
+3309,6355,"Arciadia , CA",2016-04-01
+3310,6380,"Renton, WA",2016-04-01
+3311,5937,"Gulfport, MS",2016-04-08
+3312,6012,"Staten Island, NY",2016-04-08
+3313,6013,"Smithville, MO",2016-04-08
+3314,6040,"Somerville, TN",2016-04-08
+3315,6102,"Osage City, KS",2016-04-08
+3316,6128,"Sand Springs, OK",2016-04-08
+3317,6145,"Gadsden, AL",2016-04-08
+3318,6199,"Harrington, DE",2016-04-08
+3319,6381,"Salt Lake City, UT",2016-04-08
+3320,5932,"Washington, MO",2016-04-15
+3321,5996,"Cornelia, GA",2016-04-15
+3322,6041,"Hagerstown, MD",2016-04-15
+3323,6074,"Enid, OK",2016-04-15
+3324,6144,"Hartselle , AL",2016-04-15
+3325,6244,"Wildomar, CA",2016-04-15
+3326,6295,"Winchester, TN",2016-04-15
+3327,6317,"Kings Mountain, NC",2016-04-15
+3328,6382,"Fort Collins, CO",2016-04-15
+3329,6483,"Millington, TN",2016-04-15
+3330,5921,"Indianapolis, IN",2016-04-22
+3331,5926,"Morris, OK",2016-04-22
+3332,5955,"Mt. Carmel, IL",2016-04-22
+3333,5993,"Springfield, MO",2016-04-22
+3334,6068,"Southaven, MS",2016-04-22
+3335,6091,"Overland Park, KS",2016-04-22
+3336,6096,"Lexington, NC",2016-04-22
+3337,6261,"Gurley, AL",2016-04-22
+3338,6384,"Las Vegas, NV",2016-04-22
+3339,6414,"Boone , IA",2016-04-22
+3340,6440,"Midland, TX",2016-04-22
+3341,6400,"Murfresboro, TN",2016-04-23
+3342,6415,"Boone, IA",2016-04-23
+3343,6447,"Memphis , TN",2016-04-23
+3344,5907,"Chelsea, AL",2016-04-29
+3345,5939,"Calhoun, GA",2016-04-29
+3346,5965,"Liberty, IN",2016-04-29
+3347,5969,"Appleton, WI",2016-04-29
+3348,5995,"Garnett, KS",2016-04-29
+3349,6066,"Stuttgart, AR",2016-04-29
+3350,6152,"Edwardsville, KS",2016-04-29
+3351,6364,"Overland Park, KS",2016-04-29
+3352,6429,"Lanexa, VA",2016-04-29
+3353,6473,"Boca Raton, FL",2016-04-29
+3354,6494,"Elk Grove , CA",2016-04-29
+3355,5964,"Ridgefield, CT",2016-04-30
+3356,5966,"Liberty, IN",2016-04-30
+3357,5970,"Appleton, WI",2016-04-30
+3358,6538,"Elk Grove , CA",2016-04-30
+3359,5930,"Show Low, AZ",2016-05-06
+3360,5946,"Lucedale, MS",2016-05-06
+3361,5999,"Huntsville, AL",2016-05-06
+3362,6009,"Lansing, KS",2016-05-06
+3363,6183,"Vista, CA",2016-07-29
+3364,6029,"Annapolis, MD",2016-05-06
+3365,6116,"Kannapolis, NC",2016-05-06
+3366,6135,"Lawrence, KS",2016-05-06
+3367,6136,"Grandview, MO",2016-05-06
+3368,6187,"Mesquite, NV",2016-05-06
+3369,6257,"Columbia, MO",2016-05-06
+3370,6263,"St. Joseph , MO",2016-05-06
+3371,6279,"Bixby, OK",2016-05-06
+3372,6294,"Greenlane, PA",2016-05-06
+3373,6365,"St. Charles, MO",2016-05-06
+3374,6413,"Dwight, IL",2016-05-06
+3375,6594,"Kansas City, MO",2016-05-06
+3376,5948,"Arab, AL",2016-05-13
+3377,5949,"Waynesboro, GA",2016-05-13
+3378,6019,"Ashland, MS",2016-05-13
+3379,6022,"Falcon Heights, MN",2016-05-13
+3380,6043,"Warsaw, IN",2016-05-13
+3381,6067,"Fredericksburg, VA",2016-05-13
+3382,6075,"Muscatine, IA",2016-05-13
+3383,6149,"Rome, GA",2016-05-13
+3384,6166,"Platte City, MO",2016-05-13
+3385,6206,"Lamar, CO",2016-05-13
+3386,6276,"Sauk City, WI",2016-05-13
+3387,6287,"Council Bluffs, IA",2016-05-13
+3388,6357,"Bowling Green, KY",2016-05-13
+3389,6409,"Long Beach, CA",2016-05-13
+3390,6442,"Florence, AL",2016-05-13
+3391,6467,"Claremore, OK",2016-05-13
+3392,6529,"Greenwood, MO",2016-05-13
+3393,5974,"Fond du Lac, WI",2016-05-20
+3394,6049,"Langley, OK",2016-05-20
+3395,6092,"Valley, NE",2016-05-20
+3396,6235,"Chesapeake, VA",2016-05-20
+3397,6241,"Ayden, NC",2016-05-20
+3398,6290,"Syracuse, NY",2016-05-20
+3399,6343,"Birmingham, AL",2016-05-20
+3400,6354,"Boonville, IN",2016-05-20
+3401,6358,"Southhaven, MS",2016-05-20
+3402,6407,"Woodruff, SC",2016-05-20
+3403,6416,"Sevierville, TN",2016-05-20
+3404,6431,"Wyandotte, MI",2016-05-20
+3405,6452,"Chincoteague, VA",2016-05-20
+3406,6108,"Westmont, IL",2016-05-27
+3407,6113,"Lewisburg, TN",2016-05-27
+3408,6189,"Brookhaven, MS",2016-05-27
+3409,6192,"Evans, GA",2016-05-27
+3410,6248,"Lima, OH",2016-05-27
+3411,6424,"Boulder City, NV",2016-05-27
+3412,6439,"Kennett, MO",2016-05-27
+3413,6471,"Nashville, TN",2016-05-27
+3414,6058,"Rochester, NY",2016-05-28
+3415,6076,"North Bend, OR",2016-05-28
+3416,6109,"Westmont, IL",2016-05-28
+3417,6472,"Nashville, TN",2016-05-28
+3418,5919,"Owatonna, MN",2016-06-03
+3419,5968,"Norco, CA",2016-06-03
+3420,5977,"Kansas City, MO",2016-06-03
+3421,6079,"McLouth, KS",2016-06-03
+3422,6088,"Huron, SD",2016-06-03
+3423,6137,"Monroe City, MO",2016-06-03
+3424,6138,"Boonville, MO",2016-06-03
+3425,6150,"Memphis, TN",2016-06-03
+3426,6190,"Montello, WI",2016-06-03
+3427,6211,"Euharlee, GA",2016-06-03
+3428,6255,"Lincoln , IL",2016-06-03
+3429,6274,"Marysville, KS",2016-06-03
+3430,6285,"Lincolnton, NC",2016-06-03
+3431,6332,"Canon City, CO",2016-06-03
+3432,6337,"Levittown, PA",2016-06-03
+3433,6385,"Asheville, NC",2016-06-03
+3434,6443,"Mayetta, KS",2016-06-03
+3435,6444,"Lee''s Summit, MO",2016-06-03
+3436,6514,"Coudersport, PA",2016-06-03
+3437,6526,"Florence, OR",2016-06-03
+3438,6537,"Fort Washington, MD",2016-06-03
+3439,6543,"Red Bank(Chattanooga), TN",2016-06-03
+3440,6558,"Red Bank(Chattanooga), TN",2016-06-03
+3441,6589,"Spartanburg, SC",2016-06-03
+3442,6478,"Hancock, NH",2016-06-04
+3443,5959,"Elkmont, AL",2016-06-10
+3444,5976,"Marietta, OH",2016-06-10
+3445,6070,"Wynne , AR",2016-06-10
+3446,6084,"Clio, MI",2016-06-10
+3447,6126,"Fitzgerald, GA",2016-06-10
+3448,6164,"Hays, KS",2016-06-10
+3449,6175,"New Castle, DE",2016-06-10
+3450,6198,"Tryon, NC",2016-06-10
+3451,6219,"Okmulgee, OK",2016-06-10
+3452,6229,"Fillmore, CA",2016-06-10
+3453,6247,"Pueblo, CO",2016-06-10
+3454,6386,"Harrisburg, PA",2016-06-10
+3455,6458,"Mankato, MN",2016-06-10
+3456,6535,"Kansas City, KS",2016-06-10
+3457,6540,"Knoxville, TN",2016-06-10
+3458,6611,"Harrodsburg, KY",2016-06-10
+3459,6636,"Huntsville, AL",2016-06-10
+3460,6053,"Uncasville, CT",2016-06-11
+3461,6459,"Mankato, MN",2016-06-11
+3462,6561,"Tonganoxie, KS",2016-06-11
+3463,6575,"Sacramento, CA",2016-06-11
+3464,5940,"Buckhannon, WV",2016-06-17
+3465,6042,"Barbourville, KY",2016-06-17
+3466,6093,"Frisco, CO",2016-06-17
+3467,6130,"Apex, NC",2016-06-17
+3468,6147,"Hernando, MS",2016-06-17
+3469,6184,"Oconomowoc, WI",2016-06-17
+3470,6186,"Miles City, MT",2016-06-17
+3471,6207,"State Center , IA",2016-06-17
+3472,6208,"Eureka, KS",2016-06-17
+3473,6297,"Carlton Landing, OK",2016-06-17
+3474,6359,"Hendersonville, TN",2016-06-17
+3475,6469,"Red Wing, MN",2016-06-17
+3476,6477,"Kewanee, IL",2016-06-17
+3477,6492,"Kansas City, KS",2016-06-17
+3478,6105,"Buckner, MO",2016-06-18
+3479,6401,"Cottage Grove, WI",2016-06-18
+3480,6028,"Belvidere, IL",2016-06-24
+3481,5950,"Artesia, NM",2016-06-24
+3482,5972,"Leadville, CO",2016-06-24
+3483,6011,"Chandler, OK",2016-06-24
+3484,6095,"Maryville, TN",2016-06-24
+3485,6104,"Lenexa, KS",2016-06-24
+3486,6106,"Auburn Hills, MI",2016-06-24
+3487,6131,"Santa Clara, CA",2016-06-24
+3488,6250,"Newport, CA",2016-06-24
+3489,6344,"Lawrenceburg, TN",2016-06-24
+3490,6360,"Birmingham, AL",2016-06-24
+3491,6393,"Covington, VA",2016-06-24
+3492,6457,"Redwoodfalls, MN",2016-06-24
+3493,6480,"Franklin, IN",2016-06-24
+3494,6497,"Willard, MO",2016-06-24
+3495,6572,"Sioux City, IA",2016-06-24
+3496,6614,"Assumption, IL",2016-06-24
+3497,6154,"Washington, DC",2016-06-25
+3498,6180,"Waterbury, VT",2016-06-25
+3499,6289,"Absarokee, MT",2016-06-25
+3500,6432,"Onalaska, WI",2016-06-25
+3501,5987,"Whiting , IA",2016-07-01
+3502,6315,"Hutchinson, KS",2016-07-01
+3503,6348,"Grafton, WI",2016-07-01
+3504,6361,"Marietta, GA",2016-07-01
+3505,6583,"Leburn, KY",2016-07-01
+3506,6585,"Bristow, OK",2016-07-01
+3507,6057,"Lake Placid, NY",2016-07-02
+3508,6188,"Rio Rancho, NM",2016-07-02
+3509,6445,"Shawnee, OK",2016-07-02
+3510,5986,"Greenwood, SC",2016-07-07
+3511,6026,"Fort Smith, AR",2016-07-08
+3512,6081,"North Wildwood , NJ",2016-07-08
+3513,6089,"Jamestown, TN",2016-07-08
+3514,6196,"Wise, VA",2016-07-08
+3515,6213,"Green Bay, WI",2016-07-08
+3516,6236,"Warrensburg, MO",2016-07-08
+3517,6242,"Petaluma, CA",2016-07-08
+3518,6292,"Wellsville, MO",2016-07-08
+3519,6293,"Kettering, OH",2016-07-08
+3520,6369,"Indianapolis, IN",2016-07-08
+3521,6200,"Green Bay, WI",2016-07-09
+3522,6072,"Laramie, WY",2016-07-15
+3523,6090,"Del Mar, CA",2016-07-15
+3524,6111,"Watertown, SD",2016-07-15
+3525,6182,"Waterloo, IA",2016-07-15
+3526,6204,"Burlington, KS",2016-07-15
+3527,6272,"Galax, VA",2016-07-15
+3528,6316,"New Palestine, IN",2016-07-15
+3529,6370,"South Bend, IN",2016-07-15
+3530,6433,"Bellevue, NE",2016-07-15
+3531,6542,"New Palestine, IN",2016-07-16
+3532,6546,"Old Orchard Beach , ME",2016-07-16
+3533,6006,"Effingham, IL",2016-07-22
+3534,6059,"Arvada, CO",2016-07-22
+3535,6143,"Mason City, IA",2016-07-22
+3536,6224,"Peoria, IL",2016-07-22
+3537,6245,"Maggie Valley, NC",2016-07-22
+3538,6271,"Dyersburg, TN",2016-07-22
+3539,6345,"Kingston, RI",2016-07-22
+3540,6371,"Woodbury, MN",2016-07-22
+3541,6569,"Kingdom City, MO",2016-07-22
+3542,6570,"Desoto, KS",2016-07-22
+3543,6349,"Windsor, VT",2016-07-23
+3544,6069,"Dodge City, KS",2016-07-29
+3545,6129,"Hartselle, AL",2016-07-29
+3546,6273,"Iola, KS",2016-07-29
+3547,6283,"Alamosa, CO",2016-07-29
+3548,6372,"Des Moines, IA",2016-07-29
+3549,6418,"Lee''s Summit, MO",2016-07-29
+3550,6425,"Birch Run, MI",2016-07-29
+3551,6554,"Gilroy, CA",2016-07-29
+3552,6573,"Kohler, WI",2016-07-29
+3553,6606,"Summerville, SC",2016-07-29
+3554,6647,"Old Forge, NY",2016-07-29
+3555,6142,"Laurie, MO",2016-08-05
+3556,6151,"Huntington Beach, CA",2016-08-05
+3557,6168,"Asheboro, NC",2016-08-05
+3558,6256,"Clayton, CA",2016-08-05
+3559,6300,"Rossville, KS",2016-08-05
+3560,6387,"Laurel, MD",2016-08-05
+3561,6406,"Dillard, GA",2016-08-05
+3562,6434,"Omaha, NE",2016-08-05
+3563,6438,"Cincinnati, OH",2016-08-05
+3564,6536,"Macungie, PA",2016-08-05
+3565,6577,"Manitowoc, WI",2016-08-05
+3566,6626,"Westland, MI",2016-08-05
+3567,6578,"Manitowoc, WI",2016-08-06
+3568,6023,"Tonka Bay, MN",2016-08-12
+3569,6097,"Bel Air, MD",2016-08-12
+3570,6158,"McMinnville, TN",2016-08-12
+3571,6246,"Franklin, NC",2016-08-12
+3572,6281,"Woodward, OK",2016-08-12
+3573,6284,"Sheridan, WY",2016-08-12
+3574,6388,"Richmond, VA",2016-08-12
+3575,6420,"Salamanca, NY",2016-08-12
+3576,6423,"Winston, MO",2016-08-12
+3577,6563,"Atlanta, GA",2016-08-12
+3578,6604,"Liberty, MO",2016-08-12
+3579,6479,"New London, CT",2016-08-13
+3580,6579,"Russellville, AR",2016-08-13
+3581,6010,"Worland, WY",2016-08-19
+3582,6177,"Emporia, KS",2016-08-19
+3583,6216,"Marshall, MN",2016-08-19
+3584,6222,"Fulton, MS",2016-08-19
+3585,6238,"Madison, IN",2016-08-19
+3586,6239,"Long Beach, CA",2016-08-19
+3587,6303,"Athens, GA",2016-08-19
+3588,6311,"New Paltz, NY",2016-08-19
+3589,6331,"Oakland, CA",2016-08-19
+3590,6389,"South Windsor, CT",2016-08-19
+3591,6539,"Cape Girardeau, MO",2016-08-19
+3592,6541,"Excelsior Springs, MO",2016-08-19
+3593,6237,"Orion , IL",2016-08-20
+3594,6495,"Overland Park, KS",2016-08-20
+3595,6674,"Russellville, AL",2016-08-20
+3596,5994,"Albert Lea, MN",2016-08-26
+3597,6017,"Washington Island, WI",2016-08-26
+3598,6035,"Kearney, NE",2016-08-26
+3599,6056,"New Holland, PA",2016-08-26
+3600,6153,"Bonner Springs, KS",2016-08-26
+3601,6167,"Fleischmanns, NY",2016-08-26
+3602,6197,"Hill City, SD",2016-08-26
+3603,6202,"Kenosha, WI",2016-08-26
+3604,6215,"Pikeville , TN",2016-08-26
+3605,6254,"Lubbock, TX",2016-08-26
+3606,6304,"Kennesaw, GA",2016-08-26
+3607,6321,"Marne, MI",2016-08-26
+3608,6350,"Penn Valley, CA",2016-08-26
+3609,6390,"N. Charleston, SC",2016-08-26
+3610,6410,"Paola, KS",2016-08-26
+3611,6530,"Franklin, TN",2016-08-26
+3612,6562,"Wendover, NV",2016-08-26
+3613,6568,"Ceres, CA",2016-08-26
+3614,6607,"Boydton, VA",2016-08-26
+3615,6641,"Meridian, Ms",2016-08-26
+3616,6165,"Warrens, WI",2016-09-02
+3617,6179,"Appleton City, MO",2016-09-02
+3618,6373,"Ypsilanti, MI",2016-09-02
+3619,6450,"Charleston, SC",2016-09-02
+3620,6451,"Vernon, IN",2016-09-02
+3621,6679,"Myrtle Beach , SC",2016-09-02
+3622,6004,"Geneva, NY",2016-09-03
+3623,6258,"Winona, MN",2016-09-03
+3624,6277,"Bedford, TX",2016-09-03
+3625,6516,"Omaha, NE",2016-09-03
+3626,6698,"Westport, CT",2016-09-03
+3627,5882,"Southwest Harbor, ME",2016-09-09
+3628,6018,"Richmond, VA",2016-09-09
+3629,6073,"Montello , WI",2016-09-09
+3630,6099,"Vermillion, SD",2016-09-09
+3631,6205,"Grand Junction, CO",2016-09-09
+3632,6260,"Independence, MO",2016-09-09
+3633,6310,"Cookeville, TN",2016-09-09
+3634,6327,"Derby, KS",2016-09-09
+3635,6330,"Decatur, AL",2016-09-09
+3636,6334,"Goldsboro, NC",2016-09-09
+3637,6367,"Kansas City, MO",2016-09-09
+3638,6392,"Millington, TN",2016-09-09
+3639,6448,"Bloomington , IN",2016-09-09
+3640,6581,"Devon, PA",2016-09-10
+3641,6646,"Olivette, MO",2016-09-10
+3642,6034,"Salisbury, NC",2016-09-16
+3643,6103,"Kearney, MO",2016-09-16
+3644,6146,"Carrollton, KY",2016-09-16
+3645,6231,"Lawrenceville, GA",2016-09-16
+3646,6249,"Denison, IA",2016-09-16
+3647,6375,"Madison, WI",2016-09-16
+3648,6405,"Nebo, KY",2016-09-16
+3649,6428,"Worthington, MN",2016-09-16
+3650,6449,"Butler, MO",2016-09-16
+3651,6493,"Ponca City, OK",2016-09-16
+3652,6517,"Oroville, CA",2016-09-16
+3653,6559,"Mission, KS",2016-09-16
+3654,6584,"Nampa, ID",2016-09-16
+3655,6631,"Powells Point, NC",2016-09-16
+3656,6702,"Pine Bluff, AR",2016-09-16
+3657,6162,"Kimberling City, MO",2016-09-17
+3658,6251,"Seaside Heights, NJ",2016-09-17
+3659,6398,"Mazomanie, WI",2016-09-17
+3660,5925,"Conyers, GA",2016-09-23
+3661,6033,"Murphysboro, IL",2016-09-23
+3662,6065,"Shawnee, KS",2016-09-23
+3663,6127,"Bryant, AR",2016-09-23
+3664,6155,"Dothan, AL",2016-09-23
+3665,6178,"Clinton, MO",2016-09-23
+3666,6275,"Missoula, MT",2016-09-23
+3667,6280,"Newton, NC",2016-09-23
+3668,6291,"Lemoyne, PA",2016-09-23
+3669,6306,"Fayetteville, AR",2016-09-23
+3670,6312,"Cape Charles, VA",2016-09-23
+3671,6314,"Junction City, KS",2016-09-23
+3672,6329,"Clarence, NY",2016-09-23
+3673,6368,"Midwest City, OK",2016-09-23
+3674,6394,"Owensboro, KY",2016-09-23
+3675,6670,"Ft.Collins, Co",2016-09-23
+3676,6309,"Cresskill, NJ",2016-09-24
+3677,6391,"Blue Island, IL",2016-09-24
+3678,6552,"Columbia, TN",2016-09-24
+3679,6474,"Clarence, NY",2016-09-25
+3680,6212,"Corinth , MS",2016-09-29
+3681,5983,"Louisa, VA",2016-09-30
+3682,6051,"Springfield , KY",2016-09-30
+3683,6288,"Columbus, MS",2016-09-30
+3684,6305,"Sapulpa, OK",2016-09-30
+3685,6518,"Laurens, SC",2016-09-30
+3686,6643,"Guntersville, AL",2016-09-30
+3687,6645,"Jonesboro, AR",2016-09-30
+3688,6656,"Bentonville, AR",2016-09-30
+3689,6087,"Ft. Bliss, TX",2016-10-07
+3690,6098,"Lyons, GA",2016-10-07
+3691,6110,"Greenfield, MA",2016-10-07
+3692,6203,"Tuscaloosa, AL",2016-10-07
+3693,6220,"Harrisburg, PA",2016-10-07
+3694,6233,"Dana Point, CA",2016-10-07
+3695,6325,"Sheridan, AR",2016-10-07
+3696,6395,"Waxhaw, NC",2016-10-07
+3697,6528,"Helena, AR",2016-10-07
+3698,6618,"DeSoto, KS",2016-10-07
+3699,6650,"Hattiesburg, MS",2016-10-07
+3700,6665,"Marion, OH",2016-10-07
+3701,6326,"Glendive , MT",2016-10-08
+3702,6453,"Atlantic City, NJ",2016-10-08
+3703,6716,"Levenworth, KS",2016-10-08
+3704,6560,"Kansas City, MO",2016-10-11
+3705,6062,"Lenoir, NC",2016-10-14
+3706,6086,"Munfordville, KY",2016-10-14
+3707,6217,"Mount Pleasant, TN",2016-10-14
+3708,6218,"Parsons, KS",2016-10-14
+3709,6221,"Sacramento, CA",2016-10-14
+3710,6228,"Harper , KS",2016-10-14
+3711,6234,"Centralia, MO",2016-10-14
+3712,6328,"Nelsonville, OH",2016-10-14
+3713,6465,"Woodstock, VA",2016-10-14
+3714,6547,"Authur, IL",2016-10-14
+3715,6080,"Osawatomie, KS",2016-10-21
+3716,6252,"FortGibson, OK",2016-10-21
+3717,6590,"Union Grove, WI",2016-10-21
+3718,6597,"Rehobeth Beach, DE",2016-10-21
+3719,6632,"San Francisco , CA",2016-10-21
+3720,6699,"Independence, Mo",2016-10-21
+3721,6722,"Lynchburg, TN",2016-10-21
+3722,6723,"Lynchburg, TN",2016-10-21
+3723,6644,"Laughlin, NV",2016-10-27
+3724,6060,"Dickson, TN",2016-10-28
+3725,6648,"Kansas City, KS",2016-10-28
+3726,6481,"Dallas, TX",2016-10-29
+3727,6649,"Kansas City, KS",2016-10-29
+3728,6286,"Shelby, NC",2016-11-04
+3729,6532,"Winder, GA",2016-11-04
+3730,6675,"Peoria, AZ",2016-11-04
+3731,6301,"Indio, CA",2016-11-11
+3732,6308,"Mt. Pleasant, SC",2016-11-11
+3733,6591,"Orange Beach, AL",2016-11-11
+3734,6676,"Mt. Pleasant, NC",2016-11-11
+3735,6748,"Nashville, TN",2016-11-11
+3736,6421,"Knoxville, TN",2016-11-18
+3737,6470,"Cumming, GA",2016-11-18
+3738,6548,"Plant City, FL",2016-11-18
+3739,6671,"Tuscumbia, Al",2016-11-18
+3740,6735,"Cumming, GA",2016-11-19
+3741,6638,"Demopolis, AL",2016-12-02
+3742,6662,"Lakeland, FL",2016-12-02
+3743,6742,"Rancho Mirage, CA",2016-12-02
+3744,6694,"Las Vegas, NV",2016-12-09
+3745,6744,"Denver, CO",2017-01-06
+3746,6923,"Evergreen, AL",2017-01-13
+3747,6666,"Bullhead City, AZ",2017-01-20
+3748,6703,"Newport, CA",2017-01-27
+3749,6833,"Quartzsite, AZ",2017-01-27
+3750,6863,"Lakeland, FL",2017-01-27
+3751,6630,"Humble, TX",2017-02-03
+3752,6793,"Young Harris, GA",2017-02-03
+3753,6596,"Huntsville, TX",2017-02-16
+3754,6749,"Boca Raton, FL",2017-02-17
+3755,7083,"Indio, CA",2017-02-17
+3756,6726,"Meridian, MS",2017-02-24
+3757,7096,"Daphne, AL",2017-02-24
+3758,6756,"Brunswick, MD",2017-03-03
+3759,6785,"Lawrenceville, GA",2017-03-03
+3760,6869,"Auburn, AL",2017-03-03
+3761,7095,"Onamia, MN",2017-03-03
+3762,7102,"Shreveport, LA",2017-03-03
+3763,6619,"Nashville, TN",2017-03-10
+3764,6682,"Bainbridge, GA",2017-03-10
+3765,7089,"Great Bend, KS",2017-03-10
+3766,7103,"White Settlement, TX",2017-03-10
+3767,6620,"Pensacola, FL",2017-03-17
+3768,6740,"Tupelo, MS",2017-03-17
+3769,6891,"Hartselle, AL",2017-03-17
+3770,7115,"Tucson, AZ",2017-03-17
+3771,6741,"Tupelo, MS",2017-03-18
+3772,6615,"Crestview, FL",2017-03-24
+3773,6680,"Urbanna, VA",2017-03-24
+3774,6708,"Shawnee, OK",2017-03-24
+3775,7116,"Reno, NV",2017-03-24
+3776,7180,"Spring Hill, Ks",2017-03-24
+3777,7183,"Hammond, LA",2017-03-24
+3778,6709,"Shawnee, OK",2017-03-25
+3779,6720,"Savannah, TN",2017-03-31
+3780,6761,"Cedar Park , TX",2017-03-31
+3781,6856,"Stillwater, OK",2017-03-31
+3782,7015,"Arcadia, CA",2017-03-31
+3783,7042,"Greencastle, PA",2017-03-31
+3784,7050,"Pleasant Hill, MO",2017-03-31
+3785,7117,"Renton, WA",2017-03-31
+3786,7149,"Jackson, MS",2017-03-31
+3787,7212,"Kennett, MO",2017-05-05
+3788,6829,"Gravette, AR",2017-04-01
+3789,6627,"Sands Springs, OK",2017-04-07
+3790,6634,"Brunswick, GA",2017-04-07
+3791,6719,"Bowling Green, KY",2017-04-07
+3792,6751,"Indianapolis, IN",2017-04-07
+3793,6772,"Osage City, KS",2017-04-07
+3794,6797,"Smithville, MO",2017-04-07
+3795,6820,"Somerville, TN",2017-04-07
+3796,6837,"Staten Island, NY",2017-04-07
+3797,6982,"Gadsden, AL",2017-04-07
+3798,7118,"Salt Lake City, UT",2017-04-07
+3799,7198,"Hurlock, MD",2017-04-07
+3800,6866,"Hagerstown, MD",2017-04-14
+3801,6955,"Gurley, AL",2017-04-14
+3802,6972,"Kings Mountain, NC",2017-04-14
+3803,7119,"Fort Collins, CO",2017-04-14
+3804,7182,"Millington, TN",2017-04-14
+3805,6635,"Cornelia, GA",2017-04-21
+3806,6655,"Enid, OK",2017-04-21
+3807,6660,"Barnsville, GA",2017-04-21
+3808,6739,"Springfield, MO",2017-04-21
+3809,6783,"Winchester, TN",2017-04-21
+3810,6804,"Washington, MO",2017-04-21
+3811,6954,"Overland Park, KS",2017-04-21
+3812,7120,"Las Vegas, NV",2017-04-21
+3813,6728,"Chelsea, AL",2017-04-22
+3814,6942,"Hampton , GA",2017-04-22
+3815,7005,"Memphis, TN",2017-04-22
+3816,6681,"Mt.Carmel, IL",2017-04-28
+3817,6721,"Calhoun, GA",2017-04-28
+3818,6750,"Brookhaven, MS",2017-04-28
+3819,6757,"Southaven, MS",2017-04-28
+3820,6774,"Lexington, NC",2017-04-28
+3821,6819,"Florence, AL",2017-04-28
+3822,6849,"Garnett, KS",2017-04-28
+3823,6868,"Manawa, WI",2017-04-28
+3824,6871,"Wellington, KS",2017-04-28
+3825,7011,"Murfreesboro, TN",2017-04-28
+3826,7017,"Stuttgart, AR",2017-04-28
+3827,7059,"Lanexa, VA",2017-04-28
+3828,7105,"Overland Park, KS",2017-04-28
+3829,7194,"Boone , IA",2017-04-28
+3830,7259,"Edwardsville, KS",2017-04-28
+3831,7195,"Boone, IA",2017-04-29
+3832,7221,"Kansas City, MO",2017-04-29
+3833,6652,"APPLETON, WI",2017-05-05
+3834,6669,"Jamestown, NY",2017-05-05
+3835,6803,"Kannapolis, NC",2017-05-05
+3836,6813,"Huntsville, AL",2017-05-05
+3837,6847,"Liberty, IN",2017-05-05
+3838,6851,"Show Low, AZ",2017-05-05
+3839,6874,"Bixby, OK",2017-05-05
+3840,6905,"St. Joseph, MO",2017-05-05
+3841,6938,"Lawrence, KS",2017-05-05
+3842,7029,"Lansing, KS",2017-05-05
+3843,7071,"Elk Grove , CA",2017-05-05
+3844,7086,"Crownsville, MD",2017-05-05
+3845,7106,"St. Charles, MO",2017-05-05
+3846,7131,"Columbia, MO",2017-05-05
+3847,7145,"Dwight, IL",2017-05-05
+3848,7224,"Kansas City, MO",2017-05-05
+3849,6653,"APPLETON, WI",2017-05-06
+3850,6752,"Ridgefield, CT",2017-05-06
+3851,6848,"Liberty, IN",2017-05-06
+3852,6888,"Muscatine, IA",2017-05-06
+3853,7072,"Elk Grove, CA",2017-05-06
+3854,6697,"Council Bluffs, IA",2017-05-12
+3855,6790,"Arab, AL",2017-05-12
+3856,6870,"Waynesboro, GA",2017-05-12
+3857,6915,"Rome, GA",2017-05-12
+3858,6935,"Fredericksburg, VA",2017-05-12
+3859,6980,"Warsaw , IN",2017-05-12
+3860,6998,"Falcon Heights, MN",2017-05-12
+3861,7087,"Fredericksburg, VA",2017-05-12
+3862,7097,"Bowling Green, KY",2017-05-12
+3863,7173,"Lamar, CO",2017-05-12
+3864,7176,"Long Beach, CA",2017-05-12
+3865,6683,"Fond du Lac, WI",2017-05-19
+3866,6700,"Platte City, MO",2017-05-19
+3867,6791,"Langley, OK",2017-05-19
+3868,6816,"Lebanon, TN",2017-05-19
+3869,6946,"Sevierville, TN",2017-05-19
+3870,6983,"Valley, NE",2017-05-19
+3871,7018,"Syracuse, NY",2017-05-19
+3872,7058,"Pueblo , Co",2017-05-19
+3873,7079,"Morgantown, PA",2017-05-19
+3874,7091,"Ayden, NC",2017-05-19
+3875,7101,"Marietta, GA",2017-05-19
+3876,7128,"Chesapeake, VA",2017-05-19
+3877,7177,"Pomona, CA",2017-05-19
+3878,7279,"Wyandotte, MI",2017-05-19
+3879,7287,"Birmingham, AL",2017-05-19
+3880,7288,"Meridian, MS",2017-05-19
+3881,6805,"Evans, GA",2017-05-26
+3882,6875,"Ruidoso, NM",2017-05-26
+3883,6986,"Westmont, IL",2017-05-26
+3884,7284,"Boulder City, NV",2017-05-26
+3885,7292,"Kissimmee, FL",2017-05-26
+3886,6887,"North Bend, OR",2017-05-27
+3887,6987,"Westmont, IL",2017-05-27
+3888,6738,"Huron, SD",2017-06-02
+3889,6745,"Claremore, OK",2017-06-02
+3890,6780,"Owatonna, MN",2017-06-02
+3891,6784,"McLouth, KS",2017-06-02
+3892,6855,"Monroe City, MO",2017-06-02
+3893,6885,"Boonville, IN",2017-06-02
+3894,6913,"Kansas City, MO",2017-06-02
+3895,6926,"Norco, CA",2017-06-02
+3896,6960,"Woodruff, SC",2017-06-02
+3897,6999,"Memphis, TN",2017-06-02
+3898,7041,"Lincoln, IL",2017-06-02
+3899,7067,"Marysville, KS",2017-06-02
+3900,7084,"Lee''s Summit, MO",2017-06-02
+3901,7121,"Laurel, MD",2017-06-02
+3902,7178,"Levittown, PA",2017-06-02
+3903,7243,"Coudersport, PA",2017-06-02
+3904,7055,"Uncasville, CT",2017-06-03
+3905,7298,"Sacramento, CA",2017-06-03
+3906,6664,"Montello, WI",2017-06-09
+3907,6696,"Elkmont, AL",2017-06-09
+3908,6711,"Beardstown, IL",2017-06-09
+3909,6755,"Marietta, OH",2017-06-09
+3910,6828,"New Castle, DE",2017-06-09
+3911,6967,"Okmulgee, OK",2017-06-09
+3912,7004,"Wynne, AR",2017-06-09
+3913,7019,"Fillmore, CA",2017-06-09
+3914,7069,"Mankato, MN",2017-06-09
+3915,7122,"Harrisburg, PA",2017-06-09
+3916,7214,"Kansas City, KS",2017-06-09
+3917,7216,"Harrodsburg, KY",2017-06-09
+3918,7230,"Huntsville, AL",2017-06-09
+3919,7273,"Aurora, CO",2017-06-09
+3920,7313,"Upper Marlboro, MD",2017-06-09
+3921,7054,"Blue Lake, CA",2017-06-10
+3922,7070,"Mankato, MN",2017-06-10
+3923,7213,"Hancock, NH",2017-06-10
+3924,7232,"Okauchee, WI",2017-06-10
+3925,7256,"Tonganoxie, KS",2017-06-10
+3926,6496,"White House, TN",2017-06-16
+3927,6667,"Holdrege, NE",2017-06-16
+3928,6695,"Weston, WV",2017-06-16
+3929,6737,"Barbourville, KY",2017-06-16
+3930,6795,"Kewanee, IL",2017-06-16
+3931,6832,"Frisco, CO",2017-06-16
+3932,6873,"Kansas City, KS",2017-06-16
+3933,6965,"Apex, NC",2017-06-16
+3934,6984,"Miles City, MT",2017-06-16
+3935,6993,"Nesbit, MS",2017-06-16
+3936,7045,"Franklin, IN",2017-06-16
+3937,7075,"State Center , IA",2017-06-16
+3938,7099,"Alpharetta, GA",2017-06-16
+3939,7244,"Carlton Landing, OK",2017-06-16
+3940,7315,"Beresford, SD",2017-06-16
+3941,7320,"Ogden, UT",2017-06-16
+3942,7331,"Carlinville, IL",2017-06-16
+3943,7007,"Buckner, MO",2017-06-17
+3944,7154,"Cottage Grove, WI",2017-06-17
+3945,7229,"Knoxville, TN",2017-06-17
+3946,7321,"Kansas City, MO",2017-06-18
+3947,6704,"LaCrosse, WI",2017-06-23
+3948,6705,"LaCrosse, WI",2017-06-23
+3949,6794,"Belvidere, IL",2017-06-23
+3950,6877,"Santa Clara, CA",2017-06-23
+3951,6904,"Chandler, OK",2017-06-23
+3952,6908,"Lenexa , KS",2017-06-23
+3953,6909,"Auburn Hills, MI",2017-06-23
+3954,6994,"Artesia, NM",2017-06-23
+3955,7066,"Sioux, IA",2017-06-23
+3956,7100,"Birmingham, AL",2017-06-23
+3957,7157,"Maryville, TN",2017-06-23
+3958,7199,"Covington, VA",2017-06-23
+3959,7239,"Willard, MO",2017-06-23
+3960,7316,"Brookwood, AL",2017-06-23
+3961,6831,"Washington, DC",2017-06-24
+3962,6995,"Artesia, NM",2017-06-24
+3963,7136,"ABSAROKEE, MT",2017-06-24
+3964,7242,"St.Louis, MO",2017-06-24
+3965,7098,"Bartlett, TN",2017-06-30
+3966,7143,"Bristow, OK",2017-06-30
+3967,7155,"Chillicothe, MO",2017-06-30
+3968,7186,"Graffton, WI",2017-06-30
+3969,7261,"Rodney, IA",2017-06-30
+3970,7270,"Assumption, IL",2017-06-30
+3971,7236,"Minonk, IL",2017-07-01
+3972,6725,"Greenwood, SC",2017-07-06
+3973,6743,"Lake Placid, NY",2017-07-07
+3974,6865,"Kettering, OH",2017-07-07
+3975,6890,"North Wildwood , NJ",2017-07-07
+3976,6958,"Fort Smith, AR",2017-07-07
+3977,7003,"Petaluma, CA",2017-07-07
+3978,7030,"Wellsville, MO",2017-07-07
+3979,7033,"Warrensburg, MO",2017-07-07
+3980,7109,"Indianapolis, IN",2017-07-07
+3981,7150,"Jamestown, TN",2017-07-08
+3982,7311,"Wheatland, MO",2017-07-08
+3983,7196,"Jamestown, TN",2017-07-09
+3984,6879,"Green Bay, WI",2017-07-14
+3985,6957,"Waterloo, IA",2017-07-14
+3986,6989,"Watertown, SD",2017-07-14
+3987,7049,"Burlington, KS",2017-07-14
+3988,7085,"Wise, VA",2017-07-14
+3989,7110,"South Bend, IN",2017-07-14
+3990,7275,"Mayetta, KS",2017-07-14
+3991,7344,"Cummings, GA",2017-07-14
+3992,6840,"Clayton, CA",2017-07-15
+3993,6880,"Green Bay, WI",2017-07-15
+3994,6941,"Auburn, NY",2017-07-15
+3995,7210,"Old Orchard Beach, ME",2017-07-15
+3996,6717,"Bellevue, NE",2017-07-21
+3997,6862,"Peoria, IL",2017-07-21
+3998,6981,"Mason City, IA",2017-07-21
+3999,7002,"Maggie Valley, NC",2017-07-21
+4000,7035,"Arvada, CO",2017-07-21
+4001,7111,"Eagan, MN",2017-07-21
+4002,7175,"Vernon, IN",2017-07-21
+4003,7222,"Galax, VA",2017-07-21
+4004,7233,"Birch Run, MI",2017-07-21
+4005,6830,"Dodge City, KS",2017-07-28
+4006,6912,"Old Forge, NY",2017-07-28
+4007,6950,"Spring Grove, PA",2017-07-28
+4008,6961,"Iola, KS",2017-07-28
+4009,6966,"Effingham, IL",2017-07-28
+4010,7046,"Hartselle, Al",2017-07-28
+4011,7090,"Gilroy, CA",2017-07-28
+4012,7112,"Ankeny, IA",2017-07-28
+4013,7197,"Lee''s Summit, MO",2017-07-28
+4014,7238,"Dyersburg , TN",2017-07-28
+4015,7257,"Vista, CA",2017-07-28
+4016,7308,"Leburn, KY",2017-07-28
+4017,7324,"Summerville, SC",2017-07-28
+4018,6963,"Johnson City, NY",2017-07-29
+4019,7062,"WINDSOR, VT",2017-07-29
+4020,6838,"Port Washington, WI",2017-08-04
+4021,6864,"Cincinnati, OH",2017-08-04
+4022,6971,"Asheboro, NC",2017-08-04
+4023,7012,"Alamosa, CO",2017-08-04
+4024,7123,"South Windsor, CT",2017-08-04
+4025,7135,"Dillard, GA",2017-08-04
+4026,7151,"Laurie, MO",2017-08-04
+4027,7240,"Westland, MI",2017-08-04
+4028,7246,"Macungie, PA",2017-08-04
+4029,7295,"Omaha, NE",2017-08-04
+4030,7398,"Smithfield , VA",2017-08-04
+4031,7296,"Omaha, NE",2017-08-05
+4032,6782,"Franklin, NC",2017-08-11
+4033,6789,"Ceres, CA",2017-08-11
+4034,6914,"McMinnville, TN",2017-08-11
+4035,6997,"Woodward, OK",2017-08-11
+4036,7000,"Winston, MO",2017-08-11
+4037,7124,"N. Charleston, SC",2017-08-11
+4038,7260,"Bel Air, MD",2017-08-11
+4039,7342,"Conroe, TX",2017-08-11
+4040,7347,"Antigo, WI",2017-08-11
+4041,7190,"New London, CT",2017-08-12
+4042,7289,"Park Ridge , IL",2017-08-12
+4043,7350,"Seward , NE",2017-08-12
+4044,6758,"Worland, WY",2017-08-18
+4045,6801,"Del Mar, CA",2017-08-18
+4046,6818,"Susanville, CA",2017-08-18
+4047,6910,"Excelsior Springs, MO",2017-08-18
+4048,6959,"New Paltz, NY",2017-08-18
+4049,7009,"Boydton, VA",2017-08-18
+4050,7028,"Marshall, MN",2017-08-18
+4051,7032,"Madison, IN",2017-08-18
+4052,7125,"Asheville, NC",2017-08-18
+4053,7153,"Cape Girardeau, MO",2017-08-18
+4054,7206,"Bonner Springs, KS",2017-08-18
+4055,6710,"DuPont, WA",2017-08-19
+4056,7359,"McHenry, IL",2017-08-19
+4057,7381,"Carrollton, MO",2017-08-20
+4058,6928,"Washington Island, WI",2017-08-24
+4059,6773,"Kearney, NE",2017-08-25
+4060,6814,"Albert Lea, MN",2017-08-25
+4061,6861,"Washington Island, WI",2017-08-25
+4062,6924,"Lubbock, TX",2017-08-25
+4063,6968,"Kenosha, WI",2017-08-25
+4064,7010,"Fleischmanns, NY",2017-08-25
+4065,7020,"penn Valley, CA",2017-08-25
+4066,7051,"New Holland, PA",2017-08-25
+4067,7060,"Franklin, TN",2017-08-25
+4068,7063,"Hill City, SD",2017-08-25
+4069,7077,"Paola, KS",2017-08-25
+4070,7126,"Richmond, VA",2017-08-25
+4071,7127,"Kennesaw, GA",2017-08-25
+4072,7319,"West Wendover, NV",2017-08-25
+4073,7348,"Bozeman, MT",2017-08-25
+4074,7384,"Kanab, UT",2017-08-25
+4075,6441,"Wynnewood, PA",2017-08-26
+4076,7376,"Delphi, IN",2017-08-26
+4077,7382,"Woodland Park, CO",2017-08-26
+4078,7385,"Emmetsburg, IA",2017-08-26
+4079,7363,"Kansas City, KS",2017-08-31
+4080,7093,"Warrens, WI",2017-09-01
+4081,7113,"Traverse City, MI",2017-09-01
+4082,7189,"Leon, IA",2017-09-01
+4083,7215,"Lebanon, OH",2017-09-01
+4084,7237,"Myrtle Beach, SC",2017-09-01
+4085,7364,"Kansas City, KS",2017-09-01
+4086,6900,"Bedford, TX",2017-09-02
+4087,6953,"Winona, MN",2017-09-02
+4088,7192,"Omaha, NE",2017-09-02
+4089,7282,"Crescent City, CA",2017-09-02
+4090,7459,"Westport, CT",2017-09-02
+4091,6779,"Mt.Vernon, IN",2017-09-08
+4092,6796,"Richmond, VA",2017-09-08
+4093,6925,"Goldsboro, NC",2017-09-08
+4094,6943,"Vermillion, SD",2017-09-08
+4095,6985,"Millington , TN",2017-09-08
+4096,7036,"Derby, KS",2017-09-08
+4097,7044,"Shawnee, OK",2017-09-08
+4098,7047,"Montello, WI",2017-09-08
+4099,7076,"Cookeville, TN",2017-09-08
+4100,7107,"Kansas City, MO",2017-09-08
+4101,7156,"Grand Jct, CO",2017-09-08
+4102,7179,"Silver Lake, MI",2017-09-08
+4103,7258,"Leavenworth, KS",2017-09-08
+4104,7056,"Randolph, VT",2017-09-09
+4105,7207,"Overland Park, KS",2017-09-09
+4106,6812,"Salisbury, NC",2017-09-15
+4107,6878,"Carrollton, KY",2017-09-15
+4108,6940,"Boise, ID",2017-09-15
+4109,6990,"Butler, MO",2017-09-15
+4110,7016,"Oroville, CA",2017-09-15
+4111,7043,"Kearney, MO",2017-09-15
+4112,7080,"Lawrenceville, GA",2017-09-15
+4113,7114,"Madison, WI",2017-09-15
+4114,7137,"Ponca City, OK",2017-09-15
+4115,7152,"Powells Point, NC",2017-09-15
+4116,7171,"Worthington, MN",2017-09-15
+4117,7231,"Ridgeland, MS",2017-09-15
+4118,7271,"Decatur, AL",2017-09-15
+4119,7312,"Bunkie, LA",2017-09-15
+4120,7346,"Batesville , AR",2017-09-15
+4121,7396,"Atlantic City, NJ",2017-09-15
+4122,7053,"Kimberling, MO",2017-09-16
+4123,7274,"Ridgeland, MS",2017-09-16
+4124,6852,"Seaside Heights, NJ",2017-09-22
+4125,6886,"Newton, NC",2017-09-22
+4126,6936,"Owensboro, KY",2017-09-22
+4127,6937,"Murphysboro, IL",2017-09-22
+4128,6939,"Shawnee, KS",2017-09-22
+4129,6947,"Lemoyne, PA",2017-09-22
+4130,6973,"Bangor, ME",2017-09-22
+4131,7006,"Fayetteville, AR",2017-09-22
+4132,7078,"Denison, IA",2017-09-22
+4133,7092,"Junction City, KS",2017-09-22
+4134,7108,"Edmond, OK",2017-09-22
+4135,7234,"Clarence, NY",2017-09-22
+4136,7241,"Ft.Collins, CO",2017-09-22
+4137,7263,"Columbia, TN",2017-09-22
+4138,7277,"Pikeville, TN",2017-09-22
+4139,7338,"Grand Haven , MI",2017-09-22
+4140,7365,"Hillsboro, OH",2017-09-22
+4141,7393,"Casper, WY",2017-09-22
+4142,7297,"Blue Island, IL",2017-09-23
+4143,6730,"Wisconsin Dells , WI",2017-09-29
+4144,6853,"Gardner, KS",2017-09-29
+4145,6858,"Sapulpa, OK",2017-09-29
+4146,6956,"Bryant, AR",2017-09-29
+4147,7130,"Clinton, MO",2017-09-29
+4148,7170,"Dothan, AL",2017-09-29
+4149,7184,"Jonesboro, AR",2017-09-29
+4150,7223,"Glendive, MT",2017-09-29
+4151,7323,"Sonora, CA",2017-09-29
+4152,7330,"Payson, AZ",2017-09-29
+4153,7379,"Brighton, Co",2017-09-29
+4154,7008,"Cresskill, NJ",2017-09-30
+4155,6811,"Springfield, KY",2017-10-06
+4156,6867,"Decatur, IL",2017-10-06
+4157,6962,"Helena, AR",2017-10-06
+4158,6988,"Independence, MO",2017-10-06
+4159,7142,"Winthrop Harbor, IL",2017-10-06
+4160,7068,"Columbus, MS",2017-10-06
+4161,7191,"Louisa, VA",2017-10-06
+4162,7193,"Sheridan, AR",2017-10-06
+4163,7252,"Laurens, SC",2017-10-06
+4164,7293,"Virginia Beach, VA",2017-10-06
+4165,7300,"Harrisburg, PA",2017-10-06
+4166,7328,"Bentonville, AR",2017-10-06
+4167,7336,"Greenfield, MA",2017-10-06
+4168,7399,"Clarksville, TN",2017-10-06
+4169,7417,"Turtle Lake, WI",2017-10-06
+4170,7341,"Guntersville, AL",2017-10-07
+4171,7449,"Kansas City, MO",2017-10-11
+4172,6917,"Arthur, IL",2017-10-13
+4173,7013,"Centralia, MO",2017-10-13
+4174,7074,"Lyons, GA",2017-10-13
+4175,7132,"Rocky Mount, NC",2017-10-13
+4176,7134,"Waxhaw, NC",2017-10-13
+4177,7204,"Desoto, KS",2017-10-13
+4178,7211,"Woodstock, VA",2017-10-13
+4179,7318,"Duncanville, TX",2017-10-13
+4180,7409,"Costa Messa, CA",2017-10-13
+4181,7422,"Chelsea, MI",2017-10-13
+4182,7339,"Monson, MA",2017-10-14
+4183,7400,"Muskogee, OK",2017-10-14
+4184,7421,"Billings, MT",2017-10-14
+4185,6969,"Munfordville, KY",2017-10-20
+4186,7057,"Harper, KS",2017-10-20
+4187,7061,"Lenoir, NC",2017-10-20
+4188,7172,"Rehobeth Beach, DE",2017-10-20
+4189,7187,"Mount Pleasant, TN",2017-10-20
+4190,7272,"Nelsonville, OH",2017-10-20
+4191,7278,"Union Grove, WI",2017-10-20
+4192,7358,"Independence, MO",2017-10-20
+4193,7411,"Hattiesburg, MS",2017-10-20
+4194,7443,"Logandale, NV",2017-10-20
+4195,7340,"West Kingston, RI",2017-10-21
+4196,7438,"Evergreen, AL",2017-10-21
+4197,6964,"Osawatomie, KS",2017-10-27
+4198,7014,"Fort Gibson, OK",2017-10-27
+4199,7450,"Lynchburg, TN",2017-10-27
+4200,7451,"Lynchburg, TN",2017-10-27
+4201,7245,"Dallas, TX",2017-10-28
+4202,7188,"Indio, CA",2017-11-03
+4203,7439,"Orange Beach, AL",2017-11-08
+4204,6889,"Mt. Pleasant, SC",2017-11-10
+4205,7366,"Nashville, TN",2017-11-10
+4206,7395,"Concord, NC",2017-11-10
+4207,7522,"Kansas City, MO",2017-11-11
+4208,7235,"Plant City, FL",2017-11-17
+4209,7419,"Tuscumbia, AL",2017-11-17
+4210,7427,"Cumming, GA",2017-11-17
+4211,7462,"Cumming, GA",2017-11-17
+4212,7428,"Cumming, GA",2017-11-18
+4213,6617,"Calhoun, GA",2017-12-01
+4214,7463,"Demopolis, AL",2017-12-01
+4215,7501,"Rancho Mirage, CA",2017-12-01
+4216,7480,"Las Vegas, NV",2017-12-15
+4217,7481,"Denver, CO",2018-01-05
+4218,7220,"Bullhead City, AZ",2018-01-19
+4219,7551,"Lakeland , FL",2018-01-26
+4220,7391,"Humble, TX",2018-02-02
+4221,7476,"Young Harris, GA",2018-02-02
+4222,7332,"Huntsville, TX",2018-02-16
+4223,7593,"Powder Springs, GA",2018-02-16
+4224,7397,"D''Iberville, MS",2018-02-23
+4225,7486,"Kingdom City, MO",2018-02-23
+4226,7562,"Coachella, CA",2018-02-23
+4227,7325,"Cheney, KS",2018-03-02
+4228,7506,"Lawrenceville, GA",2018-03-02
+4229,7526,"Orlando, FL",2018-03-02
+4230,7543,"Onamia, MN",2018-03-02
+4231,7702,"Brunswick, MD",2018-03-02
+4232,7872,"Ridgeland, MS",2018-03-02
+4233,7326,"Cheney, KS",2018-03-03
+4234,7889,"Kansas CIty, MO",2018-03-07
+4235,7472,"Nashville, TN",2018-03-09
+4236,7599,"Hartselle, AL",2018-03-09
+4237,7612,"Bainbridge, GA",2018-03-09
+4238,7790,"Wake Forest, NC",2018-03-10
+4239,7345,"Pensacola, FL",2018-03-16
+4240,7360,"Corinth, MS",2018-03-16
+4241,7361,"Weatherford, OK",2018-03-16
+4242,7378,"Urbanna, VA",2018-03-23
+4243,7412,"Shawnee, OK",2018-03-23
+4244,7634,"Hammond, LA",2018-03-23
+4245,7817,"Dickson, TN",2018-03-23
+4246,7847,"Arcadia, CA",2018-03-23
+4247,7853,"Pleasant Hill, MO",2018-03-23
+4248,7413,"Shawnee, OK",2018-03-24
+4249,7387,"Indianapolis, IN",2018-04-06
+4250,7402,"Somerville, TN",2018-04-06
+4251,7453,"Staten Island, NY",2018-04-06
+4252,7482,"Sulphur, OK",2018-04-06
+4253,7532,"Cedar Park, TX",2018-04-06
+4254,7548,"Osage City, KS",2018-04-06
+4255,7736,"Greencastle, PA",2018-04-06
+4256,7780,"Stillwater, OK",2018-04-06
+4257,7468,"Selma , AL",2018-04-07
+4258,7579,"Gravette, AR",2018-04-07
+4259,7550,"Smithville, MO",2018-04-13
+4260,7746,"Savannah, TN",2018-04-13
+4261,7823,"Gadsden, AL",2018-04-13
+4262,7890,"Gurley, AL",2018-04-13
+4263,7377,"Cornelia, GA",2018-04-20
+4264,7904,"Lodi, CA",2018-04-20
+4265,7484,"Winchester, TN",2018-04-20
+4266,7488,"Barnesville, GA",2018-04-20
+4267,7508,"Hagerstown, MD",2018-04-20
+4268,7509,"Hagerstown, MD",2018-04-20
+4269,7560,"Enid, OK",2018-04-20
+4270,7714,"Washington, MO",2018-04-20
+4271,7765,"Springfield, MO",2018-04-20
+4272,7819,"Plymouth, MA",2018-04-20
+4273,7845,"Overland Park, KS",2018-04-20
+4274,7887,"Kings Mountain, NC",2018-04-20
+4275,7923,"Papillion, NE",2018-04-20
+4276,7408,"Council Grove, KS",2018-04-21
+4277,7469,"Chelsea, AL",2018-04-21
+4278,7779,"Memphis, TN",2018-04-21
+4279,7820,"Plymouth, MA",2018-04-21
+4280,7445,"Manawa, WI",2018-04-27
+4281,7479,"Calhoun, GA",2018-04-27
+4282,7487,"Florence, AL",2018-04-27
+4283,7592,"Southaven, MS",2018-04-27
+4284,7752,"Lenexa, VA",2018-04-27
+4285,7792,"Sugar Creek, MO",2018-04-27
+4286,7879,"Boonville, IN",2018-04-27
+4287,7447,"Atlanta, GA",2018-04-28
+4288,7818,"Blairstown, NJ",2018-04-28
+4289,7913,"Brighton, Co",2018-04-28
+4290,7924,"Landenberg, PA",2018-04-29
+4291,7401,"Show Low, AZ",2018-05-04
+4292,7902,"Elk Grove, CA",2018-05-04
+4293,7474,"Jamestown, NY",2018-05-04
+4294,7513,"Meridian, MS",2018-05-04
+4295,7533,"Kannapolis, NC",2018-05-04
+4296,7572,"Riverside, CA",2018-05-04
+4297,7577,"Brookhaven, MS",2018-05-04
+4298,7582,"St. Joseph, MO",2018-05-04
+4299,7619,"Appleton, WI",2018-05-04
+4300,7621,"Lansing, KS",2018-05-04
+4301,7654,"Huntsville, AL",2018-05-04
+4302,7709,"Lawrence, KS",2018-05-04
+4303,7711,"Bixby, OK",2018-05-04
+4304,7712,"Dwight, IL",2018-05-04
+4305,7730,"Kennett, MO",2018-05-04
+4306,7905,"Kansas City, MO",2018-05-04
+4307,7500,"Ridgefield, CT",2018-05-05
+4308,7620,"Appleton, WI",2018-05-05
+4309,7645,"Atlanta, GA",2018-05-05
+4310,7646,"Crownsville, MD",2018-05-05
+4311,7677,"Muscatine, IA",2018-05-05
+4312,7729,"Liberty, IN",2018-05-05
+4313,7410,"Murfreesboro, TN",2018-05-11
+4314,7493,"Arab, AL",2018-05-11
+4315,7555,"De Soto, KS",2018-05-11
+4316,7585,"Fredericksburg, VA",2018-05-11
+4317,7682,"Rome, GA",2018-05-11
+4318,7652,"Falcon Heights, MN",2018-05-11
+4319,7655,"Waynesboro, GA",2018-05-11
+4320,7864,"Council Bluffs , IA",2018-05-11
+4321,7933,"Warsaw, IN",2018-05-11
+4322,7953,"Lamar, CO",2018-05-11
+4323,7586,"Fredericksburg, VA",2018-05-12
+4324,7431,"Washington , UT",2018-05-18
+4325,7441,"Morgantown, PA",2018-05-18
+4326,7442,"Fond du Lac, WI",2018-05-18
+4327,7491,"Lima, OH",2018-05-18
+4328,7578,"Valley, NE",2018-05-18
+4329,7600,"Platte City, MO",2018-05-18
+4330,7606,"Ayden, NC",2018-05-18
+4331,7656,"Langley, OK",2018-05-18
+4332,7679,"Syracuse, NY",2018-05-18
+4333,7733,"Chesapeake, VA",2018-05-18
+4334,7888,"Sevierville, TN",2018-05-18
+4335,7915,"Brookwood, AL",2018-05-18
+4336,7789,"Overland Park, KS",2018-05-19
+4337,7362,"Big Bear Lake, CA",2018-05-25
+4338,7529,"Boulder City, NV",2018-05-25
+4339,7616,"Branson, MO",2018-05-25
+4340,7623,"Oklahoma City, OK",2018-05-25
+4341,7824,"Westmont, IL",2018-05-25
+4342,7848,"Evans, GA",2018-05-25
+4343,7865,"Gettysburg, PA",2018-05-25
+4344,7955,"Elizabethtown, KY",2018-05-25
+4345,7965,"Gillett, AR",2018-05-25
+4346,7584,"North Bend, OR",2018-05-26
+4347,7825,"Westmont, IL",2018-05-26
+4348,7964,"Estes Park, CO",2018-05-26
+4349,7505,"Woodruff, SC",2018-06-01
+4350,7556,"Owatonna, MN",2018-06-01
+4351,7574,"Claremore, OK",2018-06-01
+4352,7583,"Monroe City, MO",2018-06-01
+4353,7614,"Huron, SD",2018-06-01
+4354,7644,"Levittown, PA",2018-06-01
+4355,7653,"Lincoln, IL",2018-06-01
+4356,7659,"Kansas City, MO",2018-06-01
+4357,7660,"McLouth, KS",2018-06-01
+4358,7669,"Shelby, OH",2018-06-01
+4359,7722,"Norco, CA",2018-06-01
+4360,7771,"Marysville, KS",2018-06-01
+4361,7952,"Louisville, KY",2018-06-01
+4362,7857,"Uncasville, CT",2018-06-02
+4363,7516,"Beardstown, IL",2018-06-08
+4364,7544,"Marietta, OH",2018-06-08
+4365,7617,"Derby, KS",2018-06-08
+4366,7622,"Huntsville, AL",2018-06-08
+4367,7633,"Wynne, AR",2018-06-08
+4368,7650,"New Castle, DE",2018-06-08
+4369,7651,"Kansas City, KS",2018-06-08
+4370,7697,"Aurora, CO",2018-06-08
+4371,7740,"Mankato, MN",2018-06-08
+4372,7878,"Montello, WI",2018-06-08
+4373,7966,"Harrodsburg, KY",2018-06-08
+4374,7635,"Okauchee, WI",2018-06-09
+4375,7741,"Mankato, MN",2018-06-09
+4376,7855,"Upper Marlboro, MD",2018-06-09
+4377,7939,"Hancock, NH",2018-06-09
+4378,7967,"Morton Grove, IL",2018-06-09
+4379,7424,"Holdrege, NE",2018-06-15
+4380,7444,"Weston, WV",2018-06-15
+4381,7467,"White House, TN",2018-06-15
+4382,7473,"Hartford, CT",2018-06-15
+4383,7512,"Barbourville, KY",2018-06-15
+4384,7527,"Apex, NC",2018-06-15
+4385,7594,"Kansas City, KS",2018-06-15
+4386,7639,"Kewanee, IL",2018-06-15
+4387,7674,"Hernado, MS",2018-06-15
+4388,7695,"Frisco, CO",2018-06-15
+4389,7776,"State Center, IA",2018-06-15
+4390,7891,"Miles City, MT",2018-06-15
+4391,7466,"North Wilkesboro, NC",2018-06-16
+4392,7876,"Cottage Grove, WI",2018-06-16
+4393,7920,"Knoxville, TN",2018-06-16
+4394,7797,"Kansas City, MO",2018-06-17
+4395,7489,"LaCrosse, WI",2018-06-22
+4396,7490,"LaCrosse, WI",2018-06-22
+4397,7495,"Maryville, TN",2018-06-22
+4398,7510,"Belvidere, IL",2018-06-22
+4399,7608,"Santa Clara, CA",2018-06-22
+4400,7636,"Sioux City, IA",2018-06-22
+4401,7638,"Leadville, CO",2018-06-22
+4402,7667,"Auburn Hills, MI",2018-06-22
+4403,7726,"Artesia, NM",2018-06-22
+4404,7748,"Covington, VA",2018-06-22
+4405,7959,"Lenexa, KS",2018-06-22
+4406,7523,"Belvidere, IL",2018-06-23
+4407,7558,"Absarokee, MT",2018-06-23
+4408,7727,"Artesia, NM",2018-06-23
+4409,7821,"Galway, NY",2018-06-23
+4410,7868,"Washington, DC",2018-06-23
+4411,7536,"Elkmont, AL",2018-06-29
+4412,7657,"Delta, PA",2018-06-29
+4413,7884,"Hilliard, OH",2018-06-29
+4414,7893,"Willard, MO",2018-06-29
+4415,8023,"Ogden, UT",2018-06-29
+4416,7866,"Minonk, IL",2018-06-30
+4417,7446,"East Liverpool, OH",2018-07-06
+4418,7475,"Lake Placid, NY",2018-07-06
+4419,7647,"Petaluma, CA",2018-07-06
+4420,7791,"Warrensburg, MO",2018-07-06
+4421,7990,"Rodney, IA",2018-07-06
+4422,7440,"Greenwood, SC",2018-07-12
+4423,7477,"Green Bay, WI",2018-07-13
+4424,7589,"Jamestown, TN",2018-07-13
+4425,7627,"Clayton, CA",2018-07-13
+4426,7678,"Kettering, OH",2018-07-13
+4427,7720,"Fort Smith, AR",2018-07-13
+4428,7744,"Vista, CA",2018-07-13
+4429,7858,"Mayetta, KS",2018-07-13
+4430,7945,"Cameron, MO",2018-07-13
+4431,8012,"Coeur d'' Alene, ID",2018-07-13
+4432,8029,"Draper, UT",2018-07-13
+4433,7478,"Green Bay, WI",2018-07-14
+4434,7590,"Jamestown, TN",2018-07-14
+4435,7735,"Johnson City, NY",2018-07-14
+4436,8016,"North Wildwood, NJ",2018-07-14
+4437,7631,"Waterloo, IA",2018-07-20
+4438,7766,"Wise, VA",2018-07-20
+4439,7782,"Peoria, IL",2018-07-20
+4440,7794,"Watertown, SD",2018-07-20
+4441,8004,"Dyersburg , TN",2018-07-20
+4442,7609,"Auburn, NY",2018-07-21
+4443,7465,"El Reno, OK",2018-07-27
+4444,7496,"Spring Grove, PA",2018-07-27
+4445,7607,"Effingham, IL",2018-07-27
+4446,7661,"Dodge City, KS",2018-07-27
+4447,7668,"Leburn, KY",2018-07-27
+4448,7703,"Iola, KS",2018-07-27
+4449,7738,"Hartselle, Al",2018-07-27
+4450,7859,"Fort Collins, CO",2018-07-27
+4451,7910,"Lee''s Summit, MO",2018-07-27
+4452,7747,"Gilroy, CA",2018-07-28
+4453,7781,"WINDSOR, VT",2018-07-28
+4454,7537,"Laurie, MO",2018-08-03
+4455,7618,"Alamosa, CO",2018-08-03
+4456,7716,"Asheboro, NC",2018-08-03
+4457,7822,"Cincinnati, OH",2018-08-03
+4458,7943,"Westland, MI",2018-08-03
+4459,7948,"Macungie, PA",2018-08-03
+4460,7863,"Wheatland, MO",2018-08-04
+4461,7931,"Warsaw, MO",2018-08-04
+4462,8021,"Cincinnati, OH",2018-08-04
+4463,7969,"Cambridge, WI",2018-08-05
+4464,7280,"Shelbyville, IN",2018-08-10
+4465,7598,"McMinnville, TN",2018-08-10
+4466,7673,"Glencoe, AL",2018-08-10
+4467,7715,"Franklin, NC",2018-08-10
+4468,7731,"Winston, MO",2018-08-10
+4469,7912,"Bel Air, MD",2018-08-10
+4470,8008,"Arlington, NE",2018-08-10
+4471,8048,"Springfield, MO",2018-08-10
+4472,7798,"Antigo, WI",2018-08-11
+4473,7951,"Saco, ME",2018-08-11
+4474,8074,"Seward , NE",2018-08-11
+4475,7545,"Susanville, CA",2018-08-17
+4476,7547,"Worland, WY",2018-08-17
+4477,7662,"Cape Girardeau, MO",2018-08-17
+4478,7759,"New Paltz, NY",2018-08-17
+4479,7772,"Marshall, MN",2018-08-17
+4480,7811,"Del Mar, CA",2018-08-17
+4481,7867,"Madison, IN",2018-08-17
+4482,7882,"Excelsior Springs, MO",2018-08-17
+4483,7968,"Crisfield, MD",2018-08-17
+4484,7984,"Woodland Park , CO",2018-08-17
+4485,8058,"Sault Ste Marie, MI",2018-08-17
+4486,8086,"Hattiesburg, MS",2018-08-17
+4487,7514,"DuPont, WA",2018-08-18
+4488,7757,"Park Ridge, IL",2018-08-18
+4489,7860,"McHenry, IL",2018-08-18
+4490,7875,"Frostburg, MD",2018-08-18
+4491,7930,"Newton, KS",2018-08-19
+4492,7670,"Washington Island, WI",2018-08-23
+4493,7573,"Alberta Lea, MN",2018-08-24
+4494,7630,"Kanab, UT",2018-08-24
+4495,7671,"Washington Island, WI",2018-08-24
+4496,7713,"Franklin, TN",2018-08-24
+4497,7750,"Bozeman, MT",2018-08-24
+4498,7762,"Hill City, SD",2018-08-24
+4499,7785,"New Holland, PA",2018-08-24
+4500,7786,"Brandon, MS",2018-08-24
+4501,7806,"Paola, KS",2018-08-24
+4502,7856,"Kenosha, WI",2018-08-24
+4503,7914,"Lubbock, TX",2018-08-24
+4504,7998,"Wendover, NV",2018-08-24
+4505,8019,"Kennesaw, GA",2018-08-24
+4506,8062,"Fort Payne, AL",2018-08-24
+4507,7530,"Wynnewood, PA",2018-08-25
+4508,7787,"Brandon, MS",2018-08-25
+4509,7988,"Nevada, MO",2018-08-25
+4510,8017,"Emmetsburg, IA",2018-08-25
+4511,7642,"Lebanon, OH",2018-08-31
+4512,7734,"Bedford, TX",2018-08-31
+4513,8056,"Ranson, WV",2018-08-31
+4514,8057,"Warrens, WI",2018-08-31
+4515,8085,"Trussville, AL",2018-08-31
+4516,7761,"Omaha, NE",2018-09-01
+4517,7916,"Winona, MN",2018-09-01
+4518,8060,"Frostproof, FL",2018-09-01
+4519,8109,"Westport, CT",2018-09-01
+4520,7517,"Mt.Vernon, IN",2018-09-07
+4521,7531,"Richmond, VA",2018-09-07
+4522,7557,"Butler, MO",2018-09-07
+4523,7613,"Vermillion, SD",2018-09-07
+4524,7758,"Montello, WI",2018-09-07
+4525,7763,"Leavenworth, KS",2018-09-07
+4526,7768,"Millington , TN",2018-09-07
+4527,7804,"Grand Jct, CO",2018-09-07
+4528,7880,"Boise, ID",2018-09-07
+4529,7950,"Marshall, IL",2018-09-07
+4530,8010,"Batesville, AR",2018-09-07
+4531,8061,"Atlanta, GA",2018-09-07
+4532,8172,"Mt. Vernon, IN",2018-09-07
+4533,7925,"Randolph, VT",2018-09-08
+4534,7535,"Salisbury, NC",2018-09-14
+4535,7576,"Carrollton, KY",2018-09-14
+4536,7664,"Mears, MI",2018-09-14
+4537,7665,"Worthington, MN",2018-09-14
+4538,7719,"Kearney, MO",2018-09-14
+4539,7849,"Oroville, CA",2018-09-14
+4540,7874,"Casper, WY",2018-09-14
+4541,7937,"Penn Yan , NY",2018-09-14
+4542,7947,"San Diego, CA",2018-09-14
+4543,7985,"Kansas City, KS",2018-09-14
+4544,7989,"Decatur, AL",2018-09-14
+4545,7986,"Kansas City, KS",2018-09-15
+4546,7559,"Murphysboro, IL",2018-09-21
+4547,7580,"Denison, IA",2018-09-21
+4548,7694,"Lawrenceville, GA",2018-09-21
+4549,7704,"Grand Haven, MI",2018-09-21
+4550,7723,"Shawnee, KS",2018-09-21
+4551,7749,"Newton, NC",2018-09-21
+4552,7784,"Hillsboro, OH",2018-09-21
+4553,7793,"Columbia, TN",2018-09-21
+4554,7877,"Pikeville, TN",2018-09-21
+4555,7929,"Owensboro, KY",2018-09-21
+4556,7954,"Columbus, MS",2018-09-21
+4557,7997,"Ponca City, OK",2018-09-21
+4558,7538,"Bangor, ME",2018-09-22
+4559,7672,"Seaside Heights, NJ",2018-09-22
+4560,7778,"Kimberling, MO",2018-09-22
+4561,7883,"Clarence, NY",2018-09-22
+4562,8005,"Blue Island, IL",2018-09-22
+4563,7610,"Rock Hill, SC",2018-09-28
+4564,7615,"Mason City, IA",2018-09-28
+4565,7770,"Lemoyne, PA",2018-09-28
+4566,7773,"Fayetteville, AR",2018-09-28
+4567,7803,"Wisconsin Dell, WI",2018-09-28
+4568,7844,"Gardner, KS",2018-09-28
+4569,7921,"Clinton, MO",2018-09-28
+4570,7960,"Jonesboro, AR",2018-09-28
+4571,7991,"Richmond , VA",2018-09-28
+4572,8006,"Glendive, MT",2018-09-28
+4573,8014,"Payson, AZ",2018-09-28
+4574,7987,"Kincaid, KS",2018-09-29
+4575,8059,"New Albany, IN",2018-09-29
+4576,8136,"Kansas City, MO",2018-10-02
+4577,7640,"Winthrop Harbor, IL",2018-10-05
+4578,7663,"Turtle Lake, WI",2018-10-05
+4579,7666,"Louisa, VA",2018-10-05
+4580,7717,"Greenfield, MA",2018-10-05
+4581,7728,"Sheridan, AR",2018-10-05
+4582,7737,"Decatur, IL",2018-10-05
+4583,7764,"Harrisburg, PA",2018-10-05
+4584,7801,"Independence, MO",2018-10-05
+4585,7917,"Laurens, SC",2018-10-05
+4586,7919,"Springfield, KY",2018-10-05
+4587,7932,"Helena, AR",2018-10-05
+4588,8015,"Ottumwa, IA",2018-10-05
+4589,7641,"Winthrop Harbor, IL",2018-10-06
+4590,7938,"Topeka, KS",2018-10-06
+4591,7649,"Arthur, IL",2018-10-12
+4592,7676,"Centralia, MO",2018-10-12
+4593,7751,"Temecula, CA",2018-10-12
+4594,7755,"Chelsea, MI",2018-10-12
+4595,7783,"Lyons, GA",2018-10-12
+4596,7805,"Waxhaw, NC",2018-10-12
+4597,7808,"Alton, VA",2018-10-12
+4598,7861,"Rocky Mount, NC",2018-10-12
+4599,7873,"Desoto, KS",2018-10-12
+4600,7926,"Monson, MA",2018-10-12
+4601,8030,"Butler, AL",2018-10-12
+4602,7756,"Chelsea, MI",2018-10-13
+4603,7775,"Muskogee, OK",2018-10-13
+4604,7927,"Monson, MA",2018-10-13
+4605,7680,"Clarksville, TN",2018-10-19
+4606,7739,"Mount Pleasant , TN",2018-10-19
+4607,7769,"Harper, KS",2018-10-19
+4608,7774,"Nelsonville, OH",2018-10-19
+4609,7892,"Munfordville, KY",2018-10-19
+4610,7936,"Lenoir, NC",2018-10-19
+4611,8007,"Rehoboth Beach, DE",2018-10-19
+4612,8009,"Union Grove, WI",2018-10-19
+4613,8069,"Westminster, CO",2018-10-19
+4614,8149,"Lebanon, MO",2018-10-19
+4615,7928,"West Kingston, RI",2018-10-20
+4616,8043,"Olivette, MO",2018-10-20
+4617,8129,"Garden City, NY",2018-10-20
+4618,7710,"Fort Gibson, OK",2018-10-26
+4619,7935,"Osawatomie, KS",2018-10-26
+4620,8092,"Lynchburg, TN",2018-10-26
+4621,8093,"Lynchburg, TN",2018-10-26
+4622,7809,"Dallas, TX",2018-10-27
+4623,7611,"Currituck, NC",2018-11-02
+4624,7886,"Indio, CA",2018-11-02
+4625,8142,"Summerville, SC",2018-11-02
+4626,8133,"Indio, CA",2018-11-03
+4627,7504,"Springfield, MO",2018-11-09
+4628,7934,"Concord, NC",2018-11-09
+4629,8067,"Concord, NC",2018-11-09
+4630,8115,"Kansas City, MO",2018-11-10
+4631,7591,"Mt. Pleasant, SC",2018-11-16
+4632,8161,"Tuscumbia, AL",2018-11-16
