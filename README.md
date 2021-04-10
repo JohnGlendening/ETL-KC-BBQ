@@ -1,3 +1,13 @@
+1)	We pulled 3 csv files from Kaggle.com (competitions.csv, teams.csv, and results.csv). 
+
+2)	Using Jupyter Notebook to clean, filter, join, and aggregate data covering BBQ competitions held in Kansas City, MO, we were able to merge three distinct csv files into one cohesive data set. The first issue was figuring out how the three data sets related to one another. Once we had our keys to the data, we were able to merge the sets together. 
+First, we had to manipulate the columns in order to get rid of duplicates. Then we had to join the teams data with the results data through the team_id key. Once we had our joined data, we were able to bring in the competition data using competition_id merged with competition_id in our previous joined data set. 
+After we got all our data adjusted and joined, we were able to clean the data set by establishing which columns were necessary and which structure we wanted. From there we simply staged the data in pgAdmin. 
+3)	We placed the final data in PostgreSQL under the name Kansas_City_BBQ.
+
+4)	The data collected includes all of the results from barbeques in Kansas City, MO, the BBQ competitions that took place in Kansas City, MO, all of the teams that participated in those competitions in Kansas City, MO, and the results from those competitions in Kansas City, MO.
+
+
 # Guidelines for ETL Project
 
 This document contains guidelines, requirements, and suggestions for Project 1.
