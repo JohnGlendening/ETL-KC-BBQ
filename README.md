@@ -7,6 +7,69 @@ After we got all our data adjusted and joined, we were able to clean the data se
 
 4)	The data collected includes all of the results from barbeques in Kansas City, MO, the BBQ competitions that took place in Kansas City, MO, all of the teams that participated in those competitions in Kansas City, MO, and the results from those competitions in Kansas City, MO.
 
+ 
+
+Postgres Export
+-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
+-- Link to schema: https://app.quickdatabasediagrams.com/#/d/t4aEDe
+-- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
+
+
+CREATE TABLE "teams" (
+    "id" serial   NOT NULL,
+    "name" varchar(75)   NOT NULL,
+    CONSTRAINT "pk_teams" PRIMARY KEY (
+        "id"
+     )
+);
+
+CREATE TABLE "competitions_df" (
+    "id" serial   NOT NULL,
+    "kcbs_competition_id" int   NOT NULL,
+    "location" varchar(100)   NOT NULL,
+    "start_date" date   NOT NULL,
+    CONSTRAINT "pk_competitions_df" PRIMARY KEY (
+        "kcbs_competition_id"
+     )
+);
+
+CREATE TABLE "results" (
+    "id" serial   NOT NULL,
+    "competition_id" int   NOT NULL,
+    "team_id" int   NOT NULL,
+    "place_rank" int   NOT NULL,
+    "category" varchar(50)   NOT NULL,
+    CONSTRAINT "pk_results" PRIMARY KEY (
+        "id"
+     )
+);
+
+ALTER TABLE "teams" ADD CONSTRAINT "fk_teams_id" FOREIGN KEY("id")
+REFERENCES "results" ("team_id");
+
+ALTER TABLE "results" ADD CONSTRAINT "fk_results_competition_id" FOREIGN KEY("competition_id")
+REFERENCES "competitions_df" ("kcbs_competition_id");
+
+select teams.*, results.*, kc_bbq.*
+from kc_bbq inner join teams on kc_bbq.id = teams.id
+inner join results on kc_bbq.kcbs_competition_id = results.competition_id
+
+
+
+select teams.id, teams.name, results.id, results.competition_id, results.team_id, results.place_rank, results.category,  kc_bbq.id, kc_bbq.kcbs_competition_id, kc_bbq.location
+from kc_bbq inner join teams on kc_bbq.id = teams.id
+inner join results on kc_bbq.kcbs_competition_id = results.id
+
+select teams.name, 
+teams.id,
+results.place_rank,
+results.category,
+kc_bbq.location,
+kc_bbq.start_date
+from kc_bbq inner join teams on kc_bbq.id = teams.id
+inner join results on kc_bbq.kcbs_competition_id = results.competition_id
+
+
 
 # Guidelines for ETL Project
 
